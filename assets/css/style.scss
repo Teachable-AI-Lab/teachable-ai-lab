@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.list-thumb {
+    width: 175px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.left {
+    float: left;
+}
+
+.margin-20 {
+    margin: 20px;
+}
+
+.push_top{
+    padding-top: 40px;
+}
+
+.round-img {
+    border-radius: 50%;
+}

@@ -1,0 +1,72 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Teachable AI Lab
+email: christopher.maclellan@drexel.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  The Teachable AI Lab aims to understand how people teach and learn, so
+  we can build machines that can teach and learn like people do.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# google_analytics: UA-15912001-1
+disqus:
+    shortname: teachable-ai-lab
+
+twitter_username: christopia
+github_username:  cmaclell
+facebook_username: cmaclell
+linkedin_username: chris-maclellan-a423899
+linkedin_display_name: chris-maclellan
+research_gate_username: chris_maclellan
+google_scholar_username: q_K8iFQAAAAJ
+google_scholar_display_name: google scholar
+orcid_username: 0000-0003-3084-5189
+orcid_display_name: orcid
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages:
+  - about.md
+  - research.md
+  - people.md
+  - blog.md
+
+collections:
+  projects:
+    output: true
+  people:
+    output: true
+
+show_excerpts: true
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
