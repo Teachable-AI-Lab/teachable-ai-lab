@@ -52,8 +52,6 @@ header_pages:
 collections:
   projects:
     output: true
-  people:
-    output: true
 
 show_excerpts: true
 
