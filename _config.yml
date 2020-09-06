@@ -18,8 +18,8 @@ email: christopher.maclellan@drexel.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Teachable AI Lab aims to understand how people teach and learn, so
   we can build machines that can teach and learn like people do.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/teachable-ai-lab" # the subpath of your site, e.g. /blog
+url: "https://chrismaclellan.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # google_analytics: UA-15912001-1
 disqus:
