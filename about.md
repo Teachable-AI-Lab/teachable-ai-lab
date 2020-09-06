@@ -103,4 +103,4 @@ patterns people would naturally use with people.
 - Human like and human inspired
 
 
-[1]: /images/thrust-area-relationship.png
+[1]: images/thrust-area-relationship.png
