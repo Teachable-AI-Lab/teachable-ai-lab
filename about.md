@@ -4,8 +4,23 @@ permalink: /index.html
 title: ""
 ---
 
+![Teachable AI Lab Logo][2]{: .left .round-img .margin-20}
+
+<div markdown="1" class="left push_top">
+**Christopher J. MacLellan**<br>
+Assistant Professor<br>
+College of Computing and Informatics<br>
+Drexel University<br>
+<christopher.maclellan@drexel.edu>  
+
+</div>
+
+<div style="clear: both;"></div>
+
+
 ## Mission Statement
-To understand how people teach and learn, so we can build machines that can teach and learn like people do.
+To understand how people teach and learn, so we can build machines that can
+teach and learn like people do.
 
 ## Research Thrusts
 
@@ -102,5 +117,5 @@ patterns people would naturally use with people.
 - Test human thinking and learning theories / improve our understanding of people
 - Human like and human inspired
 
-
 [1]: {{ 'images/thrust-area-relationship.png' | relative_url }}
+[2]: {{ 'images/tai-logo.png' | relative_url }}
