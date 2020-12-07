@@ -1,7 +1,6 @@
 ---
 layout: page
-permalink: /index.html
-title: ""
+title: Research
 ---
 
 ## Mission Statement

@@ -45,8 +45,9 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
-  - research.md
   - people.md
+  - research.md
+  - publications.md
   - blog.md
 
 collections:
