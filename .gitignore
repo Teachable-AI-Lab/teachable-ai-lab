@@ -1,3 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# Vim swap/temp files
+*~
+*.swp
+*.swo
