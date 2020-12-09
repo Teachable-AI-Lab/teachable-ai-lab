@@ -14,27 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Teachable AI Lab
+logo: images/logo-website.png
 email: christopher.maclellan@drexel.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The Teachable AI Lab aims to understand how people teach and learn, so
-  we can build machines that can teach and learn like people do.
-baseurl: "/teachable-ai-lab" # the subpath of your site, e.g. /blog
-url: "https://chrismaclellan.com" # the base hostname & protocol for your site, e.g. http://example.com
+  The Teachable AI Lab aims to understand how people teach and learn and build
+  machines that can teach and learn like people do.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://tail.drexel.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # google_analytics: UA-15912001-1
 disqus:
     shortname: teachable-ai-lab
 
-twitter_username: christopia
-github_username:  cmaclell
-facebook_username: cmaclell
-linkedin_username: chris-maclellan-a423899
-linkedin_display_name: chris-maclellan
-research_gate_username: chris_maclellan
-google_scholar_username: q_K8iFQAAAAJ
-google_scholar_display_name: google scholar
-orcid_username: 0000-0003-3084-5189
-orcid_display_name: orcid
+twitter_username: TeachableAILab
+  # github_username:  cmaclell
+  # facebook_username: cmaclell
+  # linkedin_username: chris-maclellan-a423899
+  # linkedin_display_name: chris-maclellan
+  # research_gate_username: chris_maclellan
+  # google_scholar_username: q_K8iFQAAAAJ
+  # google_scholar_display_name: google scholar
+  # orcid_username: 0000-0003-3084-5189
+  # orcid_display_name: orcid
 
 # Build settings
 markdown: kramdown
@@ -51,6 +52,8 @@ header_pages:
   - blog.md
 
 collections:
+  people:
+    order: 2
   projects:
     output: true
 
