@@ -1,7 +1,7 @@
 ---
 title: Natural Training Interactions Testbed
 layout: post
-# img: /images/nti-testbed.png
+img: /images/nti-testbed.png
 date: 2020-09-06
 comments: false
 ---
