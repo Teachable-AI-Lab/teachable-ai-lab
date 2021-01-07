@@ -2,7 +2,7 @@
 title: Predicting Effects of HPO Interventions with Socio-Cognitive Agents that Leverage Individual Residuals (TAILOR)
 layout: post
 img: /images/TAIL-Predicted-vs-Actual.png
-date: 2020-09-06
+date: 2021-12-07
 comments: false
 ---
 
