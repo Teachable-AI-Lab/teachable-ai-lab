@@ -14,7 +14,7 @@ _use-inspired_ and _fundamental_ research to achieve this mission.
 
 ### What we do
 
-Our research research focuses primarily on three thrust areas: (1) **Teachable
+Our research focuses primarily on three thrust areas: (1) **Teachable
 Systems**, (2) **Human-Like AI/ML Models**, and (3) **Computational Models of
 Human Learning and Decision Making**. As highlighted in the following figure,
 these thrust areas are synergistic and support one another.
