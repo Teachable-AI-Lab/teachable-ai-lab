@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tail.drexel.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
-# google_analytics: UA-15912001-1
+google_analytics: G-H2MG4XNPEV
 disqus:
     shortname: teachable-ai-lab
 
