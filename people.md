@@ -3,6 +3,8 @@ layout: page
 title: People
 ---
 
+## People
+
 {% assign sorted = site.people | sort: 'order' | reverse %}
 {% for person in sorted %}
   <div class="person">

@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+## Lab Publications
+
 MacLellan, C.J., Koedinger, K.R. (2020). Domain General Tutor Authoring
 with Apprentice Learner Models. _International Journal of AI in Education_. 
 doi: [10.1007/s40593-020-00214-2][2] [<i class="far fa-file-pdf"></i>][3]
