@@ -31,4 +31,4 @@ Intelligence for K-12 Education_. [<i class="far fa-file-pdf"></i>][zhang-aaai-2
 [<i class="fab fa-youtube"></i>][zhang-aaai-2021-talk]
 
 [zhang-aaai-2021-talk]: https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13
-[zhang-aaai-2021]: files/Investigating-Knowledge-Tracing-Models-using-Simulated-Students.pdf
+[zhang-aaai-2021]: /files/Investigating-Knowledge-Tracing-Models-using-Simulated-Students.pdf
