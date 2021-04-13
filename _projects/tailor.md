@@ -30,11 +30,13 @@ Vs Actual]
 
 ### Relevant Publications
 
-MacLellan, C.J., Stowers, K., Brady, L. (2020). Optimizing Human Performance
-using Individualized Computational Models of Learning.  _Proceedings of the
-Eighth Annual Conference on Advances in Cognitive Systems_. [<i class="far
-fa-file-pdf"></i>][ACS 2020]
+MacLellan, C.J., Stowers, K., Brady, L. (2020). Optimizing Human 
+Performance using Individualized Computational Models of Learning. 
+_Proceedings of the Eighth Annual Conference on Advances in
+Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
+[<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
-[ACS 2020]: https://chrismaclellan.com/media/publications/MacLellan-ACS-2020.pdf
+[maclellan-2020-acs-talk]: https://www.youtube.com/watch?v=LpjXd2Xlqpo
+[maclellan-acs-2020]: https://chrismaclellan.com/media/publications/MacLellan-ACS-2020.pdf
 [ACS Predicted Vs Actual]: /images/TAIL-Predicted-vs-Actual.png
 
