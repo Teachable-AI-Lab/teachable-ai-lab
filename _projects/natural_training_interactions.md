@@ -10,6 +10,11 @@ Teachable AI (TAI) systems can significantly reduce the burden to create AI syst
 
 ### Relevant Publications
 
+Gupta, A., MacLellan, C.J. (2021). Designing Teachable Systems for
+Intelligent Tutor Authoring. _AAAI2021 Spring Symposium on Artificial
+Intelligence for K-12 Education_. [<i class="far fa-file-pdf"></i>][gupta-aaai-2021]
+[<i class="fab fa-youtube"></i>][gupta-aaai-2021-talk]
+
 MacLellan, C.J., Harpstead, E., Marinier III, R. P., Koedinger, K.R. (2018). A
 Framework for Natural Cognitive System Training Interactions. _Advances in
 Cognitive Systems_, 6, 177-192. [<i class="far fa-file-pdf"></i>][1]
@@ -18,6 +23,8 @@ Sheline, R. & MacLellan., C.J. (2018). Investigating Machine-Learning
 Interaction with Wizard-of-Oz Experiments. In _Proceedings of the NeurIPS 2018
 Workshop on Learning by Instruction_.[<i class="far fa-file-pdf"></i>][2]
 
+[gupta-aaai-2021-talk]: https://www.youtube.com/watch?v=UV7r9yvz5I0&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=12
+[gupta-aaai-2021]: files/Designing-Teachable-Systems-for-Intelligent-Tutor-Authoring.pdf
 [1]: https://chrismaclellan.com/media/publications/maclellan-2018.pdf
 [2]: https://chrismaclellan.com/media/publications/Sheline-2018.pdf
 
