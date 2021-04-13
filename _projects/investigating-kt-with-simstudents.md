@@ -22,3 +22,13 @@ correlation between the model parameters achieved from human data and the
 param- eters obtained from simulated learners. This finding suggests that it
 might be possible to initialize the parameters for knowledge tracing models
 using simulated data when no human student data is yet available.
+
+### Relevant Publications
+
+Zhang, Q., MacLellan C.J. (2021). Investigating Knowledge Tracing Models
+using Simulated Students. _AAAI2021 Spring Symposium on Artificial
+Intelligence for K-12 Education_. [<i class="far fa-file-pdf"></i>][zhang-aaai-2021]
+[<i class="fab fa-youtube"></i>][zhang-aaai-2021-talk]
+
+[zhang-aaai-2021-talk]: https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13
+[zhang-aaai-2021]: files/Investigating-Knowledge-Tracing-Models-using-Simulated-Students.pdf
