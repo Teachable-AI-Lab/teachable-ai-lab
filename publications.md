@@ -27,9 +27,9 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
 [zhang-aaai-2021-talk]: https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13
-[zhang-aaai-2021]: files/Investigating-Knowledge-Tracing-Models-using-Simulated-Students.pdf
+[zhang-aaai-2021]: /files/Investigating-Knowledge-Tracing-Models-using-Simulated-Students.pdf
 [gupta-aaai-2021-talk]: https://www.youtube.com/watch?v=UV7r9yvz5I0&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=12
-[gupta-aaai-2021]: files/Designing-Teachable-Systems-for-Intelligent-Tutor-Authoring.pdf
+[gupta-aaai-2021]: /files/Designing-Teachable-Systems-for-Intelligent-Tutor-Authoring.pdf
 [maclellan-ijaied-2020]: https://link.springer.com/content/pdf/10.1007/s40593-020-00214-2.pdf
 [maclellan-ijaied-2020-doi]: https://dx.doi.org/10.1007/s40593-020-00214-2
 [maclellan-2020-acs-talk]: https://www.youtube.com/watch?v=LpjXd2Xlqpo
