@@ -24,7 +24,7 @@ Interaction with Wizard-of-Oz Experiments. In _Proceedings of the NeurIPS 2018
 Workshop on Learning by Instruction_.[<i class="far fa-file-pdf"></i>][2]
 
 [gupta-aaai-2021-talk]: https://www.youtube.com/watch?v=UV7r9yvz5I0&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=12
-[gupta-aaai-2021]: files/Designing-Teachable-Systems-for-Intelligent-Tutor-Authoring.pdf
+[gupta-aaai-2021]: /files/Designing-Teachable-Systems-for-Intelligent-Tutor-Authoring.pdf
 [1]: https://chrismaclellan.com/media/publications/maclellan-2018.pdf
 [2]: https://chrismaclellan.com/media/publications/Sheline-2018.pdf
 
