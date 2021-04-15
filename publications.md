@@ -5,6 +5,10 @@ title: Publications
 
 ## Lab Publications
 
+Stowers, K., Brady, L., **MacLellan, C.J.**, Wohleber, R., Salas, R. (in press).
+Improving Teamwork Competencies in Human-Machine Teams: Perspectives from Team
+Science. _Frontiers in Psychology_.
+
 Zhang, Q., MacLellan C.J. (2021). Investigating Knowledge Tracing Models
 using Simulated Students. _AAAI2021 Spring Symposium on Artificial
 Intelligence for K-12 Education_. [<i class="far fa-file-pdf"></i>][zhang-aaai-2021]
