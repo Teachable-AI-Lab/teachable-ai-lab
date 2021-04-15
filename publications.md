@@ -5,7 +5,7 @@ title: Publications
 
 ## Lab Publications
 
-Stowers, K., Brady, L., **MacLellan, C.J.**, Wohleber, R., Salas, R. (in press).
+Stowers, K., Brady, L., MacLellan, C.J., Wohleber, R., Salas, R. (in press).
 Improving Teamwork Competencies in Human-Machine Teams: Perspectives from Team
 Science. _Frontiers in Psychology_.
 
