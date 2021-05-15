@@ -12,7 +12,7 @@ Data Mining_. [(pdf)][maclellan-edm-2021]
 
 Zhang, Q., MacLellan, C.J. (2021). Investigating Knowledge Tracing
 Models using Simulated Students. _Proceedings of the Fourteenth
-International Conference on Educational Data Mining_. [(pdf)][zhang-2021]
+International Conference on Educational Data Mining_. [(pdf)][zhang-edm-2021]
 
 Stowers, K., Brady, L., MacLellan, C.J., Wohleber, R., Salas, R. (in press).
 Improving Teamwork Competencies in Human-Machine Teams: Perspectives from Team
