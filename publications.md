@@ -5,6 +5,15 @@ title: Publications
 
 ## Lab Publications
 
+MacLellan, C.J., Gupta, A. (2021). Learning Expert Models for
+Educationally Relevant Tasksusing Reinforcement Learning.
+_Proceedings of the Fourteenth International Conference on Educational
+Data Mining_. [(pdf)][maclellan-edm-2021]
+
+Zhang, Q., MacLellan, C.J. (2021). Investigating Knowledge Tracing
+Models using Simulated Students. _Proceedings of the Fourteenth
+International Conference on Educational Data Mining_. [(pdf)][zhang-2021]
+
 Stowers, K., Brady, L., MacLellan, C.J., Wohleber, R., Salas, R. (in press).
 Improving Teamwork Competencies in Human-Machine Teams: Perspectives from Team
 Science. _Frontiers in Psychology_.
@@ -30,6 +39,8 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[maclellan-edm-2021]: /files/maclellan-edm-2021.pdf
+[zhang-edm-2021]: /files/zhang-edm-2021.pdf
 [zhang-aaai-2021-talk]: https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13
 [zhang-aaai-2021]: /files/Investigating-Knowledge-Tracing-Models-using-Simulated-Students.pdf
 [gupta-aaai-2021-talk]: https://www.youtube.com/watch?v=UV7r9yvz5I0&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=12
