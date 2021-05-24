@@ -16,7 +16,7 @@ International Conference on Educational Data Mining_. [(pdf)][zhang-edm-2021]
 
 Stowers, K., Brady, L., MacLellan, C.J., Wohleber, R., Salas, R. (in press).
 Improving Teamwork Competencies in Human-Machine Teams: Perspectives from Team
-Science. _Frontiers in Psychology_.
+Science. _Frontiers in Psychology_. doi: [10.3389/fpsyg.2021.590290][stowers-2021]
 
 Zhang, Q., MacLellan C.J. (2021). Investigating Knowledge Tracing Models
 using Simulated Students. _AAAI2021 Spring Symposium on Artificial
@@ -39,6 +39,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[stowers-2021]: https://doi.org/10.3389/fpsyg.2021.590290
 [maclellan-edm-2021]: https://chrismaclellan.com/media/publications/MacLellan-EDM-2021.pdf
 [zhang-edm-2021]: https://chrismaclellan.com/media/publications/Zhang-EDM-2021.pdf
 [zhang-aaai-2021-talk]: https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13
