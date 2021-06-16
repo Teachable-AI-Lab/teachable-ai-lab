@@ -31,7 +31,7 @@ Intelligence for K-12 Education_. [<i class="far fa-file-pdf"></i>][gupta-aaai-2
 MacLellan, C.J., Koedinger, K.R. (2020). Domain General Tutor Authoring
 with Apprentice Learner Models. _International Journal of AI in Education_. 
 doi: [10.1007/s40593-020-00214-2][maclellan-ijaied-2020-doi]
-[<i class="far fa-file-pdf"></i>][maclellan-ijaied-2020]
+[<i class="far fa-file-pdf"></i>][maclellan-ijaied-2020] [<i class="fab fa-youtube"></i>][ijaied-aied21-talk]
 
 MacLellan, C.J., Stowers, K., Brady, L. (2020). Optimizing Human 
 Performance using Individualized Computational Models of Learning. 
@@ -39,6 +39,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[ijaied-aied21-talk]: https://1513041.mediaspace.kaltura.com/media/Domain-General+Tutor+Authoring+with+Apprentice+Learner+Models/1_3cr9bwtc
 [stowers-2021]: https://doi.org/10.3389/fpsyg.2021.590290
 [maclellan-edm-2021]: https://chrismaclellan.com/media/publications/MacLellan-EDM-2021.pdf
 [zhang-edm-2021]: https://chrismaclellan.com/media/publications/Zhang-EDM-2021.pdf
