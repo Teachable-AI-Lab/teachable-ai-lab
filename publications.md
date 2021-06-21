@@ -8,7 +8,7 @@ title: Publications
 MacLellan, C.J., Gupta, A. (2021). Learning Expert Models for
 Educationally Relevant Tasksusing Reinforcement Learning.
 _Proceedings of the Fourteenth International Conference on Educational
-Data Mining_. [(pdf)][maclellan-edm-2021]
+Data Mining_. [(pdf)][maclellan-edm-2021] [<i class="fab fa-youtube"></i>][maclellan-edm-2021-talk]
 
 Zhang, Q., MacLellan, C.J. (2021). Investigating Knowledge Tracing
 Models using Simulated Students. _Proceedings of the Fourteenth
@@ -39,6 +39,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[maclellan-edm-2021-talk]: https://www.youtube.com/watch?v=WD3fujvp86Q
 [ijaied-aied21-talk]: https://1513041.mediaspace.kaltura.com/media/Domain-General+Tutor+Authoring+with+Apprentice+Learner+Models/1_3cr9bwtc
 [stowers-2021]: https://doi.org/10.3389/fpsyg.2021.590290
 [maclellan-edm-2021]: https://chrismaclellan.com/media/publications/MacLellan-EDM-2021.pdf
