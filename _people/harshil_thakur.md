@@ -4,7 +4,7 @@ role: Undergraduate Student
 profile_pic: /images/harshil_profile.jpg
 email: ht377@drexel.edu
 website: https://tail.cci.drexel.edu
-category: past
+category: current
 
 ---
 
