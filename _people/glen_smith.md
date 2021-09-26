@@ -1,5 +1,5 @@
 ---
-name: Adit Gupta
+name: Glen Smith
 role: PhD Student
 profile_pic: /images/glen_profile.jpg
 email: gs675@drexel.edu
