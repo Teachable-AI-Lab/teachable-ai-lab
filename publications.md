@@ -13,8 +13,8 @@ Educationally Relevant Tasksusing Reinforcement Learning.
 _Proceedings of the Fourteenth International Conference on Educational
 Data Mining_. [(pdf)][maclellan-edm-2021] [<i class="fab fa-youtube"></i>][maclellan-edm-2021-talk]
 
-Zhang, Q., MacLellan, C.J. (2021). Investigating Knowledge Tracing
-Models using Simulated Students. _Proceedings of the Fourteenth
+Zhang, Q., MacLellan, C.J. (2021). Going Online: A simulated student approach for evaluating
+knowledge tracing in the context of mastery learning. _Proceedings of the Fourteenth
 International Conference on Educational Data Mining_. [(pdf)][zhang-edm-2021] [<i class="fab fa-youtube"></i>][zhang-edm-2021-talk]
 
 Stowers, K., Brady, L., MacLellan, C.J., Wohleber, R., Salas, R. (in press).
