@@ -5,7 +5,7 @@ title: Publications
 
 ## Lab Publications
 
-**MacLellan., C.J.** & Thakur, H. (2021). Convolutional Cobweb: A Model of Incremental Learning from 2D Images.
+MacLellan., C.J. & Thakur, H. (2021). Convolutional Cobweb: A Model of Incremental Learning from 2D Images.
 In _Proceedings of the Ninth Annual Conference on Advances in Cognitive Systems_.
 [(pdf)][maclellan-acs-21] [<i class="fab fa-youtube"></i>][maclellan-acs-21-talk]
 
