@@ -10,7 +10,7 @@ In _Proceedings of the Ninth Annual Conference on Advances in Cognitive Systems_
 [(pdf)][maclellan-acs-21] [<i class="fab fa-youtube"></i>][maclellan-acs-21-talk]
 
 MacLellan, C.J., Gupta, A. (2021). Learning Expert Models for
-Educationally Relevant Tasksusing Reinforcement Learning.
+Educationally Relevant Tasks using Reinforcement Learning.
 _Proceedings of the Fourteenth International Conference on Educational
 Data Mining_. [(pdf)][maclellan-edm-2021] [<i class="fab fa-youtube"></i>][maclellan-edm-2021-talk]
 
