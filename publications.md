@@ -5,6 +5,11 @@ title: Publications
 
 ## Lab Publications
 
+Smith, G.\*, Zhang, Q.\*, MacLellan, C.J. (2022). Do it Like the Doctor: How We Can
+Design a Model That Uses Domain Knowledge to Diagnose Pneumothorax.
+In _Proceedings of the AAAI Spring Symposium on Machine Learning and Knowledge Engineering_.
+(\* are co-first authors) [(pdf)][smith-make-22] [<i class="fab fa-youtube"></i>][smith-make-22-talk]
+
 MacLellan., C.J. & Thakur, H. (2021). Convolutional Cobweb: A Model of Incremental Learning from 2D Images.
 In _Proceedings of the Ninth Annual Conference on Advances in Cognitive Systems_.
 [(pdf)][maclellan-acs-21] [<i class="fab fa-youtube"></i>][maclellan-acs-21-talk]
@@ -43,6 +48,8 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[smith-make-22-talk]: https://www.youtube.com/watch?v=hKtjlMX9n0c
+[smith-make-22]: https://doi.org/10.48550/arXiv.2205.12159
 [maclellan-acs-21-talk]: https://youtu.be/YJPrrfdRxQ8
 [maclellan-acs-21]: https://chrismaclellan.com/media/publications/MacLellan-ACS-21.pdf
 [zhang-edm-2021-talk]: https://www.youtube.com/watch?v=NwmeShqfOI4
