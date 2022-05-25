@@ -7,7 +7,8 @@ title: Publications
 
 Smith, G.\*, Zhang, Q.\*, MacLellan, C.J. (2022). Do it Like the Doctor: How We Can
 Design a Model That Uses Domain Knowledge to Diagnose Pneumothorax.
-In _Proceedings of the AAAI Spring Symposium on Machine Learning and Knowledge Engineering_.
+In _Proceedings of the AAAI 2022 Spring Symposium on Machine Learning and Knowledge Engineering for
+Hybrid Intelligence (AAAI-MAKE 2022)_.
 (\* are co-first authors) [(pdf)][smith-make-22] [<i class="fab fa-youtube"></i>][smith-make-22-talk]
 
 MacLellan., C.J. & Thakur, H. (2021). Convolutional Cobweb: A Model of Incremental Learning from 2D Images.
