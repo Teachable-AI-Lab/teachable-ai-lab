@@ -28,7 +28,7 @@ Zhang, Q., MacLellan, C.J. (2021). Going Online: A simulated student approach fo
 knowledge tracing in the context of mastery learning. _Proceedings of the Fourteenth
 International Conference on Educational Data Mining_. [(pdf)][zhang-edm-2021] [<i class="fab fa-youtube"></i>][zhang-edm-2021-talk]
 
-Stowers, K., Brady, L., MacLellan, C.J., Wohleber, R., Salas, R. (in press).
+Stowers, K., Brady, L., MacLellan, C.J., Wohleber, R., Salas, R. (2021).
 Improving Teamwork Competencies in Human-Machine Teams: Perspectives from Team
 Science. _Frontiers in Psychology_. doi: [10.3389/fpsyg.2021.590290][stowers-2021]
 
