@@ -5,6 +5,10 @@ title: Publications
 
 ## Lab Publications
 
+Zhang, Q., MacLellan, C.J. (2022). (A)I Will Teach You to Play Gomoku: Exploring the
+Use of Game AI to Teach People. In _L@S '22: Proceedings of the Ninth ACM Conference
+on Learning @ Scale_. [(pdf)][zhang-las-22-talk-and-paper] [<i class="fab fa-youtube"></i>][zhang-las-22-talk-and-paper]
+
 Smith, G.\*, Zhang, Q.\*, MacLellan, C.J. (2022). Do it Like the Doctor: How We Can
 Design a Model That Uses Domain Knowledge to Diagnose Pneumothorax.
 In _Proceedings of the AAAI 2022 Spring Symposium on Machine Learning and Knowledge Engineering for
@@ -49,6 +53,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[zhang-las-22-talk-and-paper]: https://dl.acm.org/doi/10.1145/3491140.3528331
 [smith-make-22-talk]: https://www.youtube.com/watch?v=hKtjlMX9n0c
 [smith-make-22]: https://doi.org/10.48550/arXiv.2205.12159
 [maclellan-acs-21-talk]: https://youtu.be/YJPrrfdRxQ8
