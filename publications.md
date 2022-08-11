@@ -7,7 +7,7 @@ title: Publications
 
 Zhang, Q., Chen, Z., Lalwani, N., MacLellan, C.J. (2022). Modifying Deep Knowledge Tracing
 for Multi-step Problems. In _Proceedings of the 15th International Conference on Educational
-Data Mining_. [(pdf)][zhang-edm-22-paper] [(poster)][zhang-edm-22-poster] [<i class="fab fa-youtube"></i>][zhang-las-22-talk-and-video]
+Data Mining_. [(pdf)][zhang-edm-22-paper] [(poster)][zhang-edm-22-poster] [<i class="fab fa-youtube"></i>][zhang-edm-22-video]
 
 Zhang, Q., MacLellan, C.J. (2022). (A)I Will Teach You to Play Gomoku: Exploring the
 Use of Game AI to Teach People. In _L@S '22: Proceedings of the Ninth ACM Conference
