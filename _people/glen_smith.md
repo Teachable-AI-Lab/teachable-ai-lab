@@ -3,7 +3,7 @@ name: Glen Smith
 role: PhD Student
 profile_pic: /images/glen_profile.jpg
 email: gs675@drexel.edu
-website: https://tail.cci.drexel.edu
+website: https://tail.cc.gatech.edu
 category: current
 
 ---
