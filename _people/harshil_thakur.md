@@ -4,8 +4,8 @@ role: Undergraduate Student
 profile_pic: /images/harshil_profile.jpg
 email: ht377@drexel.edu
 website: https://tail.cci.drexel.edu
-category: current
+category: past
 
 ---
 
-Harshil is an undergraduate student in the Computer Science Department.
+Harshil is an undergraduate student in the Computer Science Department. He participated in the lab through the Drexel STAR program.

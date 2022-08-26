@@ -4,7 +4,7 @@ role: Master's Student
 profile_pic: /images/natasha_profile.jpg
 email: nl498@drexel.edu
 website: https://tail.cci.drexel.edu
-category: current
+category: past
 
 ---
 

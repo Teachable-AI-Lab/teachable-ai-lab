@@ -7,7 +7,7 @@ permalink: /index.html
 ### Who we are
 
 The Teachable AI Lab (or TAIL for short) is an interdisciplinary research group at
-[Drexel University][drexel home]'s [College of Computing and Informatics][cci
+[Georgia Institute of Technology][gt home]'s [School of Interactive Computing][ic
 home]. Our mission is to better understand how people teach and learn and to
 build machines that can teach and learn like people do. We engage in both
 _use-inspired_ and _fundamental_ research to achieve this mission.
@@ -53,10 +53,10 @@ values we aspire to, and expectations for lab members.
 ### Interested in getting involved?
 
 Please send an email briefly detailing your background and interests to
-[Christopher MacLellan](mailto:christopher.maclellan@drexel.edu).
+[Christopher MacLellan](mailto:cmaclell@gatech.edu).
 
 [lab vision blogpost]: /vision/2020/12/08/Research-Vision.html
 [lab manual]: files/Teachable-AI-Lab-Manual.pdf
-[drexel home]: https://drexel.edu
-[cci home]: https://cci.drexel.edu
+[gt home]: https://gatech.edu
+[ic home]: https://ic.gatech.edu
 [research thrusts]: {{ 'images/Research-Thrusts.png' | relative_url }}
