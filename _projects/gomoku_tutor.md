@@ -1,7 +1,7 @@
 ---
 title: (A)I Can Play Gomoku
 layout: post
-img: /images/gomoku_tutor.png
+img: /images/gomoku_tutor.gif
 date: 2022-10-28
 comments: false
 ---
