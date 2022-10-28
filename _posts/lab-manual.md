@@ -6,3 +6,5 @@ categories: vision
 author: Christopher J. MacLellan
 comments: false
 ---
+
+This will be our lab manual.
