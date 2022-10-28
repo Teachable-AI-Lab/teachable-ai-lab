@@ -2,7 +2,7 @@
 title: Hierarchical Task Networks for Machine Teaching and Human-Machine Teaming
  and Human-Machine Teaming
 layout: post
-img: /images/gomoku_tutor.png
+img: /images/HTN_Fractions_Mult_Example.png
 date: 2022-10-28
 comments: false
 ---
