@@ -6,9 +6,9 @@ date: 2022-10-28
 comments: false
 ---
 
-[tutor interface]
-
 Apprentice tutors is a platform for authoring and deploying tutors capable of providing personalized education of AI concepts at scale. We engineered the Apprentice tutors to provide adaptive problem capabilities using Bayesian Knowledge Tracing (BKT) to engage students with question types targeting knowledge components needing the most improvement. We aim to provide this tutor as a supplement to in-class instruction. Our work showcases the promise of expanding equitable and personalized AI education throughout higher education to enable students to learn in scenarios where a human-AI expert instructor might not be readily available.
+
+![tutor interface]
 
 ### Relevant Publications
 
