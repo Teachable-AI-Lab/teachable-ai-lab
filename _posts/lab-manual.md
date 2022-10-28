@@ -447,6 +447,4 @@ All research funded by external grants _must_ acknowledge the funding agency and
 
 [https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
-17
-
 
