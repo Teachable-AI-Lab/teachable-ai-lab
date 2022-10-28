@@ -1,6 +1,5 @@
 ---
 title: Hierarchical Task Networks for Machine Teaching and Human-Machine Teaming
- and Human-Machine Teaming
 layout: post
 img: /images/HTN_Fractions_Mult_Example.png
 date: 2022-10-28
