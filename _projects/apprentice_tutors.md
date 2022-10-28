@@ -29,4 +29,4 @@ Int J Artif Intell Educ 32, 76–117 (2022). https://doi.org/10.1007/s40593-020-
 [domain-general-paper]: https://1513041.mediaspace.kaltura.com/media/Domain-General+Tutor+Authoring+with+Apprentice+Learner+Models/1_3cr9bwtc
 [domain-general-talk]: https://link.springer.com/article/10.1007/s40593-020-00214-2
 
-[tutor interface]: /apprentice_tutors.png
+[tutor interface]: /images/apprentice_tutors.png
