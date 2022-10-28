@@ -1,7 +1,7 @@
 ---
 title: POCUS AI
 layout: post
-img: /images/gomoku_tutor.png
+img: /images/pocus-pnb.gif
 date: 2022-10-28
 comments: false
 ---
