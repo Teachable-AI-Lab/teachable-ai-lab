@@ -56,7 +56,7 @@ Please send an email briefly detailing your background and interests to
 [Christopher MacLellan](mailto:cmaclell@gatech.edu).
 
 [lab vision blogpost]: /vision/2020/12/08/Research-Vision.html
-[lab manual]: files/Teachable-AI-Lab-Manual.pdf
+[lab manual]: /vision/2022/10/28/Lab-Manual.html
 [gt home]: https://gatech.edu
 [ic home]: https://ic.gatech.edu
 [research thrusts]: {{ 'images/Research-Thrusts.png' | relative_url }}
