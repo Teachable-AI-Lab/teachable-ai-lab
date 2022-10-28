@@ -1,7 +1,7 @@
 ---
 title: Investigating Knowledge Tracing using Simulated Students 
 layout: post
-img: /images/bkt_streak_random.png
+img: /images/T6R1C0_all_afmS.png
 date: 2021-12-07
 comments: false
 ---
