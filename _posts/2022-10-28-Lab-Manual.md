@@ -7,8 +7,6 @@ author: Christopher J. MacLellan
 comments: false
 ---
 
-# Lab Manual
-
 Teachable AI Lab
 
 # Table of Contents
