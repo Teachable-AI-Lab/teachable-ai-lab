@@ -7,8 +7,6 @@ author: Christopher J. MacLellan
 comments: false
 ---
 
-Teachable AI Lab
-
 # Table of Contents
 
 **[Welcome!](#_Toc51169088)**
