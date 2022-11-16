@@ -78,7 +78,7 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [maclellan-acs-21]: https://chrismaclellan.com/media/publications/MacLellan-ACS-21.pdf
 [zhang-edm-2021-talk]: https://www.youtube.com/watch?v=NwmeShqfOI4
 [maclellan-edm-2021-talk]: https://www.youtube.com/watch?v=WD3fujvp86Q
-[ijaied-aied21-talk]: https://1513041.mediaspace.kaltura.com/media/Domain-General+Tutor+Authoring+with+Apprentice+Learner+Models/1_3cr9bwtc
+[ijaied-aied21-talk]: https://www.youtube.com/watch?v=_5x8JyJYkHU
 [stowers-2021]: https://doi.org/10.3389/fpsyg.2021.590290
 [maclellan-edm-2021]: https://chrismaclellan.com/media/publications/MacLellan-EDM-2021.pdf
 [zhang-edm-2021]: https://chrismaclellan.com/media/publications/Zhang-EDM-2021.pdf
