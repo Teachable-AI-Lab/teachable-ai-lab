@@ -12,7 +12,7 @@ the AAAI/ACM SIGAI New and Future AI Educator Program. AI Matters, 8(2), 16-21.
 
 MacLellan, C.J., Matsakis, P., & Langley, P. (2022). Efficient Induction of Language Models
 via Probabilistic Concept Formation. In Proceedings of the Tenth Annual Conference on
-Advances in Cognitive Systems. 
+Advances in Cognitive Systems. [(pdf)][maclellan-acs-22] [<i class="fab fa-youtube"></i>][maclellan-acs-22-video]
 
 Zhang, Q., Chen, Z., Lalwani, N., MacLellan, C.J. (2022). Modifying Deep Knowledge Tracing
 for Multi-step Problems. In _Proceedings of the 15th International Conference on Educational
@@ -66,6 +66,8 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[maclellan-acs-22-video]: https://www.youtube.com/watch?v=ACTJaLlup-I
+[maclellan-acs-22]: https://chrismaclellan.com/media/publications/maclellan-acs-22.pdf
 [ai-matters-22]: https://sigai.acm.org/static/aimatters/8-2/AIMatters-8-2-04-Guerzhoy.pdf
 [zhang-edm-22-video]: https://www.youtube.com/watch?v=pSmxlBQC76g
 [zhang-edm-22-poster]: https://chrismaclellan.com/media/publications/zhang-edm-22-poster.pdf
