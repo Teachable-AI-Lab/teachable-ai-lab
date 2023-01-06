@@ -7,105 +7,9 @@ author: Christopher J. MacLellan
 comments: false
 ---
 
-# Table of Contents
-
-**[Welcome!](#_Toc51169088)**
-
-**[Lab Purpose](#_Toc51169089)**
-
-**[Mission Statement](#_Toc51169090)**
-
-**[Research Thrusts](#_Toc51169091)**
-
-[Thrust 1: Teachable Systems](#_Toc51169092)
-
-[Thrust 2: Human-like AI/ML](#_Toc51169093)
-
-[Thrust 3: Computational Models of Human Learning:](#_Toc51169094)
-
-**[Application Areas](#_Toc51169095)**
-
-[Educational Technologies:](#_Toc51169096)
-
-[Web-based Personal Assistant:](#_Toc51169097)
-
-[Virtual-Physical Personal Agent](#_Toc51169098)
-
-**[Expectations and Responsibilities](#_Toc51169099)**
-
-**[Everyone](#_Toc51169100)**
-
-[Big Picture](#_Toc51169101)
-
-[Small Picture](#_Toc51169102)
-
-**[Principal Investigator](#_Toc51169103)**
-
-**[Post-Docs](#_Toc51169104)**
-
-**[Graduate Students](#_Toc51169105)**
-
-**[Undergraduate Students](#_Toc51169106)**
-
-**[Code of Conduct](#_Toc51169107)**
-
-**[Essential Policies](#_Toc51169108)**
-
-**[Taking Photos & Videos](#_Toc51169109)**
-
-**[Scientific Integrity](#_Toc51169110)**
-
-[Research (Mis)conduct](#_Toc51169111)
-
-[Intellectual Property](#_Toc51169112)
-
-[Reproducible Research](#_Toc51169113)
-
-[Authorship](#_Toc51169114)
-
-[Old projects](#_Toc51169115)
-
-**[Human Subjects Research](#_Toc51169116)**
-
-**[Lab Resources](#_Toc51169117)**
-
-**[General Policies](#_Toc51169118)**
-
-**[Hours](#_Toc51169119)**
-
-**[PI Office Hours](#_Toc51169120)**
-
-**[Meetings](#_Toc51169121)**
-
-[Weekly Lab Meetings](#_Toc51169122)
-
-[Individual Meetings](#_Toc51169123)
-
-**[Deadlines](#_Toc51169124)**
-
-**[Presentations](#_Toc51169125)**
-
-**[Lab Travel](#_Toc51169126)**
-
-**[Recommendation Letters](#_Toc51169127)**
-
-**[Code and Data Management](#_Toc51169128)**
-
-[Code Storage](#_Toc51169129)
-
-[Storing Active Datasets](#_Toc51169130)
-
-**[Data Organization](#_Toc51169131)**
-
-[Archiving Inactive Datasets](#_Toc51169132)
-
-[Open Science](#_Toc51169133)
-
-**[Funding](#_Toc51169134)**
-
 # Welcome!
 
-It looks like you recently joined the Teachable AI Lab in Drexel University's Information Science department. That's great! We're really glad to have you here and will do what we can to make your time in the lab amazing. We hope you'll learn a lot about human-computer interaction, artificial intelligence, machine learning, and computer science, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
+It looks like you recently joined the Teachable AI Lab in Georgia Institute of Technology (Georgia Tech)’s School of Interactive Computing. That's great! We're really glad to have you here and will do what we can to make your time in the lab amazing. We hope you'll learn a lot about human-computer interaction, artificial intelligence, machine learning, and computer science, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
 
 This lab manual was inspired by several others, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual), [this one](https://github.com/memobc/memolab-manual), and [this one](http://jpeelle.net/peellelab_manual.pdf)). It's also a work in progress. If you have ideas about things to add, or what to clarify, talk to me (Chris, the PI).
 
@@ -238,7 +142,7 @@ All of the [above](#_Everyone_1), and you will also be expected to…
 
 ## Essential Policies
 
-The lab, and the university, is an environment that must be free of harassment and discrimination. All lab members are expected to abide by the Drexel University's policies on discrimination and harassment, which you can (and must) read about [here](https://drexel.edu/oed/reporting/OED-1/). Essential policies of Drexel University can be accessed [here](https://drexel.edu/oed/policies/overview/).
+The lab, and the university, is an environment that must be free of harassment and discrimination. All lab members are expected to abide by the Georgia Institute of Technology's policies on discrimination and harassment, which you can (and must) read about [here](https://www.policylibrary.gatech.edu/employment/equal-opportunity-nondiscrimination-and-anti-harassment-policy?_ga=2.68677593.938462633.1673031499-1481929404.1673031499). Essential policies of Georgia Tech can be accessed [here](https://www.policylibrary.gatech.edu).
 
 The lab is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We will not tolerate intimidation, stalking, following, unwanted photography or video recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Finally, it should go without saying that lewd language and behavior have no place in the lab, including any lab outings.
 
@@ -256,23 +160,23 @@ On a related note, you cannot photograph your participants during an experiment.
 
 ### Research (Mis)conduct
 
-The lab, and Drexel University, is committed to ensuring research integrity, and we take a hard line on research misconduct. We will not tolerate fabrication, falsification, or plagiarism. Read Drexel's policies on the conduct of research carefully (main page [here](https://drexel.edu/provost/policies/conduct_of_research/)).
+The lab, and Georgia Tech, is committed to ensuring research integrity, and we take a hard line on research misconduct. We will not tolerate fabrication, falsification, or plagiarism. Read Georgia Tech's policies on the conduct of research carefully (main page [here](https://www.policylibrary.gatech.edu/research)).
 
 A big problem is why people feel the need to engage in misconduct in the first place, and that's a discussion that we can have. If you are feeling pressured to succeed (publish a lot, publish in high impact journals), you should reach out to Chris and we can talk about it – but this pressure is something we all face and is never an excuse to fabricate, falsify, or plagiarize. Also, think about the goal of science and why you are here: you're here to arrive at the truth, to get as close as we can to facts about how people and machines teach and learn. Not only is research misconduct doing you a disservice, it's also a disservice to the field. And it risks your entire career. It is never right and never worth it. Don't do it.
 
 ### Intellectual Property
 
-Drexel University has a number of policies that govern ownership and commercialization of intellectual property created within the Teachable AI Lab and you should familiarize yourself with the intellectual property policy, found [here](https://drexel.edu/provost/policies/intellectual_property/).
+ has a number of policies that govern ownership and commercialization of intellectual property created within the Teachable AI Lab and you should familiarize yourself with the intellectual property policy, found [here](https://drexel.edu/provost/policies/intellectual_property/).
 
-A key item within this policy concerns ownership of any created intellectual property, see item 3 in the Drexel intellectual property policy [note I added highlighting for emphasis]:
+A key item within this policy concerns ownership of any created intellectual property, see item 3 in the Georgia Tech intellectual property policy [note I added highlighting for emphasis]:
 
 "_The University acknowledges that_ _copyrightable works of Personnel and Students that are typically submitted and accepted for scholarly publication, such as a thesis, journal article or text book, or are traditionally owned by Personnel and Students, such as paintings, musical compositions, video and film productions, and online or face-to-face instructional or Course Materials (each, a "Scholarly Work"), will be owned by the Creator,_ _unless authored or created with support from an outside sponsor, in which case ownership shall be governed by the relevant provisions in the applicable sponsorship agreement, grant or contract. In the event that a Scholarly Work would be treated as a work made for hire under federal copyright law, the University disclaims any ownership rights in such Scholarly Work, other than the reservation of rights in Section 4(h) below, and will confirm such disclaimer pursuant to the Agreement Concerning Intellectual Property (Appendix A) (each, an "Agreement"). The University further acknowledges that_ _copyrightable works that are created either by Personnel or Students outside of the scope of their employment or engagement by the University and without substantial use of the facilities or resources of the University (each, an "Individual Work"), will belong to the Creator__._ _All copyrightable works that (i) are neither Scholarly Works nor Individual Works, (ii) are created by Personnel, Students or others authorized to use the facilities or resources of the University, and (iii) utilize any University resources in their creation (each, a "Commercial Work") will be the sole property of the University__. Where applicable, Commercial Works will be treated as works made for hire under federal copyright law. Examples of Commercial Works would include: the text of an invention disclosure written to be used in a patent application;_ _the source code and documentation for a new computer software program__; and a new copyrightable teaching tool specifically commissioned by the University, typically via a separate contract between the University and a faculty member. Also, all original data, notebooks, laboratory records and other documents whether in paper or electronic format relating to Inventions owned by the University or arising from research performed at the University will be treated as Commercial Works and subject to the University's Conduct of Research Policy."_
 
-To summarize this above text, if you create "scholarly work" (i.e., papers, theses, etc.) or "individual work" (things you create without using university resources on your own time), then the copyrights belong to you. However, anything else (including software), that you create using university resources and using time funded by the Teachable AI lab belongs to Drexel University (the policy refers to these artifacts as "commercial works"). Note, there are key exceptions to this policy that you should familiarize yourself with in sections 4 of the policy (e.g., undergraduates that are not employed by the university, sponsored by the lab, nor make substantial use of university facilities retain all rights to anything they create).
+To summarize this above text, if you create "scholarly work" (i.e., papers, theses, etc.) or "individual work" (things you create without using university resources on your own time), then the copyrights belong to you. However, anything else (including software), that you create using university resources and using time funded by the Teachable AI lab belongs to Georgia Tech (the policy refers to these artifacts as "commercial works"). Note, there are key exceptions to this policy that you should familiarize yourself with in sections 4 of the policy (e.g., undergraduates that are not employed by the university, sponsored by the lab, nor make substantial use of university facilities retain all rights to anything they create).
 
 One major implication of this policy is that we are not allowed to simply release software created in the course of working in the lab to the world (e.g., via GitHub under an Open Source License). Instead, "_An Inventor or Creator must disclose to OTC each Invention or Commercial Work promptly following its discovery or creation._" After disclosing the invention to the university, if we would like to release the software to the world under an open source license, then we must work with the [Office of Technology Commercialization](https://drexel.edu/research/innovation/technology-commercialization/) to get prior approval to do so.
 
-The reality is that this policy is somewhat counter to the idea of completely free and open science. However, this is a policy that we all agreed to abide by when we joined Drexel University and _each of us should make every good faith effort to do so._ The intention of the policy is to protect the universities interest in intellectual property developed using university resources. Given that this policy somewhat impedes the open sharing of software, it is worth noting that in return for these restrictions, the university does provide some resources for patenting and commercializing the outputs of our lab that, in some case, may be worth exploring.
+The reality is that this policy is somewhat counter to the idea of completely free and open science. However, this is a policy that we all agreed to abide by when we joined Georgia Tech and _each of us should make every good faith effort to do so._ The intention of the policy is to protect the universities interest in intellectual property developed using university resources. Given that this policy somewhat impedes the open sharing of software, it is worth noting that in return for these restrictions, the university does provide some resources for patenting and commercializing the outputs of our lab that, in some case, may be worth exploring.
 
 If you would like to release your code publicly under an open source software license or explore ways to commercialize software created in the lab, then speak to Chris about it and we can figure out the best pathway to try and make it happen.
 
@@ -286,7 +190,7 @@ Reproducibility is related to replicability, which refers to whether your result
 
 ### Authorship
 
-Like other labs, we will follow the Drexel policy ([here](https://drexel.edu/provost/policies/conduct_of_research/)) as well as the APA guidelines with respect to authorship:
+Like other labs, we will follow the Georgia Tech policy ([here](https://www.policylibrary.gatech.edu/research)) as well as the APA guidelines with respect to authorship:
 
 _"Authorship should be based on whether the individual made a significant contribution, such as conceptualization, design, execution, and/or interpretation of the research study, as well as a willingness to take responsibility for the defense of the study should the need arise. In contrast, other individuals who participate in part of the study may be more appropriately acknowledged as having contributed certain advice, reagents, analyses, patient material, space, support, etc., but not listed as authors._
 
@@ -382,7 +286,7 @@ For manuscript submissions and revisions (i.e., which either have no deadline at
 
 Learning to present your research is important. Very few people will read your papers carefully (sad, but true) but you can reach a lot of people at conference talks and posters. Also, if you plan on staying in academia, getting a post-doc position and getting a faculty position both significantly depend on your ability to present your data. Even if you want to leave academia, presentations are likely to be an important part of your job. Additionally, every time you present your work, you are representing not just yourself but the entire lab.
 
-It is therefore highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs (within or outside of Drexel), at conferences, or to the general public. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require much refining). Practice talks will help you feel comfortable with your presentation and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
+It is therefore highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs (within or outside of ), at conferences, or to the general public. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require much refining). Practice talks will help you feel comfortable with your presentation and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
 
 Templates for posters will be available, and you can use those as much or as little as you'd like. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you're doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. Other than that, go with your own style.
 
@@ -429,11 +333,11 @@ We will also share our work with the world as soon as we ready, which means prep
 
 # Funding
 
-Funding for the lab currently comes from Chris's start-up package from Drexel University and a DARPA AI Exploration award. If you need to buy something, or have to charge a grant for something, let Chris know and he will oversee the process.
+Funding for the lab currently comes from Chris's start-up package from Georgia Tech and a DARPA AI Exploration award. If you need to buy something, or have to charge a grant for something, let Chris know and he will oversee the process.
 
 At some point, you will likely be asked to provide a figure or two for a grant Chris is writing, and/or provide feedback on the grant. Relatedly, you are entitled to read any grant Chris has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see his vision for the lab in the years ahead. Feel free to ask Chris to see any of his grants.
 
-Funding for the lab comes from a variety of sources, including federal agencies (e.g., NSF, DoD, etc.), private foundations (e.g., Gates Foundation), and internal funds from Drexel. I will oversee all aspects of the financial management of our funding sources. However, it is important to me to be transparent about where research money comes from and how it's spent. You can find some details on our internal lab website, but please do not hesitate to ask if you want to know more details. In general, external funds tend to be restricted to expenses related to a particular project or set of projects, whereas some of the internal funds are flexible in that they can be used for any justifiable work-related purpose.
+Funding for the lab comes from a variety of sources, including federal agencies (e.g., NSF, DoD, etc.), private foundations (e.g., Gates Foundation), and internal funds from Georgia Tech. I will oversee all aspects of the financial management of our funding sources. However, it is important to me to be transparent about where research money comes from and how it's spent. You can find some details on our internal lab website, but please do not hesitate to ask if you want to know more details. In general, external funds tend to be restricted to expenses related to a particular project or set of projects, whereas some of the internal funds are flexible in that they can be used for any justifiable work-related purpose.
 
 All research funded by external grants _must_ acknowledge the funding agency and grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 
