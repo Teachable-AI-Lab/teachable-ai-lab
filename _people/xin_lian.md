@@ -3,7 +3,7 @@ name: Xin Lian
 role: Master's Student
 profile_pic: images/xin_profile
 email: xlian34@gatech.edu
-website: https://www.linkedin.com/in/xinthelian/
+website: https://xinthelian.github.io/
 category: current
 
 ---
