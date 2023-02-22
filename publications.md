@@ -5,6 +5,9 @@ title: Publications
 
 ## Lab Publications
 
+MacLellan, C.J., Stowers, K., Brady, L. (2022). Evaluating Alternative Training Interventions
+Using Personalized Computational Models of Learning. Advances in Cognitive Systems, 10, 1-18. 
+
 MacLellan, C.J., Matsakis, P., & Langley, P. (2022). Efficient Induction of Language Models
 via Probabilistic Concept Formation. In Proceedings of the Tenth Annual Conference on
 Advances in Cognitive Systems. [(pdf)][maclellan-acs-22] [<i class="fab fa-youtube"></i>][maclellan-acs-22-video]
