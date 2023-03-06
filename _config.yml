@@ -51,7 +51,7 @@ header_pages:
   - people.md
   - research.md
   - publications.md
-  - blog.md
+  - pages.md
 
 collections:
   people:
