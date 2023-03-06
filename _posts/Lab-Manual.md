@@ -37,7 +37,8 @@ How do we develop cognitive systems that can learn like humans (incrementally, w
 
 How can we leverage human data to guide human-like computational model design? How can we leverage these human-like models to better understand human decision making and learning?
 
-![](RackMultipart20221028-1-jult0l_html_4bfa496c01da1ad2.png)
+![Three Teachable AI Lab research thrusts and how they relate to one
+another][research thrusts]
 
 ### Application Areas
 
@@ -347,4 +348,5 @@ All research funded by external grants _must_ acknowledge the funding agency and
 
 [https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
+[research thrusts]: {{ 'images/Research-Thrusts.png' | relative_url }}
 
