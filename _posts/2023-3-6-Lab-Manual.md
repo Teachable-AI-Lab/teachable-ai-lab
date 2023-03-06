@@ -7,6 +7,8 @@ author: Christopher J. MacLellan
 comments: false
 ---
 
+Our lab is committed to developing a positive lab culture where individuals are supported and invested in the lab mission. To support this commitment, we have created this manual to describe our lab, the cultural values we aspire to, and expectations for lab members.
+
 ## Welcome!
 
 It looks like you recently joined the Teachable AI Lab in Georgia Institute of Technology (Georgia Tech)’s School of Interactive Computing. That's great! We're really glad to have you here and will do what we can to make your time in the lab amazing. We hope you'll learn a lot about human-computer interaction, artificial intelligence, machine learning, and computer science, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
@@ -38,26 +40,9 @@ How do we develop cognitive systems that can learn like humans (incrementally, w
 How can we leverage human data to guide human-like computational model design? How can we leverage these human-like models to better understand human decision making and learning?
 
 ![Three Teachable AI Lab research thrusts and how they relate to one
-another][research thrusts]
+another][research-thrusts]
 
-### Application Areas
-
-#### Educational Technologies:
-
-Our primary focus will be on the development of technologies to support ed tech, such as intelligent tutoring systems and educational games as well as system to do things like act as digital teaching assistants to professors and teachers.
-
-- K12: Interested in developing new technologies to support K12 education as well.
-- Higher-Ed Training Technologies: Interested in developing new technologies to teach CS, AI/ML, and Data Science
-- Medical Training Technologies: One type of training technology would be to support medical training; planning to investigate VR-based tutoring systems that provide situated instruction
-- Decision Support / Automation / Knowledge Engineering Create virtual agent technology that can support people in doing tasks. We will focus on themes around empowering users to change the AI systems that they interact with, so they can correct incorrect behaviors and better support the users—even those that are not technical. Typically, you'd need to have someone engineer the AI model, but our system will be "teachable", so it can learn from interactions with the users the knowledge that it needs. The learning model will be based on the same models we are developing based on human data in educational tasks, so they will learn like human students do. We will also leverage what we know about human-human learning to build teachable systems that follow the teaching patterns people would naturally use with people.
-
-#### Web-based Personal Assistant:
-
-Agent will support people in completing tasks within the web browser and on the desktop. The general idea is to have a personal assistant like Siri or Alexa that learns from interactions with people (voice/text as well as examples/feedback) and can support them in learning/automating basic tasks they do through the web browser or other desktop apps. Will be similar to this system https://almond.stanford.edu/, but will support more natural interactions (voice and situated examples, rather than programming through GUI) as well as the ability to interactive learning through these interactions.
-
-#### Virtual-Physical Personal Agent:
-
-Aiming to bridge educational game-based models and personal assistant models to create agents that can also support learning from the user in both physical and virtual spaces. E.g., the system might teach a user how to cook a particular dish using verbal instructions, but if there are gaps in the recipe the user might teach the system how to make a modification, which will be updated for future interactions/users. We'll assume the agent has sensors for perceiving the user in these physical spaces. My initial push into this space will center on using VR tech to put people into simulated physical spaces that we know everything about (e.g., a simulated kitchen). This has nice applications for other kinds of work-place related support, e.g., teaching people how to change the oil on their car (and similarly learning models for changing oil on car through interaction with knowledgeable users). Initial agents will be disembodied, but with my VR approach, we can put virtual robots into the space that are able to engage in situated interactive behavior with their human collaborators.
+See this other page on [the lab vision][lab-vision] for more details.
 
 ## Expectations and Responsibilities
 
@@ -348,5 +333,6 @@ All research funded by external grants _must_ acknowledge the funding agency and
 
 [https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
-[research thrusts]: {{ 'images/Research-Thrusts.png' | relative_url }}
+[research-thrusts]: {{ 'images/Research-Thrusts.png' | relative_url }}
+[lab-vision]: '/vision/'
 
