@@ -2,7 +2,7 @@
 layout: post
 title:  Teachable AI Lab Manual
 date:   2023-3-6
-permalink: /lab-manual/
+permalink: /manual/
 author: Christopher J. MacLellan
 comments: false
 ---
