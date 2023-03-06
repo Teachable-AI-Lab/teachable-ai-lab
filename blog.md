@@ -1,6 +1,6 @@
 ---
 layout: blog_home
-title: Blog
+title: Lab Pages
 ---
 
-## Blog Posts
+## Pages
