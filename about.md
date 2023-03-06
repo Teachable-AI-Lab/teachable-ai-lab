@@ -52,9 +52,14 @@ values we aspire to, and expectations for lab members.
 
 ### Interested in getting involved?
 
-Please send an email briefly detailing your background and interests to
-[Christopher MacLellan](mailto:cmaclell@gatech.edu).
+Please fill out [this application][tail-application] to express your interest
+in working in the lab. We will get notified when you submit your application and
+will follow up about available opportunities. Note, all students intersted in
+conducting an independent study should fill out this application before reaching
+out via email. If you do follow up via email, then please reference your application
+in the email.
 
+[tail-application]: https://forms.office.com/r/455mrxTSFa
 [lab vision blogpost]: /vision/2020/12/08/Research-Vision.html
 [lab manual]: /vision/2022/10/28/Lab-Manual.html
 [gt home]: https://gatech.edu
