@@ -3,8 +3,9 @@ layout: post
 title:  Teachable AI Lab Research Vision
 date:   2020-12-8
 categories: vision
+permalink: /vision/
 author: Christopher J. MacLellan
-comments: true
+comments: false
 ---
 
 In this blog post, I attempt to layout a high-level research vision for the
