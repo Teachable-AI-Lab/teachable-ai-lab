@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Teachable AI Lab Manual
-date:   2022-10-28
+date:   2023-3-6
 categories: vision
 author: Christopher J. MacLellan
 comments: false
