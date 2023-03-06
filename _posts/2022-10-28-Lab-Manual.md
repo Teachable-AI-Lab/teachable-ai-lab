@@ -7,7 +7,7 @@ author: Christopher J. MacLellan
 comments: false
 ---
 
-# Welcome!
+## Welcome!
 
 It looks like you recently joined the Teachable AI Lab in Georgia Institute of Technology (Georgia Tech)’s School of Interactive Computing. That's great! We're really glad to have you here and will do what we can to make your time in the lab amazing. We hope you'll learn a lot about human-computer interaction, artificial intelligence, machine learning, and computer science, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
 
@@ -17,31 +17,31 @@ When you join the lab, you're expected to read this manual. You're also highly e
 
 This lab manual is licensed under a [Creative Commons Attribution - Noncommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you're a PI or a trainee in a different lab and want to write your own lab manual, feel free to take inspiration from this one (and cite us!).
 
-# Lab Purpose
+## Lab Purpose
 
-## Mission Statement
+### Mission Statement
 
 To understand how people teach and learn and build machines that can teach and learn like people do.
 
-## Research Thrusts
+### Research Thrusts
 
-### Thrust 1: Teachable Systems
+#### Thrust 1: Teachable Systems
 
 How do we build systems people can teach and interact with, like they would another human, while still taking advantage of key non-human features of AI/ML systems?
 
-### Thrust 2: Human-like AI/ML
+#### Thrust 2: Human-like AI/ML
 
 How do we develop cognitive systems that can learn like humans (incrementally, with few examples, etc.) and that produce human relatable/explainable/understandable outputs? The emphasis will be on both developing distinct AI and ML components as well as on putting these components together to create integrated systems.
 
-### Thrust 3: Computational Models of Human Learning:
+#### Thrust 3: Computational Models of Human Learning:
 
 How can we leverage human data to guide human-like computational model design? How can we leverage these human-like models to better understand human decision making and learning?
 
 ![](RackMultipart20221028-1-jult0l_html_4bfa496c01da1ad2.png)
 
-## Application Areas
+### Application Areas
 
-### Educational Technologies:
+#### Educational Technologies:
 
 Our primary focus will be on the development of technologies to support ed tech, such as intelligent tutoring systems and educational games as well as system to do things like act as digital teaching assistants to professors and teachers.
 
@@ -50,21 +50,21 @@ Our primary focus will be on the development of technologies to support ed tech,
 - Medical Training Technologies: One type of training technology would be to support medical training; planning to investigate VR-based tutoring systems that provide situated instruction
 - Decision Support / Automation / Knowledge Engineering Create virtual agent technology that can support people in doing tasks. We will focus on themes around empowering users to change the AI systems that they interact with, so they can correct incorrect behaviors and better support the users—even those that are not technical. Typically, you'd need to have someone engineer the AI model, but our system will be "teachable", so it can learn from interactions with the users the knowledge that it needs. The learning model will be based on the same models we are developing based on human data in educational tasks, so they will learn like human students do. We will also leverage what we know about human-human learning to build teachable systems that follow the teaching patterns people would naturally use with people.
 
-Web-based Personal Assistant:
+#### Web-based Personal Assistant:
 
 Agent will support people in completing tasks within the web browser and on the desktop. The general idea is to have a personal assistant like Siri or Alexa that learns from interactions with people (voice/text as well as examples/feedback) and can support them in learning/automating basic tasks they do through the web browser or other desktop apps. Will be similar to this system https://almond.stanford.edu/, but will support more natural interactions (voice and situated examples, rather than programming through GUI) as well as the ability to interactive learning through these interactions.
 
-### Virtual-Physical Personal Agent
+#### Virtual-Physical Personal Agent:
 
 Aiming to bridge educational game-based models and personal assistant models to create agents that can also support learning from the user in both physical and virtual spaces. E.g., the system might teach a user how to cook a particular dish using verbal instructions, but if there are gaps in the recipe the user might teach the system how to make a modification, which will be updated for future interactions/users. We'll assume the agent has sensors for perceiving the user in these physical spaces. My initial push into this space will center on using VR tech to put people into simulated physical spaces that we know everything about (e.g., a simulated kitchen). This has nice applications for other kinds of work-place related support, e.g., teaching people how to change the oil on their car (and similarly learning models for changing oil on car through interaction with knowledgeable users). Initial agents will be disembodied, but with my VR approach, we can put virtual robots into the space that are able to engage in situated interactive behavior with their human collaborators.
 
-# Expectations and Responsibilities
+## Expectations and Responsibilities
 
-## Everyone
+### Everyone
 
 The following applies to all full-time, part-time, and undergraduate lab members.
 
-### Big Picture
+#### Big Picture
 
 Science is hard. But it's also fun. In the Teachable AI Lab, we want to make sure that everyone experiences a positive, engaging, hostility-free, challenging, and rewarding lab environment. To maintain that environment, we all have to do a few things.
 
@@ -80,7 +80,7 @@ Science is hard. But it's also fun. In the Teachable AI Lab, we want to make sur
 - Stay up to date on the latest research, by using RSS feeds and/or getting journal table of contents. Also consider following scientists in the field on Twitter.
 - Have a life outside of the lab, take care of your mental and physical health, and don't ever feel bad for taking time off work.
 
-### Small Picture
+#### Small Picture
 
 There are a few day-to-day things to keep in mind to keep the lab running smoothly.
 
@@ -91,7 +91,7 @@ There are a few day-to-day things to keep in mind to keep the lab running smooth
 - Be on time. Especially when you are running participants – in fact, show up 15-20 minutes early to set everything up. And be on time for your meetings: respect that others have packed days and everyone's time is valuable.
 - When working remotely, you should be generally available over Slack during workdays (not necessarily responding immediately, but ideally within a few hours), and you should attend any scheduled remote lab meetings.
 
-## Principal Investigator
+### Principal Investigator
 
 All of the [above](#_Everyone_1), and I promise to also…
 
@@ -107,7 +107,7 @@ All of the [above](#_Everyone_1), and I promise to also…
 - Care about you as a person and not just a scientist. I am happy to discuss with you any concerns or life circumstances that may be influencing your work, but it is entirely up to you whether and what you want to share.
 - Care for your emotional and physical well-being, and prioritize that above all else
 
-## Post-Docs
+### Post-Docs
 
 All of the [above](#_Everyone_1), and you will also be expected to…
 
@@ -118,7 +118,7 @@ All of the [above](#_Everyone_1), and you will also be expected to…
 - Apply for jobs (academic or otherwise) when you're ready, but no later than the beginning of your 4th year of post-doc. If you think you'd like to leave academia, that's completely ok – but you should still treat your post-doc seriously, and talk to me about how to best train for a job outside academia
 - Challenge me (Chris) when I'm wrong or when your opinion is different, and treat the rest of the lab to your unique expertise
 
-## Graduate Students
+### Graduate Students
 
 All of the [above](#_Everyone_1), and you will also be expected to…
 
@@ -130,7 +130,7 @@ All of the [above](#_Everyone_1), and you will also be expected to…
 - Make sure you meet all departmental deadlines (e.g., for your exams and thesis) -- and make sure Chris is aware of them! They should be added to the 5-year plan that we create together.
 - Prioritize time for research. Coursework and TAing are important, but ultimately your research will get you your PhD and prepare you for the next stage of your career.
 
-## Undergraduate Students
+### Undergraduate Students
 
 All of the [above](#_Everyone_1), and you will also be expected to…
 
@@ -138,9 +138,9 @@ All of the [above](#_Everyone_1), and you will also be expected to…
 - Develop your weekly schedule by talking to your graduate student mentor or your post-doc mentor. You should be coming in every week and scheduling enough time to get your work done.
 - If you are earning course credit for research, you must also attend lab meetings when your schedule permits, present at one of these lab meetings, and submit a write-up of your research by the end of the semester.
 
-# Code of Conduct
+## Code of Conduct
 
-## Essential Policies
+### Essential Policies
 
 The lab, and the university, is an environment that must be free of harassment and discrimination. All lab members are expected to abide by the Georgia Institute of Technology's policies on discrimination and harassment, which you can (and must) read about [here](https://www.policylibrary.gatech.edu/employment/equal-opportunity-nondiscrimination-and-anti-harassment-policy?_ga=2.68677593.938462633.1673031499-1481929404.1673031499). Essential policies of Georgia Tech can be accessed [here](https://www.policylibrary.gatech.edu).
 
@@ -148,7 +148,7 @@ The lab is committed to ensuring a safe, friendly, and accepting environment for
 
 If you notice someone being harassed, or are harassed yourself, tell Chris immediately. If Chris is the cause of your concern, then reach out to the department chair or another trusted faculty member in the department.
 
-## Taking Photos & Videos
+### Taking Photos & Videos
 
 We respect the privacy and comfort of lab members by only taking photos or video recordings of them with their explicit knowledge and consent. This is especially important in situations where a lab member would otherwise not be aware of you taking a photo and therefore cannot object if they do not want you to – e.g., if they are wearing one of our VR headsets. To avoid ambiguity about when a lab member is vs. is not aware of photos being taken, we ask that everyone obtain consent from lab members before taking photos or videos and obtain consent again before posting any images on social media. This is done to respect others' privacy and acknowledge that people have varying degrees of comfort related to being photographed and especially with having those photographs shared on social media.
 
@@ -156,15 +156,15 @@ The goal of this is to foster an environment where everyone feels safe to be who
 
 On a related note, you cannot photograph your participants during an experiment. We do not have IRB approval to do this. If you would like a photograph of someone demonstrating your experiment, ask a lab member if they would feel comfortable being photographed while demonstrating what a participant does in an experiment.
 
-## Scientific Integrity
+### Scientific Integrity
 
-### Research (Mis)conduct
+#### Research (Mis)conduct
 
 The lab, and Georgia Tech, is committed to ensuring research integrity, and we take a hard line on research misconduct. We will not tolerate fabrication, falsification, or plagiarism. Read Georgia Tech's policies on the conduct of research carefully (main page [here](https://www.policylibrary.gatech.edu/research)).
 
 A big problem is why people feel the need to engage in misconduct in the first place, and that's a discussion that we can have. If you are feeling pressured to succeed (publish a lot, publish in high impact journals), you should reach out to Chris and we can talk about it – but this pressure is something we all face and is never an excuse to fabricate, falsify, or plagiarize. Also, think about the goal of science and why you are here: you're here to arrive at the truth, to get as close as we can to facts about how people and machines teach and learn. Not only is research misconduct doing you a disservice, it's also a disservice to the field. And it risks your entire career. It is never right and never worth it. Don't do it.
 
-### Intellectual Property
+#### Intellectual Property
 
  has a number of policies that govern ownership and commercialization of intellectual property created within the Teachable AI Lab and you should familiarize yourself with the intellectual property policy, found [here](https://drexel.edu/provost/policies/intellectual_property/).
 
@@ -180,7 +180,7 @@ The reality is that this policy is somewhat counter to the idea of completely fr
 
 If you would like to release your code publicly under an open source software license or explore ways to commercialize software created in the lab, then speak to Chris about it and we can figure out the best pathway to try and make it happen.
 
-### Reproducible Research
+#### Reproducible Research
 
 If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can't reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can't be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the lab.
 
@@ -188,7 +188,7 @@ For results to be reproducible, the analysis pipeline must be organized and well
 
 Reproducibility is related to replicability, which refers to whether your results can be obtained again with a different data set. That is, if someone ran your study again (with a different group of participants), do they get the same results? If someone ran a conceptually similar study, do they get the same results? Science grows and builds on replicable results – one-off findings don't mean anything. Our goal is to produce research that is both reproducible and replicable.
 
-### Authorship
+#### Authorship
 
 Like other labs, we will follow the Georgia Tech policy ([here](https://www.policylibrary.gatech.edu/research)) as well as the APA guidelines with respect to authorship:
 
@@ -198,11 +198,11 @@ _It is expected that each research group or laboratory will freely discuss and r
 
 At the start of a new project, the student or post-doc taking on the lead role can expect to be first author (talk to Chris about it if you aren't sure). Chris will typically be the last author, unless the project is primarily under the guidance of another PI and Chris is involved as a secondary PI – then Chris will be second to last and the main PI will be last. Students and post-docs who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. If a student or post-doc takes on a project but subsequently hands it off to another student or post-doc, they will most likely lose first-authorship to that student or post-doc, unless co-first authorship is appropriate. All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it.
 
-### Old projects
+#### Old projects
 
 If a student or post-doc collects a dataset but does not completely analyze it or write it up within 3 years after the end of data collection, Chris will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 3-year window, Chris will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data) from remaining unpublished, while still giving priority to the person who collected the data initially.
 
-## Human Subjects Research
+### Human Subjects Research
 
 Adherence to approved IRB protocols is essential, and non-adherence can lead to severe consequences for the entire lab (i.e., we may lose permission to run any research on human participants). All lab members must read and comply with the IRB consent form and research summary for any project that they are working on. If you are not on the IRB, you cannot run participants, look at the data, analyze the data, or be in any way involved with the project.
 
@@ -210,13 +210,13 @@ Lab members must complete [CITI Training](https://www.citiprogram.org/) and save
 
 If a participant falls ill, becomes upset, has an accident with lab equipment, or experiences any problems while you are conducting your research, you must notify Chris as soon as possible. We may need to report this information to the IRB and/or funding agencies.
 
-# Lab Resources
+## Lab Resources
 
-Wiki
+### Wiki
 
 The Lab wiki ([https://gitlab.cci.drexel.edu/teachable-ai-lab/group-wiki/-/wikis/home](https://gitlab.cci.drexel.edu/teachable-ai-lab/group-wiki/-/wikis/home)) is, well, a wiki for the lab. It has all of the information you need to get started, including tasks that need to be done upon arrival, day-to-day housekeeping duties, forms and flyers, programming and stats tips, information about accessing the high-performance computing cluster and lab servers. Edit it when you obtain information that will be useful for others to know! Ask one of the existing graduate students or Chris to be added as a member.
 
-Slack
+### Slack
 
 Slack will be used as the primary means of lab communication. The workspace we are using is: teachableailab.slack.com.
 
@@ -224,19 +224,19 @@ Try to keep each channel on topic, so that people can subscribe only to the chan
 
 Full-time lab members should install Slack on their computers and/or phones. Part-time lab members should also check Slack regularly. You should of course feel free to ignore Slack on evenings and weekends – and Chris probably will, too!
 
-OneDrive
+### OneDrive
 
 The lab has a shared One Drive Folder ("Teachable AI Lab"), which we can use to store documents and files for general lab use (e.g., this manual, weekly notes/slides, etc.). Contact Chris when you want to add something to the lab One Drive.
 
-GitHub and GitLab
+### GitHub and GitLab
 
 We will primarily use GitLab to share code within the Teachable AI Lab group ([https://gitlab.cci.drexel.edu/teachable-ai-lab](https://gitlab.cci.drexel.edu/teachable-ai-lab)). If you do not have access to the GitLab group, then let Chris know what your GitLab username is and he can add you.
 
 Additionally, GitHub can be used to share code, stimuli, and data with the world. However, it is important that you review the [intellectual property policy](#IntellectualProperty) and speak with Chris before sharing any lab related code on GitHub (you don't want to inadvertently violate a university or lab policy). Additionally, only share data after you've spoken to Chris (we don't want to share the data too soon, before you've had a chance to look at it thoroughly yourself).
 
-# General Policies
+## General Policies
 
-## Hours
+### Hours
 
 Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to resources (and people) you need, and being relatively free from distractions at home (e.g., your bed or Netflix). That said, hours in academia are more flexible than other jobs -- but you should still treat it as a real job (40 hours/week) and show up to the lab. My primary concern is that you get your work done, so if you find that you are more productive at home (lab-mates can be chatty sometimes), feel free to work at home occasionally. If you have no meetings, no participants, and no other obligations that day, it might be a good day to work at home – but you can't do this all the time, and I expect to see everyone in the lab on a regular basis.
 
@@ -250,13 +250,13 @@ Although I sometimes work weekends, I try to only do that when absolutely necess
 
 Note, that COVID has disrupted normal university and lab operations. In response, we will all be working remotely during the Fall 2020 term. As a result of the entire situation, everyone (Chris included!) is experiencing a higher than normal level of anxiety and challenges to the normal work/life balance. Do your best to maintain the same level of effort and participation in lab activities during this time but be compassionate and forgiving with respect to yourself and your lab members. We should each acknowledge that everyone is probably less productive than they would normally be, and _that this is OK_. This is an unprecedented situation that we are all dealing with and we should help ourselves and each other to make it through this.
 
-## PI Office Hours
+### PI Office Hours
 
 In addition to weekly meetings (see below), and occasionally dropping by the lab, you can find Chris in his office. His door is almost always open; if it is, feel free to ask for a chat. He will always say yes, though sometimes he can only spare a couple of minutes or might ask you to let him finish typing a sentence. If his door is closed, assume that Chris is either gone, in a meeting in his office, or does not want to be disturbed – so please send a message (Slack or e-mail) rather than knocking.
 
-## Meetings
+### Meetings
 
-### Weekly Lab Meetings
+#### Weekly Lab Meetings
 
 Weekly lab meetings (~1 hour each) are meant to be a forum for trainees to present project ideas and/or data to get feedback from the rest of the group. Projects at any level of completion (or even not yet started!) can benefit from being presented. These lab meetings can also be used to talk about methods, statistical analyses, new papers, and career development. For paper discussions, everyone must come to lab meeting having read the paper and prepared with comments and questions to contribute. Some weeks we may explore a particular issue and have people read different papers – in that case, come to lab meeting having read your paper and be prepared to summarize it for the group.
 
@@ -264,13 +264,13 @@ Each trainee (RA, students, post-docs) is expected to present at least once ever
 
 Occasionally, we may have joint lab meetings with other faculty in the department – these may be combined with our weekly lab meeting or an additional meeting. We will also use lab meetings (or ad-hoc scheduled meetings) to prepare for conference presentations and give people feedback on job talks or other external presentations. Lab meeting agendas and notes will be kept in the #lab-meetings channel on Slack.
 
-### Individual Meetings
+#### Individual Meetings
 
 At the beginning of each semester, we will set a schedule for weekly meetings. Each full-time lab member (RAs, graduate students, post-docs) will have a one-hour slot set aside to meet with Chris. If scheduling conflicts arise (e.g., because of travel), we can try to reschedule for another day that week. If there is nothing to discuss, feel free to cancel the meeting or just drop by for a brief chat.
 
 Chris will meet with undergraduate students at least every other week (or according to need); post-docs and graduate students should meet with their undergraduate mentee on a regular basis.
 
-## Deadlines
+### Deadlines
 
 One way of maintaining sanity in the academic work is to be as organized as possible. This is essential because disorganization doesn't just hurt you, it hurts your collaborators and people whose help you need. When it comes to deadlines, tell your collaborators as soon as you know when a deadline is, and make sure they are aware of it the closer it gets. Don't be afraid to bug them about it (yes, bug Chris as well).
 
@@ -282,7 +282,7 @@ If you want feedback on research and teaching statements, or other work that req
 
 For manuscript submissions and revisions (i.e., which either have no deadline at all or only a weak deadline), send drafts to Chris as soon as you have them, and bug him to give you feedback if he hasn't responded in two weeks – papers are important!
 
-## Presentations
+### Presentations
 
 Learning to present your research is important. Very few people will read your papers carefully (sad, but true) but you can reach a lot of people at conference talks and posters. Also, if you plan on staying in academia, getting a post-doc position and getting a faculty position both significantly depend on your ability to present your data. Even if you want to leave academia, presentations are likely to be an important part of your job. Additionally, every time you present your work, you are representing not just yourself but the entire lab.
 
@@ -292,23 +292,23 @@ Templates for posters will be available, and you can use those as much or as lit
 
 Chris is also happy to share slides from some of his talks if you would like to use a similar style. You'll get a lot of feedback on your talks in any case, but other people's slides might be helpful to you as you are setting up your talk. As with posters, feel free to go with your own style as long as it is polished and clear.
 
-## Lab Travel
+### Lab Travel
 
 The lab will typically pay for full-time lab members to present their work at major conferences (e.g., CHI, AAAI, EDM, AIED, ITS, ACS). In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. This will usually result in one to two conferences per year. When I set our grant budgets, I estimate $1500 per trip, so your reimbursable costs should be around that amount or less. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in lab (i.e., without presenting). If you wish to attend any other conference outside of these guidelines, under some circumstances I may be willing to have the lab reimburse you for the registration fee. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to Chris). All of these guidelines, of course, depend on the availability of funds. Lab members are required to apply for other sources of funding available to them (e.g., departmental funds for grad students and conference travel awards).
 
-## Recommendation Letters
+### Recommendation Letters
 
 Letters of recommendation are extremely important for getting new positions and grants. You can count on Chris to write you a letter if you have been in the lab at least one year (it's hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab.
 
 If you need a letter, notify Chris as soon as possible with the deadline (see [Deadlines](#Deadlines) for guidance), your CV, and any relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements. In some cases (especially if short notice is given), you may also be asked to submit a draft of a letter, which will be modified based on Chris's experience with you, made more glamorous (people are much too humble about themselves!), and edited to add anything you left out that Chris thinks is important. This will ensure that the letter contains all the information you need, and that it is submitted on time.
 
-## Code and Data Management
+### Code and Data Management
 
-### Code Storage
+#### Code Storage
 
 Code will be stored on Drexel's GitLab (https://gitlab.cci.drexel.edu/teachable-ai-lab)
 
-### Storing Active Datasets
+#### Storing Active Datasets
 
 Lab data can be stored in one of three places:
 
@@ -317,21 +317,21 @@ Lab data can be stored in one of three places:
 
 Although the servers are backed up, the backup is only on-site – so make extra backups! Each lab member should back up raw data and code needed to reproduce all analyses on an external hard drive or on a service like OneDrive. You should not store data locally on your computer (but having data in a Dropbox folder synced to your computer is ok).
 
-## Data Organization
+### Data Organization
 
 Please create a folder on the Teachable AI Lab OneDrive shared folder under the "Projects" folder that contains all of the data and files for your project (e.g., Teachable AI Lab/Projects/ProjectName). When you leave the lab, your projects directories should be set up like this, or something similarly transparent, so that other people can look at your data and code. You must do this, otherwise your analysis pipeline and data structure will be uninterpretable to others once you leave, and this will slow everyone down (and cause us to bug you repeatedly to clean up your project directory or answer questions about it).
 
-### Archiving Inactive Datasets
+#### Archiving Inactive Datasets
 
 Before you leave, or upon completion of a project, you must archive old datasets and back them up. This should be done in a number of ways. First, you are responsible for backing up your data continuously, on the external hard drive that was bought for you upon your arrival. If you did not get an external hard drive, ask Chris for one as soon as possible (see Storing Active Datasets, above). Second, upon submitting a paper to a journal, all datasets and code must be publicly shared. This can be done on OSF, GitHub, or other platforms (see the lab wiki for details). Finally, after a project is completed and the paper published in a peer-reviewed journal, move the project to the archive on the server. Talk to Chris about this first.
 
-### Open Science
+#### Open Science
 
 We're all for open science, so lab members are encouraged (well, to some degree required) to share their code and data with others, whether they are in the lab or outside of it. Within lab, you can share your code and data whenever you like. But do not share your code or data with the outside world until you think (and Chris agrees) that the lab has finished working with it. This gives us an opportunity to work with the data to meet our needs (including grant needs!) before releasing it for other people to use. Generally, we will make our data and analysis code publicly available simultaneously with the submission of the paper to a peer-reviewed journal (exceptions might be made if work on the dataset is ongoing for a different paper). Additionally, there may be some restrictions with respect to sharing code, as outlined in the [intellectual property policy](#IntellectualProperty). If you have any questions about sharing code or data then talk to Chris. Currently, the best option for sharing smaller datasets might be the [Open Science Framework](https://osf.io/), but depending on the type of data we might also use platforms such as [DataShop](https://pslcdatashop.web.cmu.edu/).
 
 We will also share our work with the world as soon as we ready, which means preprints! The lab policy is to upload a preprint of a manuscript simultaneously with initial submission to a journal. The preferred preprint server is [arXiv](https://arxiv.org/). We will also put PDFs of all our papers on the lab website, and you can and should share PDFs of your paper on your website and with whoever asks.
 
-# Funding
+## Funding
 
 Funding for the lab currently comes from Chris's start-up package from Georgia Tech and a DARPA AI Exploration award. If you need to buy something, or have to charge a grant for something, let Chris know and he will oversee the process.
 
@@ -341,7 +341,7 @@ Funding for the lab comes from a variety of sources, including federal agencies 
 
 All research funded by external grants _must_ acknowledge the funding agency and grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 
-**Other Resources**
+## Other Resources
 
 [https://people.cs.umass.edu/~wallach/how\_to\_be\_a\_successful\_phd\_student.pdf](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 
