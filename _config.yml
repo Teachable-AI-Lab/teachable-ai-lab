@@ -58,7 +58,7 @@ collections:
     order: 2
   projects:
     output: true
-  pages:
+  posts:
     output: true
 
 show_excerpts: true
