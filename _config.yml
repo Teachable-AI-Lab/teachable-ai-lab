@@ -58,6 +58,8 @@ collections:
     order: 2
   projects:
     output: true
+  pages:
+    output: true
 
 show_excerpts: true
 
