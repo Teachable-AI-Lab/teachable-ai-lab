@@ -116,16 +116,17 @@ All of the above (see section on Everyone), and you will also be expected to...
 - Make sure you meet all departmental deadlines (e.g., for your exams and thesis) -- and make sure Chris is aware of them! They should be added to the 5-year plan that we create together.
 - Prioritize time for research. Coursework and TAing are important, but ultimately your research will get you your PhD and prepare you for the next stage of your career.
 
-### Students Doing Independent Study (undergraduate and graduate)
+### Students Doing Independent Study (Undergraduate and Graduate)
 
 All of the above (see section on Everyone), and you will also be expected to...
 
-- Commit to working at least 15 hours / week on your independent project under the mentorship of another lab member
+- Commit at least 12 hours / week to lab work under the guidance of your mentor
 - Develop your weekly schedule by talking to your mentor. You should be coming in every week and scheduling enough time to get your work done.
-- Communicate with your mentor and provide them with regular updates
-- Meet regularly lab mentor (every 1-2 weeks) 
+- Communicate weekly with your mentor and provide them with updates on your progress
+- Meet regularly with your mentor (every 1-2 weeks) 
 - Assist other lab members when needed 
-- If you are earning course credit for research, you must also attend lab meetings when your schedule permits, present at one of these lab meetings, and submit a write-up of your research by the end of the semester.
+- Attend lab meetings when your schedule permits
+- If you are doing a for-credit independent study, then you must also present at one of these lab meetings and submit a final write-up of your research by the end of the semester.
 
 ## Code of Conduct
 
