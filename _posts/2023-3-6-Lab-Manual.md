@@ -120,8 +120,11 @@ All of the above (see section on Everyone), and you will also be expected to...
 
 All of the above (see section on Everyone), and you will also be expected to...
 
-- Assist other lab members with data collection and analysis (unless you are working on your own independent project under the mentorship of another lab member, in which case you should work on that)
-- Develop your weekly schedule by talking to your graduate student mentor or your post-doc mentor. You should be coming in every week and scheduling enough time to get your work done.
+- Commit to working at least 15 hours / week on your independent project under the mentorship of another lab member
+- Develop your weekly schedule by talking to your mentor. You should be coming in every week and scheduling enough time to get your work done.
+- Communicate with your mentor and provide them with regular updates
+- Meet regularly lab mentor (every 1-2 weeks) 
+- Assist other lab members when needed 
 - If you are earning course credit for research, you must also attend lab meetings when your schedule permits, present at one of these lab meetings, and submit a write-up of your research by the end of the semester.
 
 ## Code of Conduct
