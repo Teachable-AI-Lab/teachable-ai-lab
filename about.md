@@ -60,8 +60,8 @@ out via email. If you do follow up via email, then please reference your applica
 in the email.
 
 [tail-application]: https://forms.office.com/r/455mrxTSFa
-[lab vision blogpost]: /vision/2020/12/08/Research-Vision.html
-[lab manual]: /vision/2022/10/28/Lab-Manual.html
+[lab vision blogpost]: /vision/
+[lab manual]: /manual/
 [gt home]: https://gatech.edu
 [ic home]: https://ic.gatech.edu
 [research thrusts]: {{ 'images/Research-Thrusts.png' | relative_url }}
