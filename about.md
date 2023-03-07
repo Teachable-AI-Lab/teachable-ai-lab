@@ -52,12 +52,11 @@ values we aspire to, and expectations for lab members.
 
 ### Interested in getting involved?
 
-Please fill out [this application][tail-application] to express your interest
-in working in the lab. We will get notified when you submit your application and
-will follow up about available opportunities. Note, all students intersted in
-conducting an independent study should fill out this application before reaching
-out via email. If you do follow up via email, then please reference your application
-in the email.
+Please fill out [this application][tail-application] to apply to work in the lab.
+We will get notified when you submit your application and will follow up about
+available opportunities. Note, all students intersted in conducting an independent
+study should fill out this application before reaching out via email. If you do
+follow up via email, then please reference your application in the email.
 
 [tail-application]: https://forms.office.com/r/455mrxTSFa
 [lab vision blogpost]: /vision/
