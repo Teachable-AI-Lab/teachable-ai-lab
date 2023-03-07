@@ -62,8 +62,8 @@ Science is hard. But it's also fun. In the Teachable AI Lab, we want to make sur
 - Respect your fellow lab-mates. Respect their strengths and weaknesses, respect their desire for quiet if they need it, and for support and a kind ear when they need that. Respect their culture, their religion, their beliefs, their sexual orientation.
 - If you're struggling, tell someone (feel free to tell Chris!). Your health and happiness come first. The lab looks out for the well-being of all its members. We are here to help. It's ok to go through hard patches (we all do), but you shouldn't feel shy about asking for help or just venting.
 - If there is any tension or hostility in the lab, something has to be done about it immediately. We can't thrive in an environment we aren't comfortable in, and disrespect or rudeness will not be tolerated in the lab. If you don't feel comfortable confronting the person in question, tell Chris. In any case, tell Chris.
-- If you have a problem with Chris and are comfortable telling him about it, do! If you are not comfortable, then tell another member of the Information Science department
-- Stay up to date on the latest research, by using RSS feeds and/or getting journal table of contents. Also consider following scientists in the field on Twitter.
+- If you have a problem with Chris and are comfortable telling him about it, do! If you are not comfortable, then tell another member of the department.
+- Stay up to date on the latest research, by using RSS feeds and/or getting journal table of contents. Also consider following scientists in the field on Mastadon/Twitter.
 - Have a life outside of the lab, take care of your mental and physical health, and don't ever feel bad for taking time off work.
 
 #### Small Picture
@@ -71,7 +71,7 @@ Science is hard. But it's also fun. In the Teachable AI Lab, we want to make sur
 There are a few day-to-day things to keep in mind to keep the lab running smoothly.
 
 - If you're sick, stay home and take care of yourself. Because you need it, and also because others don't need to get sick. If you're sick, reschedule your meetings and participants for the day (or the next couple of days) as soon as you can.
-- You are not expected to come into lab on weekends and [holidays](https://drexel.edu/hr/benefits/days-off/), and you are not expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
+- You are not expected to come into lab on weekends and [holidays](https://calendar.gatech.edu/institute-holidays), and you are not expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
 - Show up to your meetings, show up to run your participants, show up to your classes, and show up to lab meetings. You do not have to be in at 9am every day – just show up for your commitments and work the hours you need to work to get stuff done.
 - Dress code is casual (and you can dress up if you want!) but not too casual. When interacting with participants or presenting your work, don't wear pajamas and sweatpants – but jeans are totally fine.
 - Be on time. Especially when you are running participants – in fact, show up 15-20 minutes early to set everything up. And be on time for your meetings: respect that others have packed days and everyone's time is valuable.
@@ -79,7 +79,7 @@ There are a few day-to-day things to keep in mind to keep the lab running smooth
 
 ### Principal Investigator
 
-All of the [above](#_Everyone_1), and I promise to also…
+All of the above (see section on Everyone), and I promise to also...
 
 - Support you (scientifically, emotionally, financially)
 - Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals.
@@ -95,7 +95,7 @@ All of the [above](#_Everyone_1), and I promise to also…
 
 ### Post-Docs
 
-All of the [above](#_Everyone_1), and you will also be expected to…
+All of the above (see section on Everyone), and you will also be expected to...
 
 - Develop your own independent line of research
 - Help train and mentor students in the lab (both undergraduate and graduate) when they need it – either because they ask, or because I ask you to
@@ -104,9 +104,9 @@ All of the [above](#_Everyone_1), and you will also be expected to…
 - Apply for jobs (academic or otherwise) when you're ready, but no later than the beginning of your 4th year of post-doc. If you think you'd like to leave academia, that's completely ok – but you should still treat your post-doc seriously, and talk to me about how to best train for a job outside academia
 - Challenge me (Chris) when I'm wrong or when your opinion is different, and treat the rest of the lab to your unique expertise
 
-### Graduate Students
+### PhD Students
 
-All of the [above](#_Everyone_1), and you will also be expected to…
+All of the above (see section on Everyone), and you will also be expected to...
 
 - Develop your dissertation research. Your dissertation should have at least 3 substantial experiments that answer a big-picture question that you have. Much of your work has to be done independently but remember that others in lab (especially Chris!) are there to help you when you need it
 - Help mentor undergraduate in the lab when they need it – either because they ask, or because I ask you to.
@@ -116,9 +116,9 @@ All of the [above](#_Everyone_1), and you will also be expected to…
 - Make sure you meet all departmental deadlines (e.g., for your exams and thesis) -- and make sure Chris is aware of them! They should be added to the 5-year plan that we create together.
 - Prioritize time for research. Coursework and TAing are important, but ultimately your research will get you your PhD and prepare you for the next stage of your career.
 
-### Undergraduate Students
+### Students Doing Independent Study (undergraduate and graduate)
 
-All of the [above](#_Everyone_1), and you will also be expected to…
+All of the above (see section on Everyone), and you will also be expected to...
 
 - Assist other lab members with data collection and analysis (unless you are working on your own independent project under the mentorship of another lab member, in which case you should work on that)
 - Develop your weekly schedule by talking to your graduate student mentor or your post-doc mentor. You should be coming in every week and scheduling enough time to get your work done.
@@ -152,17 +152,9 @@ A big problem is why people feel the need to engage in misconduct in the first p
 
 #### Intellectual Property
 
- has a number of policies that govern ownership and commercialization of intellectual property created within the Teachable AI Lab and you should familiarize yourself with the intellectual property policy, found [here](https://drexel.edu/provost/policies/intellectual_property/).
+Georgia Tech has a number of policies that govern ownership and commercialization of intellectual property created within the Teachable AI Lab and you should familiarize yourself with the intellectual property policy, found [here](https://www.policylibrary.gatech.edu/faculty-handbook/5.4-intellectual-property-policy).
 
-A key item within this policy concerns ownership of any created intellectual property, see item 3 in the Georgia Tech intellectual property policy [note I added highlighting for emphasis]:
-
-"_The University acknowledges that_ _copyrightable works of Personnel and Students that are typically submitted and accepted for scholarly publication, such as a thesis, journal article or text book, or are traditionally owned by Personnel and Students, such as paintings, musical compositions, video and film productions, and online or face-to-face instructional or Course Materials (each, a "Scholarly Work"), will be owned by the Creator,_ _unless authored or created with support from an outside sponsor, in which case ownership shall be governed by the relevant provisions in the applicable sponsorship agreement, grant or contract. In the event that a Scholarly Work would be treated as a work made for hire under federal copyright law, the University disclaims any ownership rights in such Scholarly Work, other than the reservation of rights in Section 4(h) below, and will confirm such disclaimer pursuant to the Agreement Concerning Intellectual Property (Appendix A) (each, an "Agreement"). The University further acknowledges that_ _copyrightable works that are created either by Personnel or Students outside of the scope of their employment or engagement by the University and without substantial use of the facilities or resources of the University (each, an "Individual Work"), will belong to the Creator__._ _All copyrightable works that (i) are neither Scholarly Works nor Individual Works, (ii) are created by Personnel, Students or others authorized to use the facilities or resources of the University, and (iii) utilize any University resources in their creation (each, a "Commercial Work") will be the sole property of the University__. Where applicable, Commercial Works will be treated as works made for hire under federal copyright law. Examples of Commercial Works would include: the text of an invention disclosure written to be used in a patent application;_ _the source code and documentation for a new computer software program__; and a new copyrightable teaching tool specifically commissioned by the University, typically via a separate contract between the University and a faculty member. Also, all original data, notebooks, laboratory records and other documents whether in paper or electronic format relating to Inventions owned by the University or arising from research performed at the University will be treated as Commercial Works and subject to the University's Conduct of Research Policy."_
-
-To summarize this above text, if you create "scholarly work" (i.e., papers, theses, etc.) or "individual work" (things you create without using university resources on your own time), then the copyrights belong to you. However, anything else (including software), that you create using university resources and using time funded by the Teachable AI lab belongs to Georgia Tech (the policy refers to these artifacts as "commercial works"). Note, there are key exceptions to this policy that you should familiarize yourself with in sections 4 of the policy (e.g., undergraduates that are not employed by the university, sponsored by the lab, nor make substantial use of university facilities retain all rights to anything they create).
-
-One major implication of this policy is that we are not allowed to simply release software created in the course of working in the lab to the world (e.g., via GitHub under an Open Source License). Instead, "_An Inventor or Creator must disclose to OTC each Invention or Commercial Work promptly following its discovery or creation._" After disclosing the invention to the university, if we would like to release the software to the world under an open source license, then we must work with the [Office of Technology Commercialization](https://drexel.edu/research/innovation/technology-commercialization/) to get prior approval to do so.
-
-The reality is that this policy is somewhat counter to the idea of completely free and open science. However, this is a policy that we all agreed to abide by when we joined Georgia Tech and _each of us should make every good faith effort to do so._ The intention of the policy is to protect the universities interest in intellectual property developed using university resources. Given that this policy somewhat impedes the open sharing of software, it is worth noting that in return for these restrictions, the university does provide some resources for patenting and commercializing the outputs of our lab that, in some case, may be worth exploring.
+The reality is that this policy is sometimes counter to the idea of completely free and open science. However, this is a policy that we all agreed to abide by when we joined Georgia Tech and _each of us should make every good faith effort to do so._ The intention of the policy is to protect the universities interest in intellectual property developed using university resources. Given that this policy somewhat impedes the open sharing of software, it is worth noting that in return for these restrictions, the university does provide some resources for patenting and commercializing the outputs of our lab that, in some case, may be worth exploring.
 
 If you would like to release your code publicly under an open source software license or explore ways to commercialize software created in the lab, then speak to Chris about it and we can figure out the best pathway to try and make it happen.
 
@@ -176,7 +168,7 @@ Reproducibility is related to replicability, which refers to whether your result
 
 #### Authorship
 
-Like other labs, we will follow the Georgia Tech policy ([here](https://www.policylibrary.gatech.edu/research)) as well as the APA guidelines with respect to authorship:
+Like other labs, we will follow the Georgia Tech guidelines ([here](https://researchethics.gatech.edu/authorship)) as well as the APA guidelines with respect to authorship:
 
 _"Authorship should be based on whether the individual made a significant contribution, such as conceptualization, design, execution, and/or interpretation of the research study, as well as a willingness to take responsibility for the defense of the study should the need arise. In contrast, other individuals who participate in part of the study may be more appropriately acknowledged as having contributed certain advice, reagents, analyses, patient material, space, support, etc., but not listed as authors._
 
@@ -198,9 +190,9 @@ If a participant falls ill, becomes upset, has an accident with lab equipment, o
 
 ## Lab Resources
 
-### Wiki
+### Lab Website
 
-The Lab wiki ([https://gitlab.cci.drexel.edu/teachable-ai-lab/group-wiki/-/wikis/home](https://gitlab.cci.drexel.edu/teachable-ai-lab/group-wiki/-/wikis/home)) is, well, a wiki for the lab. It has all of the information you need to get started, including tasks that need to be done upon arrival, day-to-day housekeeping duties, forms and flyers, programming and stats tips, information about accessing the high-performance computing cluster and lab servers. Edit it when you obtain information that will be useful for others to know! Ask one of the existing graduate students or Chris to be added as a member.
+The [lab website](https://tail.cc.gatech.edu)) is, well, a website for the lab. It has much of the information you need to get started. When you join the lab you will be given access to edit pages on the lab. Edit it when you obtain information that will be useful for others to know! Ask one of the existing graduate students or Chris to be added as a member.
 
 ### Slack
 
@@ -216,29 +208,27 @@ The lab has a shared One Drive Folder ("Teachable AI Lab"), which we can use to 
 
 ### GitHub and GitLab
 
-We will primarily use GitLab to share code within the Teachable AI Lab group ([https://gitlab.cci.drexel.edu/teachable-ai-lab](https://gitlab.cci.drexel.edu/teachable-ai-lab)). If you do not have access to the GitLab group, then let Chris know what your GitLab username is and he can add you.
+We will primarily use GitLab to share code within the Teachable AI Lab group (gitlab is currently transitioning from Drexel to Georgia Tech). If you do not have access to the GitLab group, then let Chris know what your GitLab username is and he can add you.
 
-Additionally, GitHub can be used to share code, stimuli, and data with the world. However, it is important that you review the [intellectual property policy](#IntellectualProperty) and speak with Chris before sharing any lab related code on GitHub (you don't want to inadvertently violate a university or lab policy). Additionally, only share data after you've spoken to Chris (we don't want to share the data too soon, before you've had a chance to look at it thoroughly yourself).
+Additionally, GitHub can be used to share code, stimuli, and data with the world. However, it is important that you review the intellectual property policy and speak with Chris before sharing any lab related code on GitHub (you don't want to inadvertently violate a university or lab policy). Additionally, only share data after you've spoken to Chris (we don't want to share the data too soon, before you've had a chance to look at it thoroughly yourself).
 
 ## General Policies
 
 ### Hours
 
-Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to resources (and people) you need, and being relatively free from distractions at home (e.g., your bed or Netflix). That said, hours in academia are more flexible than other jobs -- but you should still treat it as a real job (40 hours/week) and show up to the lab. My primary concern is that you get your work done, so if you find that you are more productive at home (lab-mates can be chatty sometimes), feel free to work at home occasionally. If you have no meetings, no participants, and no other obligations that day, it might be a good day to work at home – but you can't do this all the time, and I expect to see everyone in the lab on a regular basis.
+Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to resources (and people) you need, and being relatively free from distractions at home (e.g., your bed or Netflix). That said, hours in academia are more flexible than other jobs -- but you should still treat it as a real job (40 hours/week) and show up to the lab. My primary concern is that you get your work done, so if you find that you are more productive at home (lab mates can be chatty sometimes), feel free to work at home occasionally. If you have no meetings, no participants, and no other obligations that day, it might be a good day to work at home – but you can't do this all the time, and I expect to see everyone in the lab on a regular basis.
 
-For graduate students, I understand having to be away for classes and TA-ing, but show up to the lab on a regular basis when you don't have those obligations.
+For PhD students and those doing independent studies, I understand having to be away for classes and TA-ing, but show up to the lab on a regular basis when you don't have those obligations.
 
 To encourage lab interaction, try to be in most weekdays during 'peak' hours (assuming no other obligations) – e.g., between 11am and 4pm. This is not a hard rule, you can work at home occasionally, and I understand other obligations. But keep it in mind.
 
 I'm a night owl and sometimes work during the weekends. This means that I will sometimes send emails or Slack messages outside of normal working hours. For the most part, I try not to, but sometimes I do. I do not expect you to respond until you are back at work (ignore me!). I do not expect there to be cases when I suddenly and urgently need something from you over the weekend (e.g., for a grant deadline), but should I anticipate that happening, I will bring it up in advance so we can plan accordingly. All this said, I realize that being told you can ignore my messages might not take away the stress of seeing my messages if you check work email or Slack in the evenings or on weekends. If my off-hours messages are unwelcome and cause distress, please talk to me, and I will be better at not bothering you during your time off.
 
-Although I sometimes work weekends, I try to only do that when absolutely necessarily. Please respect that by making sure to give me enough heads-up about impending deadlines so that I can get things done for you (e.g., write letters of recommendation, give feedback on manuscripts, etc) while maintaining my work/life balance. For more details, see [Deadlines](#Deadlines).
-
-Note, that COVID has disrupted normal university and lab operations. In response, we will all be working remotely during the Fall 2020 term. As a result of the entire situation, everyone (Chris included!) is experiencing a higher than normal level of anxiety and challenges to the normal work/life balance. Do your best to maintain the same level of effort and participation in lab activities during this time but be compassionate and forgiving with respect to yourself and your lab members. We should each acknowledge that everyone is probably less productive than they would normally be, and _that this is OK_. This is an unprecedented situation that we are all dealing with and we should help ourselves and each other to make it through this.
+Although I sometimes work weekends, I try to only do that when absolutely necessarily. Please respect that by making sure to give me enough heads-up about impending deadlines so that I can get things done for you (e.g., write letters of recommendation, give feedback on manuscripts, etc) while maintaining my work/life balance. For more details, see the Deadlines section below.
 
 ### PI Office Hours
 
-In addition to weekly meetings (see below), and occasionally dropping by the lab, you can find Chris in his office. His door is almost always open; if it is, feel free to ask for a chat. He will always say yes, though sometimes he can only spare a couple of minutes or might ask you to let him finish typing a sentence. If his door is closed, assume that Chris is either gone, in a meeting in his office, or does not want to be disturbed – so please send a message (Slack or e-mail) rather than knocking.
+In addition to weekly meetings (see below), and occasionally dropping by the lab, you can find Chris in his office. His door is almost always open; if it is, feel free to ask for a chat. He will always say yes, though sometimes he can only spare a couple of minutes or might ask you to let him finish typing a sentence. If Chris has his door open, but is in a meeting with another student, then please be respectful and do not interrupt (unless you have a scheduled meeting, then please do interrupt!). If his door is closed, assume that Chris is either gone, in a meeting in his office, or does not want to be disturbed – so please send a message (Slack or e-mail) rather than knocking.
 
 ### Meetings
 
@@ -246,15 +236,15 @@ In addition to weekly meetings (see below), and occasionally dropping by the lab
 
 Weekly lab meetings (~1 hour each) are meant to be a forum for trainees to present project ideas and/or data to get feedback from the rest of the group. Projects at any level of completion (or even not yet started!) can benefit from being presented. These lab meetings can also be used to talk about methods, statistical analyses, new papers, and career development. For paper discussions, everyone must come to lab meeting having read the paper and prepared with comments and questions to contribute. Some weeks we may explore a particular issue and have people read different papers – in that case, come to lab meeting having read your paper and be prepared to summarize it for the group.
 
-Each trainee (RA, students, post-docs) is expected to present at least once every semester. These meetings are informal, and you can do what you wish with your slot – just be prepared to contribute something substantive. Lab members are also expected to attend every meeting (obviously, illnesses, doctor appointments, family issues, etc. are a valid reason for missing a meeting). Undergraduate students are encouraged to attend as often as possible (assuming it fits in their course schedule).
+Each trainee (students and post-docs) is expected to present at least once every semester. These meetings are informal, and you can do what you wish with your slot – just be prepared to contribute something substantive. Lab members are also expected to attend every meeting (obviously, illnesses, doctor appointments, family issues, etc. are a valid reason for missing a meeting). Undergraduate students are encouraged to attend as often as possible (assuming it fits in their course schedule).
 
 Occasionally, we may have joint lab meetings with other faculty in the department – these may be combined with our weekly lab meeting or an additional meeting. We will also use lab meetings (or ad-hoc scheduled meetings) to prepare for conference presentations and give people feedback on job talks or other external presentations. Lab meeting agendas and notes will be kept in the #lab-meetings channel on Slack.
 
 #### Individual Meetings
 
-At the beginning of each semester, we will set a schedule for weekly meetings. Each full-time lab member (RAs, graduate students, post-docs) will have a one-hour slot set aside to meet with Chris. If scheduling conflicts arise (e.g., because of travel), we can try to reschedule for another day that week. If there is nothing to discuss, feel free to cancel the meeting or just drop by for a brief chat.
+At the beginning of each semester, we will set a schedule for weekly meetings. Each full-time lab member (PhD students and post-docs) will have a one-hour slot set aside to meet with Chris. If scheduling conflicts arise (e.g., because of travel), we can try to reschedule for another day that week. If there is nothing to discuss, feel free to cancel the meeting or just drop by for a brief chat.
 
-Chris will meet with undergraduate students at least every other week (or according to need); post-docs and graduate students should meet with their undergraduate mentee on a regular basis.
+In general, Chris will not have regular meetings with independent study students; Instead, these students will have regular meetings with their post-docs and PhD student mentors.
 
 ### Deadlines
 
@@ -286,20 +276,20 @@ The lab will typically pay for full-time lab members to present their work at ma
 
 Letters of recommendation are extremely important for getting new positions and grants. You can count on Chris to write you a letter if you have been in the lab at least one year (it's hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab.
 
-If you need a letter, notify Chris as soon as possible with the deadline (see [Deadlines](#Deadlines) for guidance), your CV, and any relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements. In some cases (especially if short notice is given), you may also be asked to submit a draft of a letter, which will be modified based on Chris's experience with you, made more glamorous (people are much too humble about themselves!), and edited to add anything you left out that Chris thinks is important. This will ensure that the letter contains all the information you need, and that it is submitted on time.
+If you need a letter, notify Chris as soon as possible with the deadline (see Deadlines section for guidance), your CV, and any relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements. In some cases (especially if short notice is given), you may also be asked to submit a draft of a letter, which will be modified based on Chris's experience with you, made more glamorous (people are much too humble about themselves!), and edited to add anything you left out that Chris thinks is important. This will ensure that the letter contains all the information you need, and that it is submitted on time.
 
 ### Code and Data Management
 
 #### Code Storage
 
-Code will be stored on Drexel's GitLab (https://gitlab.cci.drexel.edu/teachable-ai-lab)
+Code will be stored on the lab's GitLab (git lab is currently in transition from Drexel to GT)
 
 #### Storing Active Datasets
 
 Lab data can be stored in one of three places:
 
 - Lab server(s): software, behavioral data, and (separately from data and coded so that data are not identifiable) electronic consent forms, demographics forms, questionnaires
-- OneDrive folders (not the Teachable AI Lab folder) can be used to share small datasets and/or code with collaborators
+- OneDrive folders can be used to share small datasets and/or code with collaborators
 
 Although the servers are backed up, the backup is only on-site – so make extra backups! Each lab member should back up raw data and code needed to reproduce all analyses on an external hard drive or on a service like OneDrive. You should not store data locally on your computer (but having data in a Dropbox folder synced to your computer is ok).
 
