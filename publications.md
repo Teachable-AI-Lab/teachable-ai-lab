@@ -7,7 +7,8 @@ title: Publications
 
 Harpstead, E., Stowers, K., Lawley, L., Zhang, Q., MacLellan, C.J. (2023). Speculative
 Game Design of Asymmetric Cooperative Games to Study Human-Machine Teaming. In _Proceedings
-of the 2023 Foundations of Digital Games Conference_.
+of The First Workshop on Human-AI Interaction through Play @ The Foundations of Digital Games
+(FDG) Conference, 2023_.
 
 MacLellan, C.J., Stowers, K., Brady, L. (2022). Evaluating Alternative Training Interventions
 Using Personalized Computational Models of Learning. Advances in Cognitive Systems, 10, 1-18. 
