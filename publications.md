@@ -5,6 +5,7 @@ title: Publications
 
 ## Lab Publications
 
+
 Harpstead, E., Stowers, K., Lawley, L., Zhang, Q., MacLellan, C.J. (2023). Speculative
 Game Design of Asymmetric Cooperative Games to Study Human-Machine Teaming. In _Proceedings
 of The First Workshop on Human-AI Interaction through Play @ The Foundations of Digital Games
