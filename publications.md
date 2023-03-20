@@ -5,11 +5,18 @@ title: Publications
 
 ## Lab Publications
 
-
 Harpstead, E., Stowers, K., Lawley, L., Zhang, Q., MacLellan, C.J. (2023). Speculative
 Game Design of Asymmetric Cooperative Games to Study Human-Machine Teaming. In _Proceedings
 of The First Workshop on Human-AI Interaction through Play @ The Foundations of Digital Games
 2023 (FDG 2023)_. [(pdf)][harpstead-fdg-23]
+
+Darryl Hannan, Steven C. Nesbit, Ximing Wen, Glen Smith, Qiao Zhang, Alberto Goffi, Vincent Chan, Michael J. Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, Rosina O. Weber, Christopher J. MacLellan
+
+Hannan, D., Nesbit, S.C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris, M.J., 
+Hunninghake, J.C., Villalobos, N.E., Kim, E., Weber, R.O., MacLellan, C.J. (2023). 
+MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examples. In Proceedings
+of The Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence.
+[(pdf)][hannan-iaai-23]
 
 MacLellan, C.J., Stowers, K., Brady, L. (2022). Evaluating Alternative Training Interventions
 Using Personalized Computational Models of Learning. Advances in Cognitive Systems, 10, 1-18. 
@@ -75,6 +82,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[hannan-iaai-23]: https://arxiv.org/abs/2212.03282
 [harpstead-fdg-23]: https://doi.org/10.1145/3582437.3587200
 [maclellan-acs-22-video]: https://www.youtube.com/watch?v=ACTJaLlup-I
 [maclellan-acs-22]: https://chrismaclellan.com/media/publications/maclellan-acs-22.pdf
