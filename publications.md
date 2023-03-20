@@ -14,7 +14,7 @@ Hannan, D., Nesbit, S.C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Mo
 Hunninghake, J.C., Villalobos, N.E., Kim, E., Weber, R.O., MacLellan, C.J. (2023). 
 MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examples. In Proceedings
 of The Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence.
-[(pdf)][hannan-iaai-23]
+[(pdf)][hannan-iaai-23][<i class="fab fa-youtube"></i>][hannan-iaai-23-video]
 
 MacLellan, C.J., Stowers, K., Brady, L. (2022). Evaluating Alternative Training Interventions
 Using Personalized Computational Models of Learning. Advances in Cognitive Systems, 10, 1-18. 
@@ -80,6 +80,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[hannan-iaai-23-video]: https://youtu.be/7ex8qQT5xSs
 [hannan-iaai-23]: https://arxiv.org/abs/2212.03282
 [harpstead-fdg-23]: https://doi.org/10.1145/3582437.3587200
 [maclellan-acs-22-video]: https://www.youtube.com/watch?v=ACTJaLlup-I
