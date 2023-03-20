@@ -10,8 +10,6 @@ Game Design of Asymmetric Cooperative Games to Study Human-Machine Teaming. In _
 of The First Workshop on Human-AI Interaction through Play @ The Foundations of Digital Games
 2023 (FDG 2023)_. [(pdf)][harpstead-fdg-23]
 
-Darryl Hannan, Steven C. Nesbit, Ximing Wen, Glen Smith, Qiao Zhang, Alberto Goffi, Vincent Chan, Michael J. Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, Rosina O. Weber, Christopher J. MacLellan
-
 Hannan, D., Nesbit, S.C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris, M.J., 
 Hunninghake, J.C., Villalobos, N.E., Kim, E., Weber, R.O., MacLellan, C.J. (2023). 
 MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examples. In Proceedings
