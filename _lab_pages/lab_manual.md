@@ -326,9 +326,9 @@ All research funded by external grants _must_ acknowledge the funding agency and
 
 ## Other Resources
 
-[https://people.cs.umass.edu/~wallach/how\_to\_be\_a\_successful\_phd\_student.pdf](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
+[How to be a Successful PhD Student (in CS)](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 
-[https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
+[Eric Gilbert's PhD Student Syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
 [research-thrusts]: {{ 'images/Research-Thrusts.png' | relative_url }}
 [lab-vision]: /vision/
