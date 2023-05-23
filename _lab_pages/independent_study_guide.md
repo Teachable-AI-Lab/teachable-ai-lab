@@ -1,17 +1,14 @@
 ---
 layout: post
-title:  Teachable AI Lab Manual
+title:  Independent Study Guide
 date:   2023-5-23
-permalink: /independent_study/rubric/
+permalink: /independent_study/
 author: Christopher J. MacLellan
 comments: false
+published: false
 ---
 
-# Rubric for Evaluating Student Independent Study
-
-Student Name: ____________________________        Semester: ________________
-
-Evaluator: _______________________________
+This document specifies a rubric that outlines the core evaluation dimensions for an independent study project within the lab. This rubric aims to support students participating in an independent study by clearly outlining what is expected of them. Similarly, it provides a framework for mentors to evaluate and give feedback to mentees.
 
 | Criteria                   | Excellent (4)             | Good (3)              | Fair (2)            | Poor (1)            |
 |----------------------------|---------------------------|-----------------------|---------------------|---------------------|
@@ -24,20 +21,4 @@ Evaluator: _______________________________
 | Problem Solving and Critical Thinking | Displays exceptional problem-solving skills, exhibiting advanced creativity and identifying innovative solutions. | Applies critical thinking to analyze and evaluate research outcomes effectively. | Demonstrates satisfactory problem-solving skills but may require guidance in complex situations. | Struggles to apply critical thinking and problem-solving skills effectively. |
 | Professionalism and Ethical Conduct | Consistently demonstrates exceptional professionalism, punctuality, and commitment to the project. | Adheres to ethical standards, ensuring integrity and confidentiality in research practices. | Demonstrates satisfactory professionalism but with occasional lapses in punctuality or ethical conduct. | Displays unprofessional behavior or fails to adhere to ethical standards. |
 
-
-Overall Comments:
-
-
-
-
-Areas of Strength:
-
-
-
-
-Areas for Improvement:
-
-
-
-
-Note: This rubric provides a basic framework for evaluating the student's independent study performance in each criterion. The examples provided within each cell of the table should align with the specific performance level. It is crucial to provide specific and constructive comments for each criterion, highlighting the student's achievements and areas for growth. The feedback provided should focus on their development and enhancing their research skills, without being directly linked to the student's grade.
+Note: This rubric provides a basic framework for what is expected during an independent study. It provides a basis for mentors and mentees to set clear expectations and to structure performance evaluation. Mentors should provide specific and constructive comments for each criterion, highlighting the student's achievements and areas for growth. The feedback should aim first and foremost to support each mentee's development.

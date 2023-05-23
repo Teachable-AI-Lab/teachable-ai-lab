@@ -9,6 +9,9 @@ comments: false
 
 Our lab is committed to developing a positive lab culture where individuals are supported and invested in the lab mission. To support this commitment, we have created this manual to describe our lab, the cultural values we aspire to, and expectations for lab members.
 
+* TOC
+{:toc}
+
 ## Welcome!
 
 It looks like you recently joined the Teachable AI Lab in Georgia Institute of Technology (Georgia Tech)’s School of Interactive Computing. That's great! We're really glad to have you here and will do what we can to make your time in the lab amazing. We hope you'll learn a lot about human-computer interaction, artificial intelligence, machine learning, and computer science, develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
