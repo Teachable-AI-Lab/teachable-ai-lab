@@ -22,12 +22,12 @@ layout: default
     {%- endif -%}
     --->
 
-    {%- if collection %}
-    {%- if collection.size > 0 -%}
-
     {%- if page.list_title -%}
     <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
+
+    {%- if collection %}
+    {%- if collection.size > 0 -%}
 
     <ul class="post-list">
         {% assign sorted_collection = collection | sort: 'date' | reverse %}
