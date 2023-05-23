@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign collection = site.collections | where: "label", page.collection_name | first %}
+
 <article class="post">
 
   <div class="post-content">
@@ -20,34 +22,37 @@ layout: default
     {%- endif -%}
     --->
 
-    {%- if site.projects.size > 0 -%}
+    {%- if collection %}
+    {%- if collection.size > 0 -%}
+
     {%- if page.list_title -%}
     <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
+
     <ul class="post-list">
-        {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
-        {%- for project in sorted_projects -%}
+        {% assign sorted_collection = collection | sort: 'date' | reverse %}
+        {%- for item in sorted_collection -%}
         <li>
-            {%- if project.img -%}
+            {%- if item.img -%}
             <div style="clear: both;"></div>
-            <img class="left list-thumb" src="{{ project.img }}">
+            <img class="left list-thumb" src="{{ item.img }}">
             {%- endif -%}
 
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 	    <!-- <span class="post-meta">{{ project.date | date: date_format }}</span> -->
             <h3>
-                <a class="post-link" href="{{ project.url | relative_url }}">
-                    {{ project.title | escape }}
+                <a class="post-link" href="{{ item.url | relative_url }}">
+                    {{ item.title | escape }}
                 </a>
             </h3>
 
             {%- if site.show_excerpts -%}
-            {%- if post.img -%}
-            <img src="{{ site.baseurl }}/{{ post.img }}">
+            {%- if item.img -%}
+            <img src="{{ site.baseurl }}/{{ item.img }}">
             {%- endif -%}
-            {{ project.excerpt }}
+            {{ item.excerpt }}
             {%- endif -%}
-            {%- if project.img -%}
+            {%- if item.img -%}
             <div style="clear: both;"></div>
             {%- endif -%}
         </li>
@@ -55,6 +60,7 @@ layout: default
     </ul>
 
     <!-- <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p> -->
+    {%- endif -%}
     {%- endif -%}
 
 </div>

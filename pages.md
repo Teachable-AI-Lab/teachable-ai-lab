@@ -1,7 +1,6 @@
 ---
 layout: collection_list 
-collection: pages
+collection_name: pages
 title: Lab Pages
+list_title: Lab Pages
 ---
-
-## Lab Pages
