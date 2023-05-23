@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Teachable AI Lab Manual
-date:   2023-3-6
+date:   2023-5-23
 permalink: /independent_study/rubric/
 author: Christopher J. MacLellan
 comments: false
