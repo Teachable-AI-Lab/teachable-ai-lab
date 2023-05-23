@@ -59,6 +59,7 @@ collections:
   projects:
     output: true
   pages:
+    output: true
 
 show_excerpts: true
 

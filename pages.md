@@ -1,5 +1,6 @@
 ---
-layout: blog_home
+layout: collection_list 
+collection: pages
 title: Lab Pages
 ---
 
