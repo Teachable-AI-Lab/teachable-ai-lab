@@ -51,14 +51,14 @@ header_pages:
   - people.md
   - research.md
   - publications.md
-  - pages.md
+  - lab_pages.md
 
 collections:
   people:
     order: 2
   projects:
     output: true
-  pages:
+  lab_pages:
     output: true
 
 show_excerpts: true
