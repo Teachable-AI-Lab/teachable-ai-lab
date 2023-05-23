@@ -1,4 +1,13 @@
-Rubric for Evaluating Student Independent Study
+---
+layout: post
+title:  Teachable AI Lab Manual
+date:   2023-3-6
+permalink: /independent_study/rubric/
+author: Christopher J. MacLellan
+comments: false
+---
+
+# Rubric for Evaluating Student Independent Study
 
 Student Name: ____________________________        Semester: ________________
 
