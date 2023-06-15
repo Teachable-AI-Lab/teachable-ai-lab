@@ -187,7 +187,7 @@ One of the challenges with installing python versions using pyenv is that you ne
 * **Decompress file** - `tar zxvf openssl-1.1.1u.tar.gz`
 * **Navigate to folder** - `cd openssl-1.1.1u`
 * **Configure install** - `./config --prefix=/home/<username>/openssl --openssldir=/home/<username>/openssl no-ssl2`
-* **Compile** - Use the commands `make` and `make test`. At the end you should see "All tests successful"
+* **Compile** - Use the commands `make` and `make test`. After running the second command, you should see "All tests successful"
 * **Install** - Use command `make install`
 
 Once this is done, then I had to run the following:
