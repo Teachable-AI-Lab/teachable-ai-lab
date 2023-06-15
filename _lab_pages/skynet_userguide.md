@@ -28,7 +28,7 @@ After logging in, you'll see that your home directory is quite small (30G), you 
 
 Navigate to `/srv/tail-lab/` and create a folder with your username (e.g., for me I created `/srv/tail-lab/cmaclellan3`). 
 
-You should put all the files you work with here, so you do not fill up the hard dive space available in your home directory and so that you can access these files from any node in the skynet cluster.
+You should put all the files you work with here, so you do not fill up the hard dive space available in your home directory and so that you can access these files from any node in the skynet cluster. To make things easier, I created a system link in my home directory that points to this folder: `ln -s /srv/tail-lab/flash10/cmaclellan3/ ~/nostalgia`. This means that there is a folder in my home directory called nostalgia that links to this location. As another example of how I use this space, I installed pyenv to `~/nostalgia/.pyenv` rather than `~/.pyenv`, so all my virtual machines are stored on the fileserver rather than in my more limited home directory.
 
 Once this is set up, you should pretty much do EVERYTHING using slurm. For example, you should slurm to do things like unzipping tarballs, running a data preprocessing script (even single core one), etc. Typically, you will use an interactive slurm session for this, which we will cover next.
 
