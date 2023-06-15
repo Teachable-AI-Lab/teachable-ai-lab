@@ -7,20 +7,20 @@ author: Christopher J. MacLellan
 comments: false
 ---
 
-SkyNet is a GPU-intensive cluster shared by research labs at GaTech. It pools resources (money, time, attention) to create and maintain the best compute cluster in academia for modern AI/ML research. You can learn more about it here: http://optimus.cc.gatech.edu/wiki/skynet. Skynet manages jobs using the slurm system, and you will need to use slurm to interface with it. This guide explains the basics of how to use skynet and slurm.
+SkyNet is a GPU-intensive cluster shared by research labs at GaTech. It pools resources (money, time, attention) to create and maintain the best compute cluster in academia for modern AI/ML research. You can learn more about it here: <http://optimus.cc.gatech.edu/wiki/skynet>. Skynet manages jobs using the slurm system, and you will need to use slurm to interface with it. This guide explains the basics of how to use skynet and slurm.
 
 * TOC
 {:toc}
 
 # What is slurm?
-It is an "an open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters". You can learn more about it here: https://en.wikipedia.org/wiki/Slurm_Workload_Manager
+It is an "an open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters". You can learn more about it here: <https://en.wikipedia.org/wiki/Slurm_Workload_Manager>
 
 At its core, slurm provides a way to request access to a certain compute resources for a certain period of time. It aims to allocate these resources from the compute cluster in a efficient and fair fashion. 
 
 To get access to skynet, our lab has contributed compute and storage nodes to the cluster. In return, we can use the resources we contributed as well as any additional idle / unused compute resources across the cluster. Depending on the current load on the cluster, this should make it possible to get more compute out than we contributed for burst activities. It also produces more efficient utilization of the cluster's compute resources.
 
 # How do I get access and get started? 
-First, follow the steps here: http://optimus.cc.gatech.edu/wiki/skynet#how-to-get-access
+First, follow the steps here: <http://optimus.cc.gatech.edu/wiki/skynet#how-to-get-access>
 
 Once you do this, then you can log into a skynet head node using ssh; e.g., `ssh sky1.cc.gatech.edu`.
 
@@ -157,4 +157,4 @@ You can use this to find your job and its job id.
 Canceling a running interactive or executable job is easy, just kill the process from the shell that is running it. For batch jobs, running scancel jobid terminates the associated job in the same way as if it had run out of time (i.e. terminated after a 5 minute grace window after issuing a SIGTERM). To get your job ID, just check the queue using the commands from the section above this one.
 
 # Frequent Issues
-Please see here for a list of frequent issues: http://optimus.cc.gatech.edu/wiki/skynet#expectations-and-advice_frequently-encountered-issues
+Please see here for a list of frequent issues: <http://optimus.cc.gatech.edu/wiki/skynet#expectations-and-advice_frequently-encountered-issues>
