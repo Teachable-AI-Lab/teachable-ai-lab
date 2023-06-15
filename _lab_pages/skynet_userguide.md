@@ -177,24 +177,12 @@ eval "$(pyenv virtualenv-init -)"
 
 You can see how I set up these paths to point to my new `.pyenv` location on the fileserver.
 
-Once pyenv is installed you can install the version of python that you want; e.g., `pyenv install 3.11.4`.
+One of the challenges with installing python versions using pyenv is that you need some basic dependencies installed on the host machine. In particular, we need openssl-1.1.1 for newer versions of python. I've compiled openssl-1.1.1 and stored it in `/srv/tail-lab/flash10/openssl`. You can use the libraries here to install newer versions of python with pyenv using the following:
 
-One of the challenges with installing python versions using pyenv is that you need some basic dependencies installed on the host machine. In particular, we need openssl-1.1.1 for newer versions of python. I followed the instructions [here](https://help.dreamhost.com/hc/en-us/articles/360001435926-Installing-OpenSSL-locally-under-your-username) to install openssl locally to my account. Here are the key steps:
-* **Get openssl link** - Visit <https://www.openssl.org/source/> and locate the
-  version you wish to download. Right click it and choose Copy link address.
-  Note, later versions of python need openssl version 1.1.1.
-* **Download file** - `wget https://www.openssl.org/source/openssl-1.1.1u.tar.gz`
-* **Decompress file** - `tar zxvf openssl-1.1.1u.tar.gz`
-* **Navigate to folder** - `cd openssl-1.1.1u`
-* **Configure install** - `./config --prefix=/home/<username>/openssl --openssldir=/home/<username>/openssl no-ssl2`
-* **Compile** - Use the commands `make` and `make test`. After running the second command, you should see "All tests successful"
-* **Install** - Use command `make install`
-
-Once this is done, then I had to run the following:
 ```
-CPPFLAGS=-I$HOME/openssl/include \
-LDFLAGS=-L$HOME/openssl/lib \
-SSH=$HOME/openssl
+CPPFLAGS=-I/srv/tail-lab/flash10/openssl/include \
+LDFLAGS=-L/srv/tail-lab/flash10/openssl/lib \
+SSH=/srv/tail-labl/flash10/openssl \
 pyenv install 3.11.4
 ```
 
