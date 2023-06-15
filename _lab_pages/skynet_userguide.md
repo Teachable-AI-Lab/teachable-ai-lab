@@ -28,7 +28,7 @@ After logging in, you'll see that your home directory is quite small (30G), you 
 
 Navigate to `/srv/tail-lab/` and create a folder with your username (e.g., for me I created `/srv/tail-lab/cmaclellan3`). 
 
-You should put all the files you work with here, so you do not fill up the hard dive space available in your home directory and so that you can access these files from any node in the skynet cluster. To make things easier, I created a system link in my home directory that points to this folder: `ln -s /srv/tail-lab/flash10/cmaclellan3/ ~/nostalgia`. This means that there is a folder in my home directory called nostalgia that links to this location. As another example of how I use this space, I installed pyenv to `~/nostalgia/.pyenv` rather than `~/.pyenv`, so all my virtual machines are stored on the fileserver rather than in my more limited home directory.
+You should put all the files you work with here, so you do not fill up the hard dive space available in your home directory and so that you can access these files from any node in the skynet cluster. To make things easier, I created a system link in my home directory that points to this folder: `ln -s /srv/tail-lab/flash10/cmaclellan3/ ~/nostalgia`. This means that there is a folder in my home directory called nostalgia that links to this location.
 
 Once this is set up, you should pretty much do EVERYTHING using slurm. For example, you should slurm to do things like unzipping tarballs, running a data preprocessing script (even single core one), etc. Typically, you will use an interactive slurm session for this, which we will cover next.
 
@@ -158,3 +158,44 @@ Canceling a running interactive or executable job is easy, just kill the process
 
 # Frequent Issues
 Please see here for a list of frequent issues: <http://optimus.cc.gatech.edu/wiki/skynet#expectations-and-advice_frequently-encountered-issues>
+
+# Setting up pyenv
+
+Many people use conda, but I much prefer pyenv.
+
+Typically, I install pyenv using [pyenv-installer](https://github.com/pyenv/pyenv-installer). This lets me install with a single command: `curl https://pyenv.run | bash`.
+
+Once I installed pyenv, I moved the `~/.pyenv` folder to the lab fileserver at `/srv/tail-lab/flash10/cmaclellan3/.pyenv`, which way my virtual machines are not taking up space on my limited user space.
+
+I then updated my `~/.bashrc` file to contain the following pyenv setup:
+```
+export PYENV_ROOT="/srv/tail-lab/flash10/cmaclellan3/.pyenv"
+command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+```
+
+You can see how I set up these paths to point to my new `.pyenv` location on the fileserver.
+
+Once pyenv is installed you can install the version of python that you want; e.g., `pyenv install 3.11.4`.
+
+One of the challenges with installing python versions using pyenv is that you need some basic dependencies installed on the host machine. In particular, we need openssl-1.1.1 for newer versions of python. I followed the instructions [here](https://help.dreamhost.com/hc/en-us/articles/360001435926-Installing-OpenSSL-locally-under-your-username) to install openssl locally to my account. Here are the key steps:
+* **Get openssl link** - Visit <https://www.openssl.org/source/> and locate the
+  version you wish to download. Right click it and choose Copy link address.
+  Note, later versions of python need openssl version 1.1.1.
+* **Download file** - `wget https://www.openssl.org/source/openssl-1.1.1g.tar.gz`
+* **Decompress file** - `tar zxvf openssl-1.1.1g.tar.gz`
+* **Navigate to folder** - `cd openssl-1.1.1g`
+* **Configure install** - `./config --prefix=/home/<username>/openssl --openssldir=/home/<username>/openssl no-ssl2`
+* **Compile** - Use the commands `make` and `make test`. At the end you should see "All tests successful"
+* **Install** - Use command `make install`
+
+Once this is done, then I had to run the following:
+```
+CPPFLAGS=-I$HOME/openssl/include \
+LDFLAGS=-L$HOME/openssl/lib \
+SSH=$HOME/openssl
+pyenv install 3.11.4
+```
+
+This uses the installed version of openssl when compiling the versions of python I wanted.
