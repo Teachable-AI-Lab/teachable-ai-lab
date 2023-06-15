@@ -183,9 +183,9 @@ One of the challenges with installing python versions using pyenv is that you ne
 * **Get openssl link** - Visit <https://www.openssl.org/source/> and locate the
   version you wish to download. Right click it and choose Copy link address.
   Note, later versions of python need openssl version 1.1.1.
-* **Download file** - `wget https://www.openssl.org/source/openssl-1.1.1g.tar.gz`
-* **Decompress file** - `tar zxvf openssl-1.1.1g.tar.gz`
-* **Navigate to folder** - `cd openssl-1.1.1g`
+* **Download file** - `wget https://www.openssl.org/source/openssl-1.1.1u.tar.gz`
+* **Decompress file** - `tar zxvf openssl-1.1.1u.tar.gz`
+* **Navigate to folder** - `cd openssl-1.1.1u`
 * **Configure install** - `./config --prefix=/home/<username>/openssl --openssldir=/home/<username>/openssl no-ssl2`
 * **Compile** - Use the commands `make` and `make test`. At the end you should see "All tests successful"
 * **Install** - Use command `make install`
