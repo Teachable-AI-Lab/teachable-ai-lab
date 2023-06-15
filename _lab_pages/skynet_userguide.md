@@ -42,27 +42,27 @@ Once you are logged into a skynet head node, you should launch `tmux` so you can
 This runs a slurm job using the "debug" priority level, which is the highest. It also has a max runtime of 4 hours, so your session will get killed if it exceeds that amount of time. The -J option provides a name for the slurm job, in this case, we called it "test" but you can name it other things. The `--pty` option requests a pseudo terminal for your interactive session. Lastly the `bash` command will be executed within the allocated resources, this starts your interactive bash shell in the terminal. 
 
 It is also possible to request specific resources using standard slurm commands. For example:
-	- `--gres=gpu:1` will request 1 GPUs for your use
-	- `--constraint=a40 --gpus-per-node=2` will request 2x A40 GPUs
-	- `--cpus-per-task <num_cpus>` or `-c <num_cpus>` (for short) will specify the number of cpus you want
-	- `--mem=4G` will request 4G of system memory
-	- `-w consu` to request the specific compute node consu
+* `--gres=gpu:1` will request 1 GPUs for your use
+* `--constraint=a40 --gpus-per-node=2` will request 2x A40 GPUs
+* `--cpus-per-task <num_cpus>` or `-c <num_cpus>` (for short) will specify the number of cpus you want
+* `--mem=4G` will request 4G of system memory
+* `-w consu` to request the specific compute node consu
 
 There are a couple of types of GPUs available on skynet:
-	- Titan XP: `--constraint=titan_x`
-	- RTX 2080 Ti: `--constraint=2080_ti`
-	- Quadro RTX 6000: `--constraint=rtx_6000`
-	- A40: `--constraint=a40`
+* Titan XP: `--constraint=titan_x`
+* RTX 2080 Ti: `--constraint=2080_ti`
+* Quadro RTX 6000: `--constraint=rtx_6000`
+* A40: `--constraint=a40`
 
 Note, the constraints support disjunctions, so you can specify multiple acceptable options; e.g., to get a titan xp or a 2080 ti you can put: `--constraint="titan_x|2080_ti"` (note you need to put the constraints in quotes here).
 
 ## Single executable
 While interactive jobs are great for development, the are limited in runtime. Jobs expected to take longer than the debug queue allows must be submitted to the non-interactive short or long queues as independent processes or as batch scripts. Unlike interactive jobs, jobs must be tied to a specific executable or script and resources are released upon termination of that process. 
 
-Suppose I have a job that I want to run on a single gpu (don't care which kind) and I expect it to run for no more than 8 hours. I could directly submit this process to the queue using srun: `srun -p short -t 08:00:00 --gres gpu:1 /srv/tail-lab/flash10/cmaclellan3/nbody -numbodies=200000 -device=0 -benchmark |& tee task.log`
-	- srun -p short -t 08:00:00 –gres gpu:1 specifies that the job is for the short queue (-p short), has a self-imposed max runtime of 8 hours (-t 08:00:00), and requires 1 GPU (–gres gpu:1).
-	- /srv/tail-lab/flash10/cmaclellan3/nbody -numbodies=200000 -device=0 -benchmark is the process I want to run with its arguments.
-	- |& tee task.logfile is used to print a copy of all console output to task.logfile and is great for keeping track of different experiments.
+Suppose I have a job that I want to run on a single gpu (don't care which kind) and I expect it to run for no more than 8 hours. I could directly submit this process to the queue using srun: `srun -p short -t 08:00:00 --gres=gpu:1 /srv/tail-lab/flash10/cmaclellan3/nbody -numbodies=200000 -device=0 -benchmark |& tee task.log`
+* `srun -p short -t 08:00:00 –gres=gpu:1` specifies that the job is for the short queue (`-p short`), has a self-imposed max runtime of 8 hours (`-t 08:00:00`), and requires 1 GPU (`–gres=gpu:1`).
+* `/srv/tail-lab/flash10/cmaclellan3/nbody -numbodies=200000 -device=0 -benchmark` is the process I want to run with its arguments.
+* `|& tee task.logfile` is used to print a copy of all console output to `task.logfile` and is great for keeping track of different experiments.
 
 After issuing this command, the shell will wait for allocation before executing the process on the reserved node. Like with interactive jobs, the process is tied to the executing shell so it is advised to run any srun commands from within a screen.
 
@@ -83,7 +83,7 @@ echo $CUDA_AVAILABLE_DEVICES
 srun /srv/tail-lab/cmaclellan3/nbody -numbodies=200000 -device=0,1 -benchmark
 ```
 
-The #SBATCH commands specify which queue (-p short), the number and type of requested GPUs (--gres=gpu:2), the type of GPU (--constraint=a40), a name for my job when it appears on the queue (-J my_short_job), and an output file where console output will be redirected (-o my_short_job.log). Multiple processes can be executed in sequence in the batch script. To submit the job script, simply run:
+The `#SBATCH` commands specify which queue (`-p short`), the number and type of requested GPUs (`--gres=gpu:2`), the type of GPU (`--constraint=a40`), a name for my job when it appears on the queue (`-J my_short_job`), and an output file where console output will be redirected (`-o my_short_job.log`). Multiple processes can be executed in sequence in the batch script. To submit the job script, simply run:
 
 ```
 cmaclellan3@sky1:~$ sbatch myjob.sh
@@ -114,7 +114,7 @@ Run "nbody -benchmark [-numbodies=<numBodies>]" to measure performance.
 = 2462.302 single-precision GFLOP/s at 20 flops per interaction
 ```
 
-Note: Despite which physical GPU you are actually allocated, the ID's for CUDA_VISIBLE_DEVICES will be set starting from 0 for all jobs (batch or otherwise). This actually makes setting device IDs for programs a bit easier!
+Note: Despite which physical GPU you are actually allocated, the ID's for `CUDA_VISIBLE_DEVICES` will be set starting from 0 for all jobs (batch or otherwise). This actually makes setting device IDs for programs a bit easier!
 
 ## Slurm Priority Levels 
 SLURM is configured to have three queues which share all of the managed CPUs and GPUs:
@@ -131,9 +131,9 @@ SLURM is configured to have three queues which share all of the managed CPUs and
 Note, that slurm allows you to submit to multiple partitions at once, i.e. `short,user-overcap` will have a job first fill up your user GPU cap on short and then will spill over into `user-overcap` as needed.
 
 Each queue has different settings to accommodate the different ways we use the GPUs in our cluster. These differences are defined by:
-	- Max Runtime - At the end of the maximum runtime, jobs will be sent SIGTERM. After a grace period (5 minutes), the process will be sent a SIGKILL and be terminated. If your code is doing regular checkpointing then there should be an upper bound to how much progress is lost; however, a better choice is to set up a signal handler to make the SIGTERM trigger a checkpoint.
-	- Priority - This is a non-preemptive priority meaning if a GPU becomes available, priority will be given to jobs with higher priority numbers. This lets us run jobs from the shorter queues before longer jobs when resources are available.
-	- Interactive Jobs - So no one accidentally keeps a GPU for longer than a job takes, we are limiting interactive sessions to the debug queue. Non-interactive jobs are bound to specific processes and release their resources when the process terminates.
+* **Max Runtime** - At the end of the maximum runtime, jobs will be sent SIGTERM. After a grace period (5 minutes), the process will be sent a SIGKILL and be terminated. If your code is doing regular checkpointing then there should be an upper bound to how much progress is lost; however, a better choice is to set up a signal handler to make the SIGTERM trigger a checkpoint.
+* **Priority** - This is a non-preemptive priority meaning if a GPU becomes available, priority will be given to jobs with higher priority numbers. This lets us run jobs from the shorter queues before longer jobs when resources are available.
+* **Interactive Jobs** - So no one accidentally keeps a GPU for longer than a job takes, we are limiting interactive sessions to the debug queue. Non-interactive jobs are bound to specific processes and release their resources when the process terminates.
 
 ## Checking the queues
 You can use the command `squeue` to check the status of your slurm jobs on the cluster.
