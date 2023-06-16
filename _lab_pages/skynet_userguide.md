@@ -276,9 +276,9 @@ You can install your python 3.7+ using:
 ```
 CC=/srv/tail-lab/flash10/shared_packages/gcc-13/bin/gcc \
 CXX=/srv/tail-lab/flash10/shared_packages/gcc-13/bin/g++ \
-LDFLAGS="-Wl,-rpath,/srv/tail-lab/flash10/shared_packages/openssl-1.1.1u/lib -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/libffi-3.4.4/lib -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/gcc-13/lib64 -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/sqlite-autoconf-3420000/lib"
-PYTHON_CFLAGS="-march=native" \
-CONFIGURE_OPTS="--enable-optimizations --with-lto --with-openssl=/srv/tail-lab/flash10/shared_packages/openssl-1.1.1u" \
+CPPFLAGS="-I/srv/tail-lab/flash10/shared_packages/sqlite-autoconf-3420000/include -I/srv/tail-lab/flash10/shared_packages/libffi-3.4.4/include" \
+LDFLAGS="-Wl,-rpath,/srv/tail-lab/flash10/shared_packages/openssl-1.1.1u/lib -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/libffi-3.4.4/lib -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/gcc-13/lib64 -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/sqlite-autoconf-3420000/lib -L/srv/tail-lab/flash10/shared_packages/sqlite-autoconf-3420000/lib -L/srv/tail-lab/flash10/shared_packages/libffi-3.4.4/lib" \
+CONFIGURE_OPTS="--enable-optimizations --with-lto --with-openssl=/srv/tail-lab/flash10/shared_packages/openssl-1.1.1u --with-system-ffi=/srv/tail-lab/flash10/shared_packages/libffi-3.4.4" \
 pyenv install -v 3.11.4
 ```
 
