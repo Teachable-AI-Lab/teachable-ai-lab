@@ -177,12 +177,15 @@ eval "$(pyenv virtualenv-init -)"
 
 You can see how I set up these paths to point to my new `.pyenv` location on the fileserver.
 
-One of the challenges with installing python versions using pyenv is that you need some basic dependencies installed on the host machine. In particular, we need openssl-1.1.1 for newer versions of python. I've compiled openssl-1.1.1 and stored it in `/srv/tail-lab/flash10/openssl`. You can use the libraries here to install newer versions of python with pyenv using the following:
+One of the challenges with installing python versions using pyenv is that you need some basic dependencies installed on the host machine. In particular, we need openssl-1.1.1 for newer versions of python. I've compiled openssl-1.1.1 and stored it in `/srv/tail-lab/flash10/shared_packages/openssl`. You can use the libraries here to install newer versions of python with pyenv using the following.
 
+You can install your python 3.7+ using:
 ```
-CPPFLAGS="-I/srv/tail-lab/flash10/openssl/include" \
-LDFLAGS="-L/srv/tail-lab/flash10/openssl/lib" \
+CC=/home/cmaclellan3/packages/gcc-13/bin/gcc \
+CONFIGURE_OPTS=--enable-optimizations --with-lto --with-openssl=/home/cmaclellan3/packages/openssl-1.1.1u --with-system-ffi=/home/cmaclellan3/packages/libffi-3.4.4 \
 pyenv install -v 3.11.4
 ```
 
-This uses the installed version of openssl when compiling the versions of python I wanted.
+Note, this uses the precompiled openssl and libffi libraries. It also uses the `--enable-optimizations --with-lto` flags, which make the build take significantly longer, but increases the speed of python around 30%.
+
+To get a version of python that has full c++ build support (e.g., that supported c++17 and c++20 standards), I had to manually build gcc. Let me know if you're having build issues and maybe we can sort it out. 
