@@ -18,6 +18,7 @@ of The Thirty-Fifth Annual Conference on Innovative Applications of Artificial I
 
 MacLellan, C.J., Stowers, K., Brady, L. (2022). Evaluating Alternative Training Interventions
 Using Personalized Computational Models of Learning. Advances in Cognitive Systems, 10, 1-18. 
+[(pdf)][maclellan-acs-journal-22]
 
 MacLellan, C.J., Matsakis, P., & Langley, P. (2022). Efficient Induction of Language Models
 via Probabilistic Concept Formation. In Proceedings of the Tenth Annual Conference on
@@ -80,6 +81,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[maclellan-acs-journal-22]: https://chrismaclellan.com/media/publications/maclellan-acs-journal-2022.pdf
 [hannan-iaai-23-video]: https://youtu.be/7ex8qQT5xSs
 [hannan-iaai-23]: https://arxiv.org/abs/2212.03282
 [harpstead-fdg-23]: https://doi.org/10.1145/3582437.3587200
