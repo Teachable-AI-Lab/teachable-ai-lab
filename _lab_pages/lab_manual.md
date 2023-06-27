@@ -211,7 +211,7 @@ Full-time lab members should install Slack on their computers and/or phones. Par
 
 ### OneDrive
 
-The lab has a shared One Drive Folder ("Teachable AI Lab"), which we can use to store documents and files for general lab use (e.g., this manual, weekly notes/slides, etc.). Contact Chris when you want to add something to the lab One Drive.
+The lab has a shared One Drive Folder ("Teachable AI Lab"), which we can use to store documents and files for general lab use (e.g., weekly notes/slides, etc.). Contact Chris when you want to add something to the lab One Drive. The link to the folder is pinned in the general slack channel.
 
 ### GitHub and GitLab
 
