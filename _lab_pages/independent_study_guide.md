@@ -8,12 +8,12 @@ comments: false
 published: true
 ---
 
-This document describes the independent study process at TAIL. 
 At TAIL, we aim to cultivate a new generation of researchers and engineers that
 can bring a broad interdisciplinary perspective to topics at the intersection
 of AI, Cognitive and Learning Sciences, and HCI.
 Independent studies provides an entry point for students to try out being a
 scientist by shadowing and working with scientists in our lab.
+This document describes the independent study process. 
 
 * TOC
 {:toc}
