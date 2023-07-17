@@ -52,12 +52,16 @@ values we aspire to, and expectations for lab members.
 
 ### Interested in getting involved?
 
-Please fill out [this application][tail-application] to apply to work in the lab.
-We will get notified when you submit your application and will follow up about
-available opportunities. Note, all students intersted in conducting an independent
-study should fill out this application before reaching out via email. If you do
-follow up via email, then please reference your application in the email.
 
+If you are a Georgia Tech student, then your first entry point to getting involved with the lab will likely be an independent study. Please review our [independent study guide][independent study guide] to see if this is a good option for you. Note, all students intersted in conducting an independent study should follow the steps in this guide before reaching out via email.
+
+If you are not a Georgia Tech student, then please fill out [this
+application][tail-application] to apply to work in the lab directly. We will get
+notified when you submit your application and will follow up about available
+opportunities. If you do follow up via email, then please reference your
+application in the email.
+
+[independent study guide]: https://tail.cc.gatech.edu/independent_study/
 [tail-application]: https://forms.office.com/r/455mrxTSFa
 [lab vision blogpost]: /vision/
 [lab manual]: /manual/

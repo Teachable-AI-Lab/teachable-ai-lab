@@ -51,7 +51,9 @@ others that could serve as your primary mentor.
 Once you've reviewed the projects, got a good sense for how your work might connect with them, and you've identified a potential mentor, then you should review the general lab [expectations and responsibilities](/manual/#expectations-and-responsibilities) as well as those specific to students completing an [independent study](/manual/#students-doing-independent-study-undergraduate-and-graduate).
 
 Finally, after completing the above, you should proceed to fill out an
-[application](https://forms.office.com/r/455mrxTSFa) to work in the lab. 
+[application](https://forms.office.com/r/455mrxTSFa) to work in the lab. Please
+fill out this application before reaching out via email and if you do follow
+up, then please reference your application in your message.
 
 ## Preparing a Research Plan
 If you are selected to participate in an independent study, then you will be
@@ -77,7 +79,7 @@ Other common deliverables include source code or design documents.
 Your research plan should be no more than three pages and written primarily by
 you, with guidance and feedback provided by your mentor.
 
-## Self and Program Evaluation
+## Evaluation and Reflection
 As mentioned before, a key goal for our group is to foster the next
 generation of scientists and engineers. Towards this end, the following rubric
 outlines several key skills that enable scientists to be successful. At the
@@ -108,7 +110,7 @@ Here is the rubric:
 | Problem Solving and Critical Thinking | Displays exceptional problem-solving skills, exhibiting advanced creativity and identifying innovative solutions. | Applies critical thinking to analyze and evaluate research outcomes effectively. | Demonstrates satisfactory problem-solving skills but may require guidance in complex situations. | Struggles to apply critical thinking and problem-solving skills effectively. |
 | Professionalism and Ethical Conduct | Consistently demonstrates exceptional professionalism, punctuality, and commitment to the project. | Adheres to ethical standards, ensuring integrity and confidentiality in research practices. | Demonstrates satisfactory professionalism but with occasional lapses in punctuality or ethical conduct. | Displays unprofessional behavior or fails to adhere to ethical standards. |
 
-## I finished my independent study, what is next?
+## I finished my independent study, what's next?
 
 Once you complete your independent study, there are a couple of possible next steps that you might consider. We have identified three possible pathways to continued engagement with the lab:
 * Paid graduate reserach position: If your mentor and Chris are impressed by
