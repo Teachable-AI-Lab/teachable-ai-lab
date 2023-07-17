@@ -8,21 +8,15 @@ comments: false
 published: true
 ---
 
-This document describes the independent study process and specifies a rubric
-outlining the core evaluation dimensions for an independent study project
-within the lab. This rubric aims to support students participating in an
-independent study by clearly outlining what is expected of them. It also
-provides a framework for mentors to evaluate and give feedback to mentees.
-
-* TOC
-{:toc}
-
-## High-Level Goal of Independent Study
+This document describes the independent study process at TAIL. 
 At TAIL, we aim to cultivate a new generation of researchers and engineers that
 can bring a broad interdisciplinary perspective to topics at the intersection
 of AI, Cognitive and Learning Sciences, and HCI.
 Independent studies provides an entry point for students to try out being a
 scientist by shadowing and working with scientists in our lab.
+
+* TOC
+{:toc}
 
 ## How to Apply
 The very first thing you should do is review the lab web site (if you're
