@@ -58,7 +58,7 @@ up, then please reference your application in your message.
 ## Preparing a Research Plan
 If you are selected to participate in an independent study, then you will be
 paired with a mentor (likely the one you identified above). Your first task as
-a researcher will be to work with your mentor to prepare a research plan. When
+a researcher will be to work with your mentor to prepare a research plan, which you will ideally submit prior to starting your independent study (or by the second week at the latest). When
 preparing your plan, please try to answer the following [Heilmeier questions](https://www.darpa.mil/work-with-us/heilmeier-catechism) (a standard set of questions by organizations like DARPA to evaluate proposed research plans):
 * What are you trying to do? Articulate your objectives using absolutely no jargon.
 * How is it done today, and what are the limits of current practice?
