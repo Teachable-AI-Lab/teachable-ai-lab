@@ -4,7 +4,7 @@ role: Undergraduate Researcher
 profile_pic: /images/tanush_chopra.jpeg
 email: tchopra32@gatech.edu
 website: https://github.com/Bluefin-Tuna
-category: current
+category: past
 
 ---
 
