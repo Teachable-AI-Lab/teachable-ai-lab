@@ -53,7 +53,7 @@ values we aspire to, and expectations for lab members.
 ### Interested in getting involved?
 
 
-If you are a Georgia Tech student, then your first entry point to getting involved with the lab will likely be an independent study. Please review our [independent study guide][independent study guide] to see if this is a good option for you. Note, all students intersted in conducting an independent study should follow the steps in this guide before reaching out via email.
+If you are a Georgia Tech student, then your first entry point to getting involved with the lab will likely be an independent study. Please review our [independent study guide][independent study guide] to see if this is a good option for you. Note, all students interested in conducting an independent study should follow the steps in this guide before reaching out via email.
 
 If you are not a Georgia Tech student, then please fill out [this
 application][tail-application] to apply to work in the lab directly. We will get
