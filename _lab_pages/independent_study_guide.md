@@ -71,10 +71,11 @@ preparing your plan, please try to answer the following [Heilmeier questions](ht
 
 Your plan should also include the key outputs of your project as well as a
 timeline for when they will be delivered. All independent study projects must
-include two deliverables: a final report describing what you did and your
-reflections on your experience and slides for a final presentation that you
-will give at one of the lab meetings near the end of your independent study.
-Other common deliverables include source code or design documents.
+include two deliverables: (1) a final report that describes what you did and
+includes your reflections and lessons learned on your experience and (2) slides
+for a final presentation that you will give at one of the lab meetings near the
+end of your independent study. Other deliverables might include source code,
+models, or design documents that you produce.
 
 Your research plan should be no more than three pages and written primarily by
 you, with guidance and feedback provided by your mentor.
