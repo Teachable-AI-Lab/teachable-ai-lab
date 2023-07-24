@@ -5,6 +5,9 @@ title: Publications
 
 ## Lab Publications
 
+Lawley, L., & MacLellan, C. J. (2023). Interactive Learning of Hierarchical
+Tasks from Dialog with GPT. arXiv preprint arXiv:2305.10349. [(pdf)][lawley-val-preprint]
+
 Harpstead, E., Stowers, K., Lawley, L., Zhang, Q., MacLellan, C.J. (2023). Speculative
 Game Design of Asymmetric Cooperative Games to Study Human-Machine Teaming. In _Proceedings
 of The First Workshop on Human-AI Interaction through Play @ The Foundations of Digital Games
@@ -81,6 +84,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[lawley-val-preprint]: https://arxiv.org/abs/2305.10349
 [maclellan-acs-journal-22]: https://chrismaclellan.com/media/publications/maclellan-acs-journal-2022.pdf
 [hannan-iaai-23-video]: https://youtu.be/7ex8qQT5xSs
 [hannan-iaai-23]: https://arxiv.org/abs/2212.03282
