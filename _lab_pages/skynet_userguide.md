@@ -44,8 +44,8 @@ Once you do this, then you can log into a skynet head node using ssh; e.g.,
 After logging in, you'll see that your home directory is quite small (30G), you
 should set up a space in our lab's fileserver to work with.
 
-Navigate to `/srv/tail-lab/` and create a folder with your username (e.g., for
-me I created `/srv/tail-lab/cmaclellan3`). 
+Navigate to `/srv/tail-lab/flash10/` and create a folder with your username (e.g., for
+me I created `/srv/tail-lab/flash10/cmaclellan3`). 
 
 You should put all the files you work with here, so you do not fill up the hard
 dive space available in your home directory and so that you can access these
