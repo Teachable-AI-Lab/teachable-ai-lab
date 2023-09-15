@@ -19,7 +19,7 @@ MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examp
 of The Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence.
 [(pdf)][hannan-iaai-23] [<i class="fab fa-youtube"></i>][hannan-iaai-23-video]
 
-MacLellan, C.J., Stowers, K., Brady, L. (2022). Evaluating Alternative Training Interventions
+MacLellan, C.J., Stowers, K., Brady, L. (2023). Evaluating Alternative Training Interventions
 Using Personalized Computational Models of Learning. Advances in Cognitive Systems, 10, 1-18. 
 [(pdf)][maclellan-acs-journal-22]
 
