@@ -9,4 +9,5 @@ category: current
 
 ---
 
-Glen is a PhD student in the Information Science Department.
+Glen is a PhD student in the College of Interactive Computing at Georgia Tech. His research is on developing teachable planning systems
+that can learn tasks from humans via demonstrations, feedback, and other interaction modalities. 
