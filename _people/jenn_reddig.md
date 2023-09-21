@@ -1,7 +1,7 @@
 ---
 name: Jennifer Reddig
 role: PhD Student
-profile_pic: /images/jenn_profile.jpg
+profile_pic: /images/jenn_profile.JPG
 email: jreddig3@gatech.edu
 category: current
 
