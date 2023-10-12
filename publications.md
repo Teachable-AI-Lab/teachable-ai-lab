@@ -5,6 +5,13 @@ title: Publications
 
 ## Lab Publications
 
+Zhang, Q. (2023). Understanding Human-AI Teaming Dynamics through Gaming Environments.
+In _Proceedings of the AAAI Conference on Artificial Intelligence and Interactive
+Digital Entertainment_, 19(1), 440-443. [(pdf)][zhang-aaide-23]
+
+Lawley, L., & MacLellan, C. J. (2023). VAL: Interactive Task Learning with GPT Dialog Parsing.
+arXiv preprint arXiv:2310.01627. [(pdf)][lawley-val-chi-preprint]
+
 Lawley, L., & MacLellan, C. J. (2023). Interactive Learning of Hierarchical
 Tasks from Dialog with GPT. arXiv preprint arXiv:2305.10349. [(pdf)][lawley-val-preprint]
 
@@ -84,6 +91,8 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[zhang-aaide-23]: https://ojs.aaai.org/index.php/AIIDE/article/view/27541
+[lawley-val-chi-preprint]: https://arxiv.org/abs/2310.01627
 [lawley-val-preprint]: https://arxiv.org/abs/2305.10349
 [maclellan-acs-journal-22]: https://chrismaclellan.com/media/publications/maclellan-acs-journal-2022.pdf
 [hannan-iaai-23-video]: https://youtu.be/7ex8qQT5xSs
