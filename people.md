@@ -9,7 +9,7 @@ title: People
 {% for person in sorted %}
 {% if person.category == "current" %}
   <div class="person">
-  	<img src="{{ person.profile_pic }}" alt="Image of {{ person.name }}" width="175px">
+  	<img src="{{ person.profile_pic }}" alt="Image of {{ person.name }}" height="175px">
   	<br>
   	<span class="name">{{ person.name }}</span>
   	<span class="role">{{ person.role }}</span>
