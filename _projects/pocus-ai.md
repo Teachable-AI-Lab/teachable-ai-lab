@@ -2,7 +2,7 @@
 title: POCUS AI
 layout: post
 img: /images/pocus-pnb.gif
-date: 2022-10-28
+date: 2022-09-28
 comments: false
 ---
 
