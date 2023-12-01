@@ -2,7 +2,7 @@
 title: VAL
 layout: post
 img: /images/val.gif
-date: 2023-05-24
+date: 2023-12-01
 comments: false
 ---
 
