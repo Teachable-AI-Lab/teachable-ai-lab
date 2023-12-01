@@ -5,8 +5,8 @@ order: 98
 profile_pic: /images/lane_profile.jpeg
 email: llawley3@gatech.edu
 website: http://www.lanelawley.net
-category: current
+category: past
 
 ---
 
-Adit is a postdoctoral researcher in the lab.
+Lane Lawley is a postdoctoral researcher in the lab.
