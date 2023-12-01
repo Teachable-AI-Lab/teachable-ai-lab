@@ -1,5 +1,5 @@
 ---
-title: Hierarchical Task Networks for Machine Teaching and Human-Machine Teaming
+title: Apprentice Tutor Builder
 layout: post
 img: /images/HTN_Fractions_Mult_Example.png
 date: 2022-10-28
