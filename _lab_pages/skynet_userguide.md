@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Skynet Userguide 
-date:   2023-6-15
+date:   2023-12-9
 permalink: /skynet-userguide/
 author: Christopher J. MacLellan
 comments: false
@@ -67,15 +67,18 @@ allocate you a terminal with the resources that you requested.
 
 Once you are logged into a skynet head node, you should launch `tmux` so you
 can come back if you get disconnected. Afterwards, you can can launch an
-interactive slurm shell with the following command: `srun -p debug -J "test" --pty bash`
+interactive slurm shell with the following command: `srun -p tail-lab -J "test" --pty bash`
 
-This runs a slurm job using the "debug" priority level, which is the highest.
-It also has a max runtime of 4 hours, so your session will get killed if it
-exceeds that amount of time. The -J option provides a name for the slurm job,
-in this case, we called it "test" but you can name it other things. The `--pty`
-option requests a pseudo terminal for your interactive session. Lastly the
-`bash` command will be executed within the allocated resources, this starts
-your interactive bash shell in the terminal. 
+This runs a slurm job using the "tail-lab" partition. 
+Note, skynet is currently undergoing changes so not sure about this, but in the
+past interactive terminals have a max runtime of 4 hours, so your session would
+get killed if it exceeds that amount of time. I'm not sure if this is still the
+case, but if you find your session cut off, this might be the issue. The -J
+option provides a name for the slurm job, in this case, we called it "test" but
+you can name it other things.  The `--pty` option requests a pseudo terminal
+for your interactive session.  Lastly the `bash` command will be executed
+within the allocated resources, this starts your interactive bash shell in the
+terminal. 
 
 It is also possible to request specific resources using standard slurm commands. For example:
 * `--gres=gpu:1` will request 1 GPUs for your use
@@ -104,9 +107,9 @@ script and resources are released upon termination of that process.
 
 Suppose I have a job that I want to run on a single gpu (don't care which kind)
 and I expect it to run for no more than 8 hours. I could directly submit this
-process to the queue using srun: `srun -p short -t 08:00:00 --gres=gpu:1 /srv/tail-lab/flash10/cmaclellan3/nbody -numbodies=200000 -device=0 -benchmark |& tee task.log`
-* `srun -p short -t 08:00:00 –gres=gpu:1` specifies that the job is for the
-  short queue (`-p short`), has a self-imposed max runtime of 8 hours 
+process to the queue using srun: `srun -p tail-lab -t 08:00:00 --gres=gpu:1 /srv/tail-lab/flash10/cmaclellan3/nbody -numbodies=200000 -device=0 -benchmark |& tee task.log`
+* `srun -p tail-lab -t 08:00:00 –gres=gpu:1` specifies that the job is for the
+  tail-lab queue (`-p tail-lab`), and that it has a self-imposed max runtime of 8 hours 
   (`-t 08:00:00`), and requires 1 GPU (`–gres=gpu:1`).
 * `/srv/tail-lab/flash10/cmaclellan3/nbody -numbodies=200000 -device=0 -benchmark`
   is the process I want to run with its arguments.
@@ -127,7 +130,7 @@ options. An example script myjob.sh is shown below:
 
 ```
 #!/bin/sh -l
-#SBATCH -p short
+#SBATCH -p tail-lab
 #SBATCH --gres=gpu:2
 #SBATCH --constraint=a40
 #SBATCH -J my_short_job
@@ -137,7 +140,7 @@ echo $CUDA_AVAILABLE_DEVICES
 srun /srv/tail-lab/cmaclellan3/nbody -numbodies=200000 -device=0,1 -benchmark
 ```
 
-The `#SBATCH` commands specify which queue (`-p short`), the number and type of
+The `#SBATCH` commands specify which queue (`-p tail-lab`), the number and type of
 requested GPUs (`--gres=gpu:2`), the type of GPU (`--constraint=a40`), a name
 for my job when it appears on the queue (`-J my_short_job`), and an output file
 where console output will be redirected (`-o my_short_job.log`). Multiple
@@ -157,7 +160,7 @@ job, its node, and its status.
 ```
 cmaclellan3@sky1:~$ squeue
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-            590645     short     my_short_job cmaclell  R       0:08      1 alexa
+            590645  tail-lab     my_short_job cmaclell  R       0:08      1 alexa
 ```
 
 After it has finished (or any time before) I can check the output file to see
@@ -181,6 +184,9 @@ Note: Despite which physical GPU you are actually allocated, the ID's for
 otherwise). This actually makes setting device IDs for programs a bit easier!
 
 ## Slurm Priority Levels 
+***NOTE*** Slurm is getting reconfigured and this section is out of date!
+Ignore or now.
+
 SLURM is configured to have three queues which share all of the managed CPUs
 and GPUs:
 
@@ -221,12 +227,12 @@ This will output something like:
 ```
 cmaclellan3@sky1:~$ squeue
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-            590647     debug     bash bwilson6  R       4:51      1 spot
-            590642     debug     bash rramrakh  R      13:23      1 megabot
-            590617     debug    inter myang415  R      51:14      1 alexa
-            590584     debug     test   okara7  R    2:54:31      1 alexa
-            590272      long  python3  abeedu3  R   20:08:29      1 nestor
-            590337      long  python3  abeedu3  R   19:27:27      1 megazord
+            590647  rail-lab     bash bwilson6  R       4:51      1 spot
+            590642  rail-lab     bash rramrakh  R      13:23      1 megabot
+            590617  rail-lab    inter myang415  R      51:14      1 alexa
+            590584  rail-lab     test   okara7  R    2:54:31      1 alexa
+            590272  tail-lab  python3  abeedu3  R   20:08:29      1 nestor
+            590337  tail-lab  python3  abeedu3  R   19:27:27      1 megazord
 ```
 
 You can use this to find your job and its job id.
