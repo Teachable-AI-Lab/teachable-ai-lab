@@ -284,14 +284,15 @@ CC=/srv/tail-lab/flash10/shared_packages/gcc-13/bin/gcc \
 CXX=/srv/tail-lab/flash10/shared_packages/gcc-13/bin/g++ \
 CPPFLAGS="-I/srv/tail-lab/flash10/shared_packages/sqlite-autoconf-3420000/include -I/srv/tail-lab/flash10/shared_packages/libffi-3.4.4/include" \
 LDFLAGS="-Wl,-rpath,/srv/tail-lab/flash10/shared_packages/openssl-1.1.1u/lib -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/libffi-3.4.4/lib -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/gcc-13/lib64 -Wl,-rpath,/srv/tail-lab/flash10/shared_packages/sqlite-autoconf-3420000/lib -L/srv/tail-lab/flash10/shared_packages/sqlite-autoconf-3420000/lib -L/srv/tail-lab/flash10/shared_packages/libffi-3.4.4/lib" \
+PYTHON_CFLAGS='-march=native -mtune=native' \
 CONFIGURE_OPTS="--enable-optimizations --with-lto --with-openssl=/srv/tail-lab/flash10/shared_packages/openssl-1.1.1u --with-system-ffi=/srv/tail-lab/flash10/shared_packages/libffi-3.4.4" \
-pyenv install -v 3.11.4
+pyenv install -v 3.11.6
 ```
 
 Note, this uses the precompiled gcc and openssl, libffi, and sqlite3-dev
-libraries. It also uses the `march=native` and `--enable-optimizations
---with-lto` flags, which make the build take significantly longer, but
-increases the speed of python around 30%.
+libraries. It also uses the `-march=native -mtune=native` and
+`--enable-optimizations --with-lto` flags, which make the build take
+significantly longer, but increases the speed of python around 30%.
 
 To get a version of python that has full c++ build support (e.g., that
 supported c++17 and c++20 standards), I had to manually build gcc. Let me know
