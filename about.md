@@ -33,7 +33,9 @@ Within each thrust, we aim to address the following questions:
   humans (incrementally, with few examples, etc.) and that produce human
   relatable/explainable/understandable outputs? The emphasis will be on both
   developing distinct AI and ML components as well as on putting these
-  components together to create integrated systems.
+  components together to create integrated systems. See this
+  [page](https://humanlikelearning.com) for more info on our efforts to build a
+  community and research program around this topic.
 
 - **Computational Models of Human Learning and Decision Making**: How can we
   leverage human data to guide human-like computational model design? How can
