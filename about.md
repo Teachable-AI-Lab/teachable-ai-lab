@@ -8,8 +8,9 @@ permalink: /index.html
 
 The Teachable AI Lab (or TAIL for short) is an interdisciplinary research group at
 [Georgia Institute of Technology][gt home]'s [School of Interactive Computing][ic
-home]. Our mission is to better understand how people teach and learn and to
-build machines that can teach and learn like people do. We engage in both
+home]. We are located in the Technology Square Research Building (TSRB) outside
+at 230B. Our mission is to better understand how people teach and learn and
+to build machines that can teach and learn like people do. We engage in both
 _use-inspired_ and _fundamental_ research to achieve this mission.
 
 ### What we do
@@ -52,14 +53,17 @@ values we aspire to, and expectations for lab members.
 
 ### Interested in getting involved?
 
+If you are a Georgia Tech student, then your first entry point to getting
+involved with the lab will likely be an independent study. Please review our
+[independent study guide][independent study guide] to see if this is a good
+option for you. Note, all students interested in conducting an independent
+study should follow the steps in this guide before reaching out via email.
 
-If you are a Georgia Tech student, then your first entry point to getting involved with the lab will likely be an independent study. Please review our [independent study guide][independent study guide] to see if this is a good option for you. Note, all students interested in conducting an independent study should follow the steps in this guide before reaching out via email.
-
-If you are not a Georgia Tech student, then please fill out [this
-application][tail-application] to apply to work in the lab directly. We will get
-notified when you submit your application and will follow up about available
-opportunities. If you do follow up via email, then please reference your
-application in the email.
+If you are not a Georgia Tech student or are looking for something other than
+an independent study, then please fill out [this application][tail-application]
+to apply to work in the lab directly. We will get notified when you submit your
+application and will follow up about available opportunities. If you do follow
+up via email, then please reference your application in the email.
 
 [independent study guide]: https://tail.cc.gatech.edu/independent_study/
 [tail-application]: https://forms.office.com/r/455mrxTSFa
