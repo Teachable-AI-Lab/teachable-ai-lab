@@ -6,12 +6,12 @@ permalink: /index.html
 
 ### Who we are
 
-The Teachable AI Lab (or TAIL for short) is an interdisciplinary research group at
-[Georgia Institute of Technology][gt home]'s [School of Interactive Computing][ic
-home]. We are located in the Technology Square Research Building (TSRB) outside
-at 230B. Our mission is to better understand how people teach and learn and
-to build machines that can teach and learn like people do. We engage in both
-_use-inspired_ and _fundamental_ research to achieve this mission.
+The Teachable AI Lab (or TAIL for short) is an interdisciplinary research group
+at [Georgia Institute of Technology][gt home]'s [School of Interactive
+Computing][ic home] (find us at TSRB 230B). Our mission is to better understand how
+people teach and learn and to build machines that can teach and learn like
+people do. We engage in both _use-inspired_ and _fundamental_ research to
+achieve this mission.
 
 ### What we do
 
