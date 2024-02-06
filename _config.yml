@@ -27,7 +27,7 @@ google_analytics: UA-186893389-1
 disqus:
     shortname: teachable-ai-lab
 
-twitter_username: TeachableAILab
+  # twitter_username: TeachableAILab
   # github_username:  cmaclell
   # facebook_username: cmaclell
   # linkedin_username: chris-maclellan-a423899
@@ -37,6 +37,10 @@ twitter_username: TeachableAILab
   # google_scholar_display_name: google scholar
   # orcid_username: 0000-0003-3084-5189
   # orcid_display_name: orcid
+
+mastodon:
+ - username: cmaclell
+   instance: sigmoid.social
 
 # Build settings
 markdown: kramdown
