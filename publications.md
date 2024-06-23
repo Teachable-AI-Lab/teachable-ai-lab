@@ -5,6 +5,12 @@ title: Publications
 
 ## Lab Publications
 
+Siddiqui, M. N., Gupta, A., Reddig, J. M., & Maclellan, C. J. (2024). HTN-Based Tutors: A New Intelligent Tutoring Framework Based on Hierarchical Task Networks. In _Proceedings of the 10th Conference on Learning at Scale_. [(pdf)][siddiqui-htn-tutors]
+
+Zhang, Qiao. (2024). Working with My TeammAItes: Exploring Human-AI Teaming Dynamics
+through Gaming Environments. Presented at the 19th International Conference on the
+Foundations of Digital Games.
+
 Zhang, Q. (2023). Understanding Human-AI Teaming Dynamics through Gaming Environments.
 In _Proceedings of the AAAI Conference on Artificial Intelligence and Interactive
 Digital Entertainment_, 19(1), 440-443. [(pdf)][zhang-aaide-23]
@@ -91,6 +97,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[siddiqui-htn-tutors]: https://arxiv.org/abs/2405.14716
 [zhang-aaide-23]: https://ojs.aaai.org/index.php/AIIDE/article/view/27541
 [lawley-val-chi-preprint]: https://arxiv.org/abs/2310.01627
 [lawley-val-preprint]: https://arxiv.org/abs/2305.10349
