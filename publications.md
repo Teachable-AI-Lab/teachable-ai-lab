@@ -5,16 +5,26 @@ title: Publications
 
 ## Lab Publications
 
-Barari, N., Lian, X., & MacLellan, C. J. (2024). Avoiding Catastrophic Forgetting in Visual Classification Using Human Concept Formation. arXiv preprint arXiv:2402.16933. [(pdf)][barari-forget-preprint]
+Barari, N., Lian, X., & MacLellan, C. J. (2024). Avoiding Catastrophic Forgetting in
+Visual Classification Using Human Concept Formation. arXiv preprint arXiv:2402.16933.
+[(pdf)][barari-forget-preprint]
 
-Smith, G., Gupta, A., & MacLellan, C. (2024). Apprentice Tutor Builder: A Platform For Users to Create and Personalize Intelligent Tutors. arXiv preprint arXiv:2404.07883. [(pdf)][smith-atb-preprint]
+Smith, G., Gupta, A., & MacLellan, C. (2024). Apprentice Tutor Builder: A Platform For
+Users to Create and Personalize Intelligent Tutors. arXiv preprint arXiv:2404.07883.
+[(pdf)][smith-atb-preprint]
 
-Lawley, L., & MacLellan, C. J. (2024). VAL: Interactive Task Learning with GPT Dialog Parsing.
-In _Proceedings of the CHI Conference on Human Factors in Computing Systems_. [(pdf)][lawley-chi-24] [<i class="fab fa-youtube"></i>][lawley-chi-24-vid]
+Lawley, L., & MacLellan, C. J. (2024). VAL: Interactive Task Learning with GPT Dialog
+Parsing. In _Proceedings of the CHI Conference on Human Factors in Computing Systems_.
+[(pdf)][lawley-chi-24] [<i class="fab fa-youtube"></i>][lawley-chi-24-vid]
 
-Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024). Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
+Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024).
+Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings of
+the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
 
-Hannan, D., Nesbit, S. C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris, M.J., Hunninghake, J. C., Villalobos, N. E., Kim, E., Weber, R. O., & MacLellan, C. J. (2024). Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure. In _Proceedings of The International Symposium on Biomedical Imaging_. [(pdf)][hannan-isbi-24]
+Hannan, D., Nesbit, S. C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris,
+M.J., Hunninghake, J. C., Villalobos, N. E., Kim, E., Weber, R. O., & MacLellan, C. J.
+(2024). Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure.
+In _Proceedings of The International Symposium on Biomedical Imaging_. [(pdf)][hannan-isbi-24]
 
 Lian, X., Varma, S., & MacLellan, C. J. (2024). Cobweb: An Incremental and Hierarchical
 Model of Human-Like Category Learning. In _Proceedings of the 2024 Cognitive Science
@@ -22,7 +32,7 @@ Conference_. [(pdf)][lian-cogsci-24]
 
 Calo, T., & MacLellan, C. J. (2024). Towards Educator-Driven Tutor Authoring: Generative
 AI Approaches for Creating Intelligent Tutor Interfaces. In _Proceedings of the 10th
-Conference on Learning at Scale_. [(pdf)][calo-las-24]
+Conference on Learning at Scale_. [(pdf)][calo-las-24] [(poster)][calo-las-24-poster]
 
 Siddiqui, M. N., Gupta, A., Reddig, J. M., & Maclellan, C. J. (2024). HTN-Based Tutors:
 A New Intelligent Tutoring Framework Based on Hierarchical Task Networks. In _Proceedings
