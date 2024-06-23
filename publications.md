@@ -5,7 +5,22 @@ title: Publications
 
 ## Lab Publications
 
-Siddiqui, M. N., Gupta, A., Reddig, J. M., & Maclellan, C. J. (2024). HTN-Based Tutors: A New Intelligent Tutoring Framework Based on Hierarchical Task Networks. In _Proceedings of the 10th Conference on Learning at Scale_. [(pdf)][siddiqui-htn-tutors]
+Lawley, L., & MacLellan, C. J. (2024). VAL: Interactive Task Learning with GPT Dialog Parsing.
+In _Proceedings of the CHI Conference on Human Factors in Computing Systems_. [(pdf)][lawley-chi-24]
+
+Hannan, D., Nesbit, S. C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris, M.J., Hunninghake, J. C., Villalobos, N. E., Kim, E., Weber, R. O., & MacLellan, C. J. (2024). Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure. In _Proceedings of The International Symposium on Biomedical Imaging_. [(pdf)][hannan-isbi-24]
+
+Lian, X., Varma, S., & MacLellan, C. J. (2024). Cobweb: An Incremental and Hierarchical
+Model of Human-Like Category Learning. In _Proceedings of the 2024 Cognitive Science
+Conference_. [(pdf)][lian-cogsci-24]
+
+Calo, T., & MacLellan, C. J. (2024). Towards Educator-Driven Tutor Authoring: Generative
+AI Approaches for Creating Intelligent Tutor Interfaces. In _Proceedings of the 10th
+Conference on Learning at Scale_. [(pdf)][calo-las-24]
+
+Siddiqui, M. N., Gupta, A., Reddig, J. M., & Maclellan, C. J. (2024). HTN-Based Tutors:
+A New Intelligent Tutoring Framework Based on Hierarchical Task Networks. In _Proceedings
+of the 10th Conference on Learning at Scale_. [(pdf)][siddiqui-las-24]
 
 Zhang, Qiao. (2024). Working with My TeammAItes: Exploring Human-AI Teaming Dynamics
 through Gaming Environments. Presented at the 19th International Conference on the
@@ -14,9 +29,6 @@ Foundations of Digital Games.
 Zhang, Q. (2023). Understanding Human-AI Teaming Dynamics through Gaming Environments.
 In _Proceedings of the AAAI Conference on Artificial Intelligence and Interactive
 Digital Entertainment_, 19(1), 440-443. [(pdf)][zhang-aaide-23]
-
-Lawley, L., & MacLellan, C. J. (2023). VAL: Interactive Task Learning with GPT Dialog Parsing.
-arXiv preprint arXiv:2310.01627. [(pdf)][lawley-val-chi-preprint]
 
 Lawley, L., & MacLellan, C. J. (2023). Interactive Learning of Hierarchical
 Tasks from Dialog with GPT. arXiv preprint arXiv:2305.10349. [(pdf)][lawley-val-preprint]
@@ -97,7 +109,11 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
-[siddiqui-htn-tutors]: https://arxiv.org/abs/2405.14716
+[lawley-chi-24]: https://dl.acm.org/doi/10.1145/3613904.3641915
+[hannan-isbi-24]: https://arxiv.org/abs/2403.02236
+[lin-cogsci-24]: https://arxiv.org/abs/2403.03835
+[calo-las-24]: https://arxiv.org/abs/2405.14713
+[siddiqui-las-24]: https://arxiv.org/abs/2405.14716
 [zhang-aaide-23]: https://ojs.aaai.org/index.php/AIIDE/article/view/27541
 [lawley-val-chi-preprint]: https://arxiv.org/abs/2310.01627
 [lawley-val-preprint]: https://arxiv.org/abs/2305.10349
