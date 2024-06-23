@@ -8,6 +8,8 @@ title: Publications
 Lawley, L., & MacLellan, C. J. (2024). VAL: Interactive Task Learning with GPT Dialog Parsing.
 In _Proceedings of the CHI Conference on Human Factors in Computing Systems_. [(pdf)][lawley-chi-24]
 
+Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024). Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
+
 Hannan, D., Nesbit, S. C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris, M.J., Hunninghake, J. C., Villalobos, N. E., Kim, E., Weber, R. O., & MacLellan, C. J. (2024). Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure. In _Proceedings of The International Symposium on Biomedical Imaging_. [(pdf)][hannan-isbi-24]
 
 Lian, X., Varma, S., & MacLellan, C. J. (2024). Cobweb: An Incremental and Hierarchical
@@ -109,6 +111,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
 [lawley-chi-24]: https://dl.acm.org/doi/10.1145/3613904.3641915
 [hannan-isbi-24]: https://arxiv.org/abs/2403.02236
 [lin-cogsci-24]: https://arxiv.org/abs/2403.03835
