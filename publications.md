@@ -5,6 +5,8 @@ title: Publications
 
 ## Lab Publications
 
+Smith, G., Gupta, A., & MacLellan, C. (2024). Apprentice Tutor Builder: A Platform For Users to Create and Personalize Intelligent Tutors. arXiv preprint arXiv:2404.07883. [(pdf)][smith-atb-preprint]
+
 Lawley, L., & MacLellan, C. J. (2024). VAL: Interactive Task Learning with GPT Dialog Parsing.
 In _Proceedings of the CHI Conference on Human Factors in Computing Systems_. [(pdf)][lawley-chi-24]
 
@@ -111,6 +113,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[smith-atb-preprint]: https://arxiv.org/abs/2404.07883
 [guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
 [lawley-chi-24]: https://dl.acm.org/doi/10.1145/3613904.3641915
 [hannan-isbi-24]: https://arxiv.org/abs/2403.02236
