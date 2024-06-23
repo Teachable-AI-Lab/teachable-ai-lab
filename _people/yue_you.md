@@ -1,7 +1,7 @@
 ---
 name: Yue(Yukio) You
 role: Master's Student
-profile_pic: images/yue_profile.png
+profile_pic: images/yue_profile.jpg
 email: yueyou@gatech.edu
 website: https://www.yyou.me/
 category: current
