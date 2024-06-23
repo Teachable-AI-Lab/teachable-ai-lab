@@ -117,7 +117,7 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
 [lawley-chi-24]: https://dl.acm.org/doi/10.1145/3613904.3641915
 [hannan-isbi-24]: https://arxiv.org/abs/2403.02236
-[lin-cogsci-24]: https://arxiv.org/abs/2403.03835
+[lian-cogsci-24]: https://arxiv.org/abs/2403.03835
 [calo-las-24]: https://arxiv.org/abs/2405.14713
 [siddiqui-las-24]: https://arxiv.org/abs/2405.14716
 [zhang-aaide-23]: https://ojs.aaai.org/index.php/AIIDE/article/view/27541
