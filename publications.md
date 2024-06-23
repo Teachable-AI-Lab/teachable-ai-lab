@@ -123,6 +123,7 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [hannan-isbi-24]: https://arxiv.org/abs/2403.02236
 [lian-cogsci-24]: https://arxiv.org/abs/2403.03835
 [calo-las-24]: https://arxiv.org/abs/2405.14713
+[calo-las-24-poster]: /files/Calo_AI-Builder_Poster.pdf
 [siddiqui-las-24]: https://arxiv.org/abs/2405.14716
 [zhang-aaide-23]: https://ojs.aaai.org/index.php/AIIDE/article/view/27541
 [lawley-val-chi-preprint]: https://arxiv.org/abs/2310.01627
