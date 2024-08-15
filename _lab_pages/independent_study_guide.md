@@ -36,13 +36,26 @@ with them and any ideas you have about how your potential independent study topi
 might build on and advance these projects Also, take a look at relevant publications
 (usually included on the project description pages) and try to identify the
 TAIL researchers that are working on them. The folks that are working on the
-projects you find most interesting, might make good potential mentors for your
+projects you find most interesting might make good potential mentors for your
 independent study project. Try to identify at least one researcher besides
 Chris MacLellan. Chris loves to mentor, but unfortunately has the smallest
 amount of time of anyone in the lab to do so, so its important to identify
 others that could serve as your primary mentor.
 
-Once you've reviewed the projects, got a good sense for how your work might connect with them, and you've identified a potential mentor, then you should review the general lab [expectations and responsibilities](/manual/#expectations-and-responsibilities) as well as those specific to students completing an [independent study](/manual/#students-doing-independent-study-undergraduate-and-graduate).
+One bit of advice is that we generally prefer candidates that are a good fit
+for helping to advance our active projects. This is in contrast to people proposing
+completely new independent projects (although, this is sometimes ok too, but it
+would have to really catch our interest!). This lets you hit the ground running
+because there is an existing project and it offers a pathway for you to
+potentially continue on with the project after your independent study is
+done.
+
+Once you've reviewed the projects, got a good sense for how your work might
+connect with them, and you've identified a potential mentor, then you should
+review the general lab [expectations and
+responsibilities](/manual/#expectations-and-responsibilities) as well as those
+specific to students completing an [independent
+study](/manual/#students-doing-independent-study-undergraduate-and-graduate).
 
 Finally, after completing the above, you should proceed to fill out an
 [application](https://forms.office.com/r/455mrxTSFa) to work in the lab. Please
@@ -52,8 +65,13 @@ up, then please reference your application in your message.
 ## Preparing a Research Plan
 If you are selected to participate in an independent study, then you will be
 paired with a mentor (likely the one you identified above). Your first task as
-a researcher will be to work with your mentor to prepare a research plan, which you will ideally submit prior to starting your independent study (or by the second week at the latest). When
-preparing your plan, please try to answer the following [Heilmeier questions](https://www.darpa.mil/work-with-us/heilmeier-catechism) (a standard set of questions by organizations like DARPA to evaluate proposed research plans):
+a researcher will be to work with your mentor to prepare a research plan, which
+you will ideally submit prior to starting your independent study (or by the
+second week at the latest). When preparing your plan, please try to answer the
+following [Heilmeier
+questions](https://www.darpa.mil/work-with-us/heilmeier-catechism) (a standard
+set of questions by organizations like DARPA to evaluate proposed research
+plans):
 * What are you trying to do? Articulate your objectives using absolutely no jargon.
 * How is it done today, and what are the limits of current practice?
 * What's new in your approach and why do you think it will be successful?
