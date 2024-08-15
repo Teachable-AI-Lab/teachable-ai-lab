@@ -5,7 +5,7 @@ order: 1
 profile_pic: images/zory_avatar.jpeg
 email: zoryz2@illinois.edu
 website: https://zoryzhang.notion.site/
-category: current
+category: past
 
 ---
 
