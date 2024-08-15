@@ -4,6 +4,8 @@ layout: post
 img: /images/TAIL-Predicted-vs-Actual.png
 date: 2021-12-07
 comments: false
+order: 1
+category: past
 ---
 
 Human performance optimization (HPO) is centered around designing tools and 

@@ -1,8 +1,11 @@
 ---
-title: STRONG
+title: Human-AI Teaming (STRONG)
+img: ../images/dice-adventure.gif
 layout: post
 date: 2022-10-28
 comments: false
+order: 5
+category: current
 ---
 
 Humans do team well while AI agents do not. One example of this is the Dota 2 AI *Open AI Five*: Five AI agents would be in the game as five top Dota 2 players in the world, and they were broken into different teams with other human agents to fight against each other. However, the agents do not collaborate well. The overall goal of the project, **STRONG (Strengthening Teamwork for Robust Operations in Novel Groups)**, is to probe the future of HMT (human-machine teaming) and to develop natural task general human-guided machine learning capabilities for future scenarios of teaming.

@@ -4,6 +4,8 @@ layout: post
 img: /images/pocus-pnb.gif
 date: 2022-09-28
 comments: false
+order: 1
+category: past
 ---
 
 The POCUS AI program will produce code demonstrating the feasibility of
