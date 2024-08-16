@@ -4,7 +4,7 @@ title:  ARC Prize Testing Interface
 date:   2024-8-16
 categories: kbai
 permalink: /kbai/arc-prize/
-author: Christopher J. MacLellan (Interface modified from <a href="https://github.com/fchollet/ARC-AGI">ARC-AGI Github</a>)
+author: Christopher J. MacLellan (Interface modified from https://github.com/fchollet/ARC-AGI)
 comments: false
 ---
 
