@@ -16,7 +16,7 @@ As you can see in the demo video above, VAL's use of GPT makes it resistant to t
 
 ### Relevant Publications
 
-Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning for Hierarchical Tasks based on a Qualitative Study. In The 37th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct ’24). [(pdf)][jieyu-uist-24] [(talk)][jieyu-uist-24-vid]
+Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning for Hierarchical Tasks based on a Qualitative Study. In The 37th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct ’24). [(pdf)][jieyu-uist-24]
 
 Lawley, L., & MacLellan, C. J. (2024). VAL: Interactive Task Learning with GPT Dialog Parsing. In Proceedings of the CHI Conference on Human Factors in Computing Systems. [(pdf)][lawley-chi-24] [(talk)][lawley-chi-24-vid]
 
