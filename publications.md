@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ## Lab Publications
+Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning 
+for Hierarchical Tasks based on a Qualitative Study. In The 37th Annual ACM Symposium on User 
+Interface Software and Technology (UIST Adjunct ’24). [(pdf)][jieyu-uist-24]
 
 Barari, N., Lian, X., & MacLellan, C. J. (2024). Avoiding Catastrophic Forgetting in
 Visual Classification Using Human Concept Formation. arXiv preprint arXiv:2402.16933.
@@ -125,6 +128,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[jieyu-uist-24]: https://dl.acm.org/doi/10.1145/3672539.3686326
 [barari-forget-preprint]: https://arxiv.org/abs/2402.16933
 [smith-atb-preprint]: https://arxiv.org/abs/2404.07883
 [guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
