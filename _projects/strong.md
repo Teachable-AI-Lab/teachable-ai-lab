@@ -25,13 +25,6 @@ Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded ve
 
 [wu-hai-2024]: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/42/016037a4-6644-11ef-ada9-16bb50361d1f/OUT/hai24-42.html
 
-Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning 
-for Hierarchical Tasks based on a Qualitative Study. In The 37th Annual ACM Symposium on User 
-Interface Software and Technology (UIST Adjunct ’24). 
-[<i class="far fa-file-pdf"></i>][jieyu-uist-24]
-
-[jieyu-uist-24]: https://dl.acm.org/doi/10.1145/3672539.3686326
-
 Zhang, Qiao. (2024). Working with My TeammAItes: Exploring Human-AI Teaming Dynamics
 through Gaming Environments. Presented at the 19th International Conference on the
 Foundations of Digital Games.
