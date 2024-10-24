@@ -47,7 +47,7 @@ Foundations of Digital Games.
 
 Zhang, Q. (2023). Understanding Human-AI Teaming Dynamics through Gaming Environments.
 In _Proceedings of the AAAI Conference on Artificial Intelligence and Interactive
-Digital Entertainment_, 19(1), 440-443. [(pdf)][zhang-aaide-23]
+Digital Entertainment_, 19(1), 440-443. [(pdf)][zhang-aiide-23]
 
 Lawley, L., & MacLellan, C. J. (2023). Interactive Learning of Hierarchical
 Tasks from Dialog with GPT. arXiv preprint arXiv:2305.10349. [(pdf)][lawley-val-preprint]
@@ -139,7 +139,7 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [calo-las-24]: https://arxiv.org/abs/2405.14713
 [calo-las-24-poster]: /files/Calo_AI-Builder_Poster.pdf
 [siddiqui-las-24]: https://arxiv.org/abs/2405.14716
-[zhang-aaide-23]: https://ojs.aaai.org/index.php/AIIDE/article/view/27541
+[zhang-aiide-23]: https://ojs.aaai.org/index.php/AIIDE/article/view/27541
 [lawley-val-chi-preprint]: https://arxiv.org/abs/2310.01627
 [lawley-val-preprint]: https://arxiv.org/abs/2305.10349
 [maclellan-acs-journal-22]: https://chrismaclellan.com/media/publications/maclellan-acs-journal-2022.pdf
