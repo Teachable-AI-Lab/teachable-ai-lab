@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ## Lab Publications
+
+Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational Conference on HUman-Agent Interaction_. [(pdf)][wu-hai-2024]
+
 Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning 
 for Hierarchical Tasks based on a Qualitative Study. In The 37th Annual ACM Symposium on User 
 Interface Software and Technology (UIST Adjunct ’24). [(pdf)][jieyu-uist-24]
@@ -41,7 +44,7 @@ Siddiqui, M. N., Gupta, A., Reddig, J. M., & Maclellan, C. J. (2024). HTN-Based 
 A New Intelligent Tutoring Framework Based on Hierarchical Task Networks. In _Proceedings
 of the 10th Conference on Learning at Scale_. [(pdf)][siddiqui-las-24]
 
-Zhang, Qiao. (2024). Working with My TeammAItes: Exploring Human-AI Teaming Dynamics
+Zhang, Q. (2024). Working with My TeammAItes: Exploring Human-AI Teaming Dynamics
 through Gaming Environments. Presented at the 19th International Conference on the
 Foundations of Digital Games.
 
@@ -128,6 +131,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[wu-hai-2024]: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/42/016037a4-6644-11ef-ada9-16bb50361d1f/OUT/hai24-42.html
 [jieyu-uist-24]: https://dl.acm.org/doi/10.1145/3672539.3686326
 [barari-forget-preprint]: https://arxiv.org/abs/2402.16933
 [smith-atb-preprint]: https://arxiv.org/abs/2404.07883
