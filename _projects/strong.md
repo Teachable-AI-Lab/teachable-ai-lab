@@ -20,6 +20,11 @@ Here are three strands for this:
 
 ### Relevant Publications
 
+Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational Conference on HUman-Agent Interaction_.
+[<i class="far fa-file-pdf"></i>][wu-hai-2024]
+
+[wu-hai-2024]: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/42/016037a4-6644-11ef-ada9-16bb50361d1f/OUT/hai24-42.html
+
 Zhang, Qiao. (2024). Working with My TeammAItes: Exploring Human-AI Teaming Dynamics
 through Gaming Environments. Presented at the 19th International Conference on the
 Foundations of Digital Games.
