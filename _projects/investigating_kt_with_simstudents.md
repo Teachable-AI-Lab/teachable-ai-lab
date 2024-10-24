@@ -31,7 +31,6 @@ Zhang, Q., Chen, Z., Lalwani, N., MacLellan, C.J. (2022). Modifying Deep Knowled
 for Multi-step Problems. In _Proceedings of the 15th International Conference on Educational
 Data Mining_. [<i class="far fa-file-pdf"></i>][zhang-edm-22-paper]
 [<i class="fab fa-youtube"></i>][zhang-edm-22-video]
-[(pdf)] [(poster)][zhang-edm-22-poster] [zhang-edm-22-video]
 
 [zhang-edm-22-paper]:https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.82/index.html
 [zhang-edm-22-video]:https://www.youtube.com/watch?v=pSmxlBQC76g
