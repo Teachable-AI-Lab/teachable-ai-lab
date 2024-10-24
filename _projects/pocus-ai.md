@@ -33,11 +33,28 @@ medics.
 
 ### Relevant Publications
 
-Smith, G.*, Zhang, Q.*, MacLellan, C.J. (2022). Do it Like the Doctor: How We
+Hannan, D., Nesbit, S. C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris,
+M.J., Hunninghake, J. C., Villalobos, N. E., Kim, E., Weber, R. O., & MacLellan, C. J.
+(2024). Interpretable Models for Detecting and Monitoring Elevated Intracranial Pressure.
+In _Proceedings of The International Symposium on Biomedical Imaging_.
+[<i class="far fa-file-pdf"></i>][hannan-isbi-24]
+
+[hannan-isbi-24]: https://ieeexplore.ieee.org/document/10635474
+
+Hannan, D., Nesbit, S.C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris, M.J., 
+Hunninghake, J.C., Villalobos, N.E., Kim, E., Weber, R.O., MacLellan, C.J. (2023). 
+MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examples. In Proceedings
+of The Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence.
+[<i class="far fa-file-pdf"></i>][hannan-iaai-23] [<i class="fab fa-youtube"></i>][hannan-iaai-23-video]
+
+[hannan-iaai-23]: https://ojs.aaai.org/index.php/AAAI/article/view/26859
+[hannan-iaai-23-video]: https://youtu.be/7ex8qQT5xSs
+
+Smith, G.\*, Zhang, Q.\*, MacLellan, C.J. (2022). Do it Like the Doctor: How We
 Can Design a Model That Uses Domain Knowledge to Diagnose Pneumothorax. In
 Proceedings of the AAAI 2022 Spring Symposium on Machine Learning and Knowledge
 Engineering for Hybrid Intelligence (AAAI-MAKE 2022). (* are co-first authors)
-[(pdf)][smith-make-22] [<i class="fab fa-youtube"></i>][smith-make-22-talk]
+[<i class="far fa-file-pdf"></i>][smith-make-22] [<i class="fab fa-youtube"></i>][smith-make-22-talk]
 
 [smith-make-22-talk]: https://www.youtube.com/watch?v=hKtjlMX9n0c
 [smith-make-22]: https://doi.org/10.48550/arXiv.2205.12159
