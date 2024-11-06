@@ -1,7 +1,7 @@
 ---
 name: Daniel (Danny) Weitekamp
 role: Postdoctoral Researcher 
-profile_pic: images/danny_profile.jpeg
+profile_pic: images/danny_profile.jpg
 email: weitekamp@gatech.edu
 website: https://tail.cc.gatech.edu/people.html
 category: current
