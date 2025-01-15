@@ -81,16 +81,17 @@ plans):
 * How long will it take?
 * What are the midterm and final "exams" to check for success?
 
+Your research plan should be no more than 2 pages and written primarily by
+you, with guidance and feedback provided by your mentor.
+
+## Milestones
 Your plan should also include the key outputs of your project as well as a
 timeline for when they will be delivered. All independent study projects must
-include two deliverables: (1) a final report that describes what you did and
-includes your reflections and lessons learned on your experience and (2) slides
-for a final presentation that you will give at one of the lab meetings near the
-end of your independent study. Other deliverables might include source code,
-models, or design documents that you produce.
-
-Your research plan should be no more than three pages and written primarily by
-you, with guidance and feedback provided by your mentor.
+include four deliverables: 
+- Your independent study plan (see section above) within 2 weeks of the beginning of the semester.
+- A midterm self evaluation using this [form](https://forms.office.com/r/wieRbqsLMR) at week 8.
+- Slides for a final presentation that you will give at one of the lab meetings in the last 2 weeks of the semester.
+- A final self evaluation using this [form](https://forms.office.com/r/wieRbqsLMR) in the final week.
 
 ## Evaluation and Reflection
 As mentioned before, a key goal for our group is to foster the next
@@ -108,7 +109,7 @@ grade for the independent study.
 As part of each of your evaluations, you will also be asked to provide feedback
 on your independent study experience, so we can work to improve it every year.
 
-The form to submit your evaluation can be found [here](https://forms.office.com/r/wieRbqsLMR).
+The form to submit your midterm and final evaluations can be found [here](https://forms.office.com/r/wieRbqsLMR).
 
 Here is the rubric:
 
