@@ -5,13 +5,18 @@ title: Publications
 
 ## Lab Publications
 
-Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024). Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
+Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024).
+Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings
+of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
 
-Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational Conference on HUman-Agent Interaction_. [(pdf)][wu-hai-2024]
+Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus
+Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational
+Conference on HUman-Agent Interaction_. [(pdf)][wu-hai-2024]
 
-Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning 
-for Hierarchical Tasks based on a Qualitative Study. In _Proceedings of the 37th Annual ACM Symposium on User 
-Interface Software and Technology (UIST Adjunct ’24)_. [(pdf)][jieyu-uist-24]
+Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task 
+Learning for Hierarchical Tasks based on a Qualitative Study. In _Proceedings of the
+37th Annual ACM Symposium on User Interface Software and Technology
+(UIST Adjunct ’24)_. [(pdf)][jieyu-uist-24]
 
 Barari, N., Lian, X., & MacLellan, C. J. (2024). Avoiding Catastrophic Forgetting in
 Visual Classification Using Human Concept Formation. In _Proceedings of the Eleventh
