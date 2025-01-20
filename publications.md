@@ -5,7 +5,7 @@ title: Publications
 
 ## Lab Publications
 
-Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024, June). Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
+Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024). Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
 
 Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational Conference on HUman-Agent Interaction_. [(pdf)][wu-hai-2024]
 
