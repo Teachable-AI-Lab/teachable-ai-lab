@@ -5,6 +5,8 @@ title: Publications
 
 ## Lab Publications
 
+Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024, June). Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
+
 Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational Conference on HUman-Agent Interaction_. [(pdf)][wu-hai-2024]
 
 Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning 
@@ -131,6 +133,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
 [wu-hai-2024]: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/42/016037a4-6644-11ef-ada9-16bb50361d1f/OUT/hai24-42.html
 [jieyu-uist-24]: https://dl.acm.org/doi/10.1145/3672539.3686326
 [barari-forget-preprint]: https://arxiv.org/abs/2402.16933
