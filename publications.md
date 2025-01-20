@@ -10,12 +10,12 @@ Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (20
 Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational Conference on HUman-Agent Interaction_. [(pdf)][wu-hai-2024]
 
 Jieyu, Z., MacLellan, C. J. (2024). Improving Interface Design in Interactive Task Learning 
-for Hierarchical Tasks based on a Qualitative Study. In The 37th Annual ACM Symposium on User 
-Interface Software and Technology (UIST Adjunct ’24). [(pdf)][jieyu-uist-24]
+for Hierarchical Tasks based on a Qualitative Study. In _Proceedings of the 37th Annual ACM Symposium on User 
+Interface Software and Technology (UIST Adjunct ’24)_. [(pdf)][jieyu-uist-24]
 
 Barari, N., Lian, X., & MacLellan, C. J. (2024). Avoiding Catastrophic Forgetting in
-Visual Classification Using Human Concept Formation. arXiv preprint arXiv:2402.16933.
-[(pdf)][barari-forget-preprint]
+Visual Classification Using Human Concept Formation. In _Proceedings of the Eleventh
+Annual Conference on Advances in Cognitive Systems_. [(pdf)][barari-forget-preprint]
 
 Smith, G., Gupta, A., & MacLellan, C. (2024). Apprentice Tutor Builder: A Platform For
 Users to Create and Personalize Intelligent Tutors. arXiv preprint arXiv:2404.07883.
