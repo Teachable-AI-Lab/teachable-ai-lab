@@ -20,9 +20,10 @@ Here are three strands for this:
 
 ### Relevant Publications
 
-Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025, April). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [<i class="far fa-file-pdf"></i>][zhang-fdg-25]
+Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025, April). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [<i class="far fa-file-pdf"></i>][zhang-fdg-25][<i class="fab fa-youtube"></i>][zhang-fdg-25-talk]
 
 [zhang-fdg-25]: https://dl.acm.org/doi/10.1145/3723498.3723793
+[zhang-fdg-25-talk]:https://www.youtube.com/watch?v=42vFFzvKdjA
 
 Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational Conference on HUman-Agent Interaction_.
 [<i class="far fa-file-pdf"></i>][wu-hai-2024]
