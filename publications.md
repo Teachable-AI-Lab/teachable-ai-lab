@@ -5,7 +5,7 @@ title: Publications
 
 ## Lab Publications
 
-Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025, April). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9).
+Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025, April). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [(pdf)][zhang-fdg-25]
 
 Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024).
 Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings
@@ -140,6 +140,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[zhang-fdg-25]: https://dl.acm.org/doi/10.1145/3723498.3723793
 [guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
 [wu-hai-2024]: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/42/016037a4-6644-11ef-ada9-16bb50361d1f/OUT/hai24-42.html
 [jieyu-uist-24]: https://dl.acm.org/doi/10.1145/3672539.3686326
