@@ -4,7 +4,7 @@ role: Master's Student
 profile_pic: images/yue_profile.jpg
 email: yueyou@gatech.edu
 website: https://www.yyou.me/
-category: current
+category: past
 
 ---
 

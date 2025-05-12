@@ -10,7 +10,7 @@ comments: false
 SkyNet is a GPU-intensive cluster shared by research labs at GaTech. It pools
 resources (money, time, attention) to create and maintain the best compute
 cluster in academia for modern AI/ML research. You can learn more about it
-here: <http://optimus.cc.gatech.edu/wiki/skynet>. Skynet manages jobs using the
+here: <https://github.com/GeorgiaTechSkynet/userWiki>. Skynet manages jobs using the
 slurm system, and you will need to use slurm to interface with it. This guide
 explains the basics of how to use skynet and slurm.
 
@@ -36,7 +36,7 @@ utilization of the cluster's compute resources.
 
 # How do I get access and get started? 
 First, follow the steps here:
-<http://optimus.cc.gatech.edu/wiki/skynet#how-to-get-access>
+<https://github.com/GeorgiaTechSkynet/userWiki#how-to-get-access>
 
 Once you do this, then you can log into a skynet head node using ssh; e.g.,
 `ssh sky1.cc.gatech.edu`.
@@ -247,7 +247,7 @@ above this one.
 
 # Frequent Issues
 Please see here for a list of frequent issues:
-<http://optimus.cc.gatech.edu/wiki/skynet#expectations-and-advice_frequently-encountered-issues>
+<https://github.com/GeorgiaTechSkynet/userWiki#expectations-and-advice_frequently-encountered-issues>
 
 # Setting up pyenv
 
