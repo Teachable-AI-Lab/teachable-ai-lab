@@ -20,6 +20,14 @@ Here are three strands for this:
 
 ### Relevant Publications
 
+Lange, L., Zhang, Q., MacLellan, C., & Wu, Y. (2025). Training Humans for Robust Human-Agent Teaming: Knowing When to Engage with an AI Partner. In _Proceedings of the AAAI Symposium Series_ (Vol. 5, No. 1, pp. 83-86). [<i class="far fa-file-pdf"></i>][lange-aaai-sss-25]
+
+[lange-aaai-sss-25]: https://ojs.aaai.org/index.php/AAAI-SS/article/view/35563
+
+Zhang, Q., MacLellan C.J. (2025). Think and Play: Designing and Evaluating Human-AI Teaming Dynamics in Gaming Environments. In _Proceedings of the AAAI Symposium Series_ (Vol. 5, No. 1, pp. 133-135). [<i class="far fa-file-pdf"></i>][zhang-aaai-sss-25]
+
+[zhang-aaai-sss-25]: https://ojs.aaai.org/index.php/AAAI-SS/article/view/35579
+
 Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025, April). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [<i class="far fa-file-pdf"></i>][zhang-fdg-25][<i class="fab fa-youtube"></i>][zhang-fdg-25-talk]
 
 [zhang-fdg-25]: https://dl.acm.org/doi/10.1145/3723498.3723793
