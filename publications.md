@@ -5,7 +5,11 @@ title: Publications
 
 ## Lab Publications
 
-Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025, April). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [(pdf)][zhang-fdg-25] [<i class="fab fa-youtube"></i>][zhang-fdg-25-talk]
+Lange, L., Zhang, Q., MacLellan, C., & Wu, Y. (2025). Training Humans for Robust Human-Agent Teaming: Knowing When to Engage with an AI Partner. In _Proceedings of the AAAI Symposium Series_ (Vol. 5, No. 1, pp. 83-86). [(pdf)][lange-aaai-sss-25]
+
+Zhang, Q., MacLellan C.J. (2025). Think and Play: Designing and Evaluating Human-AI Teaming Dynamics in Gaming Environments. In _Proceedings of the AAAI Symposium Series_ (Vol. 5, No. 1, pp. 133-135). [(pdf)][zhang-aaai-sss-25]
+
+Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [(pdf)][zhang-fdg-25] [<i class="fab fa-youtube"></i>][zhang-fdg-25-talk]
 
 Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024).
 Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings
@@ -140,6 +144,8 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[lange-aaai-sss-25]: https://ojs.aaai.org/index.php/AAAI-SS/article/view/35563
+[zhang-aaai-sss-25]: https://ojs.aaai.org/index.php/AAAI-SS/article/view/35579
 [zhang-fdg-25]: https://dl.acm.org/doi/10.1145/3723498.3723793
 [zhang-fdg-25-talk]:https://www.youtube.com/watch?v=42vFFzvKdjA
 [guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
