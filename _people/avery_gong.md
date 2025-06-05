@@ -3,7 +3,7 @@ name: Avery (Xinran) Gong
 role: Master's Student
 profile_pic: images/avery.png
 email: xgong80@gatech.edu
-category: current
+category: past
 
 ---
 
