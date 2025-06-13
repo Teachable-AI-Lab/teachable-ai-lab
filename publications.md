@@ -87,6 +87,11 @@ Game Design of Asymmetric Cooperative Games to Study Human-Machine Teaming. In _
 of The First Workshop on Human-AI Interaction through Play @ The Foundations of Digital Games
 2023 (FDG 2023)_. [(pdf)][harpstead-fdg-23]
 
+Wen, X., Weber, R.O., Sen, A., Hannan, D., Nesbit, S.C., Chan, V., Goffi, A., Morris,
+M., Hunninghake, J.C., Villalobos, N.E., Kim, E., MacLellan, C.J. (2024) The Impact of an
+XAI-Augmented Approach on Binary Classification with Scarce Data. In _Proceedings of the
+XAI 2024 Workshop @ IJCAI_. [(pdf)][wen-ijaied-xai-24]
+
 Hannan, D., Nesbit, S.C., Wen, X., Smith, G., Zhang, Q., Goffi, A., Chan, V., Morris, M.J., 
 Hunninghake, J.C., Villalobos, N.E., Kim, E., Weber, R.O., MacLellan, C.J. (2023). 
 MobilePTX: Sparse Coding for Pneumothorax Detection Given Limited Training Examples. In Proceedings
@@ -168,6 +173,7 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [zhang-aaai-sss-25]: https://ojs.aaai.org/index.php/AAAI-SS/article/view/35579
 [zhang-fdg-25]: https://dl.acm.org/doi/10.1145/3723498.3723793
 [zhang-fdg-25-talk]:https://www.youtube.com/watch?v=42vFFzvKdjA
+[wen-ijaied-xai-24]: https://arxiv.org/abs/2407.06206
 [guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
 [wu-hai-2024]: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/42/016037a4-6644-11ef-ada9-16bb50361d1f/OUT/hai24-42.html
 [jieyu-uist-24]: https://dl.acm.org/doi/10.1145/3672539.3686326
