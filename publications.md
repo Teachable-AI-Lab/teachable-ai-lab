@@ -7,7 +7,7 @@ title: Publications
 
 Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: A Representation for Neuro-Symbolic Pairing. In _Proceedings of the 2nd International Conference on Neuro-symbolic Systems_. [(pdf)][wang-neus-25]
 
-Weitekamp, D., MacLellan, C.J., Harpstead, E., & Koedinger, K. (2025). Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_.
+Weitekamp, D., MacLellan, C.J., Harpstead, E., & Koedinger, K. (2025). Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][weitekamp-cogsci-25]
 
 MacLellan, C.J. (2025). Model Human Learners: Computational Models to Guide Instructional Design. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][maclellan-cogsci-25]
 
@@ -163,6 +163,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[weitekamp-cogsci-25]: https://arxiv.org/abs/2505.10422
 [wang-neus-25]: https://arxiv.org/abs/2505.24601
 [maclellan-cogsci-25]: https://doi.org/10.48550/arXiv.2502.02456
 [gupta-aied-25]: https://doi.org/10.48550/arXiv.2503.16460
