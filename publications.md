@@ -5,6 +5,20 @@ title: Publications
 
 ## Lab Publications
 
+Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: A Representation for Neuro-Symbolic Pairing. In _Proceedings of the 2nd International Conference on Neuro-symbolic Systems_. [(pdf)][wang-neus-25]
+
+Weitekamp, D., MacLellan, C.J., Harpstead, E., & Koedinger, K. (2025). Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_.
+
+MacLellan, C.J. (2025). Model Human Learners: Computational Models to Guide Instructional Design. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][maclellan-cogsci-25]
+
+Zhou, J., Rui, S., You, Y., DiSalvo, C., Dombrowski, L. & MacLellan, C.J. (2025). Improving Public Service Chatbot Design and Civic Impact: Investigation of Citizens’ Perceptions of a Metro City 311 Chatbot. In _Proceedings of the 2025 ACM Designing Interactive Systems Conference_.
+
+Gupta, A., Reddig, J., Caló, T., Weitekamp, D., & MacLellan, C.J. (2025). Beyond Final Answers: Evaluating Large Language Models for Math Tutoring. In _Proceedings of the 26th International Conference on Artificial Intelligence in Education_. [(pdf)][gupta-aied-25]
+
+Weitekamp, D., Siddiqui, M., & MacLellan, C.J. (2025). TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students. In _Proceedings of the 26th International Conference on Artificial Intelligence in Education_. [(pdf)][weitekamp-aied-25] [(website)][tutorgym-website]
+
+Lian,X., Zekun, W., & MacLellan, C.J. (2025). Efficient and Scalable Masked Word Prediction Using Concept Formation. _Cognitive Systems Research_. [(pdf)][lian-csr-25]
+
 Lange, L., Zhang, Q., MacLellan, C., & Wu, Y. (2025). Training Humans for Robust Human-Agent Teaming: Knowing When to Engage with an AI Partner. In _Proceedings of the AAAI Symposium Series_ (Vol. 5, No. 1, pp. 83-86). [(pdf)][lange-aaai-sss-25]
 
 Zhang, Q., MacLellan C.J. (2025). Think and Play: Designing and Evaluating Human-AI Teaming Dynamics in Gaming Environments. In _Proceedings of the AAAI Symposium Series_ (Vol. 5, No. 1, pp. 133-135). [(pdf)][zhang-aaai-sss-25]
@@ -144,6 +158,12 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[wang-neus-25]: https://arxiv.org/abs/2505.24601
+[maclellan-cogsci-25]: https://doi.org/10.48550/arXiv.2502.02456
+[gupta-aied-25]: https://doi.org/10.48550/arXiv.2503.16460
+[weitekamp-aied-25]: https://arxiv.org/abs/2505.01563
+[tutorgym-website]: https://tutorgym.ai
+[lian-csr-25]: https://doi.org/10.1016/j.cogsys.2025.101371
 [lange-aaai-sss-25]: https://ojs.aaai.org/index.php/AAAI-SS/article/view/35563
 [zhang-aaai-sss-25]: https://ojs.aaai.org/index.php/AAAI-SS/article/view/35579
 [zhang-fdg-25]: https://dl.acm.org/doi/10.1145/3723498.3723793
