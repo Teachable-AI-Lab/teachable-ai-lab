@@ -176,7 +176,7 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [zhang-fdg-25-talk]:https://www.youtube.com/watch?v=42vFFzvKdjA
 [wen-ijaied-xai-24]: https://arxiv.org/abs/2407.06206
 [guo-avi-24]: https://dl.acm.org/doi/abs/10.1145/3656650.3656667
-[wu-hai-2024]: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/42/016037a4-6644-11ef-ada9-16bb50361d1f/OUT/hai24-42.html
+[wu-hai-2024]: https://doi.org/10.1145/3687272.3690873
 [jieyu-uist-24]: https://dl.acm.org/doi/10.1145/3672539.3686326
 [barari-forget-preprint]: https://arxiv.org/abs/2402.16933
 [smith-atb-preprint]: https://arxiv.org/abs/2404.07883
