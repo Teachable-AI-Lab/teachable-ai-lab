@@ -5,13 +5,13 @@ title: Publications
 
 ## Lab Publications
 
-Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: A Representation for Neuro-Symbolic Pairing. In _Proceedings of the 2nd International Conference on Neuro-symbolic Systems_. [(pdf)][wang-neus-25]
+Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: A Representation for Neuro-Symbolic Pairing. In _Proceedings of the 2nd International Conference on Neuro-symbolic Systems_. [(pdf)][wang-neus-25] [(poster)][wang-neus-25-poster]
 
 Weitekamp, D., MacLellan, C.J., Harpstead, E., & Koedinger, K. (2025). Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][weitekamp-cogsci-25]
 
 MacLellan, C.J. (2025). Model Human Learners: Computational Models to Guide Instructional Design. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][maclellan-cogsci-25]
 
-Zhou, J., Rui, S., You, Y., DiSalvo, C., Dombrowski, L. & MacLellan, C.J. (2025). Improving Public Service Chatbot Design and Civic Impact: Investigation of Citizens’ Perceptions of a Metro City 311 Chatbot. In _Proceedings of the 2025 ACM Designing Interactive Systems Conference_.
+Zhou, J., Rui, S., You, Y., DiSalvo, C., Dombrowski, L. & MacLellan, C.J. (2025). Improving Public Service Chatbot Design and Civic Impact: Investigation of Citizens’ Perceptions of a Metro City 311 Chatbot. In _Proceedings of the 2025 ACM Designing Interactive Systems Conference_. [(pdf)][zhou-dis-25]
 
 Gupta, A., Reddig, J., Caló, T., Weitekamp, D., & MacLellan, C.J. (2025). Beyond Final Answers: Evaluating Large Language Models for Math Tutoring. In _Proceedings of the 26th International Conference on Artificial Intelligence in Education_. [(pdf)][gupta-aied-25]
 
@@ -165,9 +165,11 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[zhou-dis-25]: https://arxiv.org/abs/2506.12259
 [zhou-uist-24]: https://arxiv.org/abs/2409.10826
 [weitekamp-cogsci-25]: https://arxiv.org/abs/2505.10422
 [wang-neus-25]: https://arxiv.org/abs/2505.24601
+[wang-neus-25-poster]: /files/NeuS2025-poster.pdf
 [maclellan-cogsci-25]: https://doi.org/10.48550/arXiv.2502.02456
 [gupta-aied-25]: https://doi.org/10.48550/arXiv.2503.16460
 [weitekamp-aied-25]: https://arxiv.org/abs/2505.01563
