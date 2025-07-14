@@ -9,7 +9,7 @@ Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: 
 
 Weitekamp, D., MacLellan, C.J., Harpstead, E., & Koedinger, K. (2025). Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][weitekamp-cogsci-25]
 
-MacLellan, C.J. (2025). Model Human Learners: Computational Models to Guide Instructional Design. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][maclellan-cogsci-25]
+MacLellan, C.J. (2025). Model Human Learners: Computational Models to Guide Instructional Design. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][maclellan-cogsci-25][(poster)][maclellan-cogsci-25-poster]
 
 Zhou, J., Rui, S., You, Y., DiSalvo, C., Dombrowski, L. & MacLellan, C.J. (2025). Improving Public Service Chatbot Design and Civic Impact: Investigation of Citizens’ Perceptions of a Metro City 311 Chatbot. In _Proceedings of the 2025 ACM Designing Interactive Systems Conference_. [(pdf)][zhou-dis-25]
 
@@ -165,6 +165,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[maclellan-cogsci-25-poster]: /files/CogSci25-Model-Human-Learner-Poster.pdf
 [zhou-dis-25]: https://arxiv.org/abs/2506.12259
 [zhou-uist-24]: https://arxiv.org/abs/2409.10826
 [weitekamp-cogsci-25]: https://arxiv.org/abs/2505.10422
