@@ -9,7 +9,7 @@ Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: 
 
 Weitekamp, D., MacLellan, C.J., Harpstead, E., & Koedinger, K. (2025). Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][weitekamp-cogsci-25]
 
-MacLellan, C.J. (2025). Model Human Learners: Computational Models to Guide Instructional Design. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][maclellan-cogsci-25][(poster)][maclellan-cogsci-25-poster]
+MacLellan, C.J. (2025). Model Human Learners: Computational Models to Guide Instructional Design. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][maclellan-cogsci-25] [(poster)][maclellan-cogsci-25-poster]
 
 Zhou, J., Rui, S., You, Y., DiSalvo, C., Dombrowski, L. & MacLellan, C.J. (2025). Improving Public Service Chatbot Design and Civic Impact: Investigation of Citizens’ Perceptions of a Metro City 311 Chatbot. In _Proceedings of the 2025 ACM Designing Interactive Systems Conference_. [(pdf)][zhou-dis-25]
 
