@@ -5,6 +5,8 @@ title: Publications
 
 ## Lab Publications
 
+Reddig, J. M., Arora, A., & MacLellan, C. J. (2025). Generating in-context, personalized feedback for intelligent tutors with large language models. International Journal of Artificial Intelligence in Education, 1-42. [(pdf)][reddig-ijaied-25]
+
 Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: A Representation for Neuro-Symbolic Pairing. In _Proceedings of the 2nd International Conference on Neuro-symbolic Systems_. [(pdf)][wang-neus-25] [(poster)][wang-neus-25-poster]
 
 Weitekamp, D., MacLellan, C.J., Harpstead, E., & Koedinger, K. (2025). Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency. In _Proceedings of the 47th Annual Conference of the Cognitive Science Society_. [(pdf)][weitekamp-cogsci-25] [(poster)][weitekamp-cogsci-25-poster]
@@ -165,6 +167,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[reddig-ijaied-25]: https://doi.org/10.1007/s40593-025-00505-6
 [weitekamp-cogsci-25-poster]: /files/CogSci25-DIPL-Poster.pdf
 [maclellan-cogsci-25-poster]: /files/CogSci25-Model-Human-Learner-Poster.pdf
 [zhou-dis-25]: https://arxiv.org/abs/2506.12259
