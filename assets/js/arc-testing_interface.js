@@ -12,6 +12,7 @@ var EDITION_GRID_WIDTH = 500;
 var MAX_CELL_SIZE = 100;
 
 // for task interface
+var task_url = "https://api.github.com/repos/fchollet/ARC/contents/data/";
 var subset = "training";
 var task_index = 0;
 
@@ -176,6 +177,18 @@ function loadTaskFromFile(e) {
     reader.readAsText(file);
 }
 
+function selectARC1(){
+    task_url = "https://api.github.com/repos/fchollet/ARC/contents/data/"
+    task_index = 0;
+    loadCurrentTask();
+}
+
+function selectARC2(){
+    task_url = "https://api.github.com/repos/arcprizze/ARC-AGI-2/contents/data/"
+    task_index = 0;
+    loadCurrentTask();
+}
+
 function selectTraining(){
     subset = "training";
     task_index = 0;
@@ -196,7 +209,7 @@ function previousTask(){
 }
 
 function nextTask(){
-    $.getJSON("https://api.github.com/repos/fchollet/ARC/contents/data/" + subset, function(tasks) {
+    $.getJSON(task_url + subset, function(tasks) {
         // task_index = Math.floor(Math.random() * tasks.length)
         if (task_index < tasks.length-1){
             task_index += 1;
@@ -206,7 +219,7 @@ function nextTask(){
 }
 
 function loadCurrentTask() {
-    $.getJSON("https://api.github.com/repos/fchollet/ARC/contents/data/" + subset, function(tasks) {
+    $.getJSON(task_url + subset, function(tasks) {
         var task = tasks[task_index];
         $.getJSON(task["download_url"], function(json) {
             try {
@@ -231,7 +244,7 @@ function loadCurrentTask() {
 }
 
 function randomTask() {
-    $.getJSON("https://api.github.com/repos/fchollet/ARC/contents/data/" + subset, function(tasks) {
+    $.getJSON(task_url + subset, function(tasks) {
         task_index = Math.floor(Math.random() * tasks.length)
         var task = tasks[task_index];
         $.getJSON(task["download_url"], function(json) {

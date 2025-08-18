@@ -47,11 +47,17 @@ comments: false
 
 <!---
 <p>
-<label for="task_nav_controls">Choose Publich ARC-AGI Set:</label>
+<label for="task_nav_controls">Choose Public ARC-AGI Set:</label>
 <button onclick="selectTraining()" id="training_btn"> Training Set </button>
 <button onclick="selectEvaluation()" id="evaluation_btn"> Evaluation Set </button>
 </p>
 --->
+
+<p>
+<label for="task_nav_controls">Choose ARC-AGI Set:</label>
+<button onclick="selectARC1()" id="ARC-AGI-1"> ARC-AGI-1 </button>
+<button onclick="selectARC2()" id="ARC-AGI-2"> ARC-AGI-2 </button>
+</p>
 
 <p>
 <label for="task_nav_controls">Navigate ARC-AGI Problems:</label>
