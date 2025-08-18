@@ -184,7 +184,7 @@ function selectARC1(){
 }
 
 function selectARC2(){
-    task_url = "https://api.github.com/repos/arcprizze/ARC-AGI-2/contents/data/"
+    task_url = "https://api.github.com/repos/arcprize/ARC-AGI-2/contents/data/"
     task_index = 0;
     loadCurrentTask();
 }
