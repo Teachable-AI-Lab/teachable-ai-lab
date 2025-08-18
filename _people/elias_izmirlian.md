@@ -4,7 +4,7 @@ role: Master's Student
 profile_pic: /images/elias.jpg
 email: eizmirlian3@gatech.edu
 website: https://tail.cc.gatech.edu
-category: current
+category: past
 
 ---
 
