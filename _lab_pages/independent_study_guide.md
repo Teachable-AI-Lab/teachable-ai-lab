@@ -83,9 +83,9 @@ would be the best fit for you.
 
 First, you need to determine which independent study course and form you 
 need to file. The information on the courses/forms for MS students can be
-found [here][https://www.cc.gatech.edu/graduate-forms-procedures].
+found [here](https://www.cc.gatech.edu/graduate-forms-procedures).
 
-Second, you should file [this process][https://www.cc.gatech.edu/sites/default/files/documents/2021/How%20to%20Use%20DocuSign%20for%20CoC%20Forms%5B1%5D%5B20%5D.pdf] 
+Second, you should file [this process](https://www.cc.gatech.edu/sites/default/files/documents/2021/How%20to%20Use%20DocuSign%20for%20CoC%20Forms%5B1%5D%5B20%5D.pdf) 
 to send the form to Chris to sign and to have it routed to the appropriate
 person, so you can receive your course registration permit. 
 
