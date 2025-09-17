@@ -3,7 +3,7 @@ name: Chunyi (Jocelyn) Wang
 role: Master's Student
 profile_pic: images/chunyi.jpg
 email: jocelynwang@gatech.edu
-category: current
+category: past
 
 ---
 
