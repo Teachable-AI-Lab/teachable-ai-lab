@@ -4,7 +4,7 @@ role: Postdoctoral Researcher
 order: 98
 profile_pic: images/danny_profile.jpg
 email: weitekamp@gatech.edu
-website: https://tail.cc.gatech.edu/people.html
+website: http://dweitekamp.com
 category: current
 
 ---
