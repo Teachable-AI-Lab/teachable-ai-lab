@@ -37,8 +37,8 @@ might build on and advance these projects Also, take a look at relevant publicat
 (usually included on the project description pages) and try to identify the
 TAIL researchers that are working on them. The folks that are working on the
 projects you find most interesting might make good potential mentors for your
-independent study project. Try to identify at least one researcher besides
-Chris MacLellan. Chris loves to mentor, but unfortunately has the smallest
+independent study project. **Identify at least one researcher besides
+Chris MacLellan**. Chris loves to mentor, but unfortunately has the smallest
 amount of time of anyone in the lab to do so, so its important to identify
 others that could serve as your primary mentor.
 
@@ -61,6 +61,33 @@ Finally, after completing the above, you should proceed to fill out an
 [application](https://forms.office.com/r/455mrxTSFa) to work in the lab. Please
 fill out this application before reaching out via email and if you do follow
 up, then please reference your application in your message.
+
+## Review of Applications
+
+Each semester about 1-3 weeks before the registration period, we begin looking
+through the applications to identify potential independent study candidates.
+As a general rule, the potential mentors you list in your application will be
+the ones reviewing your application, and they will be the one deciding if they
+want to take you on as an independent study; Chris reviews and approves these
+decisions, but most of the decision making power is with the mentors as they
+will be the ones working with you on a day-to-day basis. 
+
+We share this process as it highlights the importance of picking the right
+potential mentors on your application. The mentors will also be looking for
+people that are best aligned with helping to advance their active project. 
+This means you should do your research into each of the possible mentors and
+what projects they are working on, so you can the potential mentors that
+would be the best fit for you.
+
+## How to Sign Up for Independent Study Credits
+
+First, you need to determine which independent study course and form you 
+need to file. The information on the courses/forms for MS students can be
+found [here](https://www.cc.gatech.edu/graduate-forms-procedures).
+
+Second, you should file [this process](https://www.cc.gatech.edu/sites/default/files/documents/2021/How%20to%20Use%20DocuSign%20for%20CoC%20Forms%5B1%5D%5B20%5D.pdf) 
+to send the form to Chris to sign and to have it routed to the appropriate
+person, so you can receive your course registration permit. 
 
 ## Preparing a Research Plan
 If you are selected to participate in an independent study, then you will be
