@@ -5,13 +5,13 @@ title: Publications
 
 ## Lab Publications
 
-Smith, G. & Maclellan, C. J. (2025). L.E.A.R.N: A Hybrid Architecture For Language-Guided Induction of Hierarchical Task Networks. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][smith-acs-25]
+Smith, G. & Maclellan, C. J. (2025). L.E.A.R.N: A Hybrid Architecture For Language-Guided Induction of Hierarchical Task Networks. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][smith-acs-25]
 
-Barari, N., Kim, E., & MacLellan, C. J. (2025). Explaining Robustness to Catastrophic Forgetting Through Incremental Concept Formation. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][barari-acs-25]
+Barari, N., Kim, E., & MacLellan, C. J. (2025). Explaining Robustness to Catastrophic Forgetting Through Incremental Concept Formation. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][barari-acs-25]
 
-Gupta, A., Singaravadivelan, K., & Wang, Z. (2025). Hierarchical Semantic Retrieval with Cobweb. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][gupta-acs-25]
+Gupta, A., Singaravadivelan, K., & Wang, Z. (2025). Hierarchical Semantic Retrieval with Cobweb. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][gupta-acs-25]
 
-Xiong, S., Zhangding, L., Zhou, J., & Su, Y. (2025). Deliberate Planning in Language Models with Symbolic Representation. In _Poster Collection of the Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][xiong-acs-25]
+Xiong, S., Zhangding, L., Zhou, J., & Su, Y. (2025). Deliberate Planning in Language Models with Symbolic Representation. In _Poster Collection of the Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][xiong-acs-25]
 
 Zhang, Q., Wang, C., & MacLellan, C. J. (2025). (A)I Can Play Gomoku: An Intelligent Tutoring System for Strategic Games. In _Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play_. [(pdf)][zhang-chiplay-25]
 
