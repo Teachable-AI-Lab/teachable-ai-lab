@@ -5,6 +5,12 @@ title: Publications
 
 ## Lab Publications
 
+Smith, G. & Maclellan, C. J. (2025). L.E.A.R.N: A Hybrid Architecture For Language-Guided Induction of Hierarchical Task Networks. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][smith-acs-25]
+
+Barari, N., Kim, E., & MacLellan, C. J. (2025). Explaining Robustness to Catastrophic Forgetting Through Incremental Concept Formation. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][barari-acs-25]
+
+Gupta, A., Singaravadivelan, K., & Wang, Z. (2025). Hierarchical Semantic Retrieval with Cobweb. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][gupta-acs-25]
+
 Zhang, Q., Wang, C., & MacLellan, C. J. (2025). (A)I Can Play Gomoku: An Intelligent Tutoring System for Strategic Games. In _Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play_. [(pdf)][zhang-chiplay-25]
 
 Wang, Z., Harrer, E., Zhu, T., Dai, Z., & MacLellan, C. J. (2025). Deep Taxonomic Networks for Unsupervised Hierarchical Prototype Discovery. In _Proceedings of Advances in Neural Information Processing Systems_. [(pdf)][wang-neurips-25]
@@ -171,6 +177,9 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[gupta-acs-25]: https://openreview.net/forum?id=ms3utEpR78
+[smith-acs-25]: https://openreview.net/forum?id=aKJl1p8hWb
+[barari-acs-25]: https://openreview.net/forum?id=VPAUjiYc4m
 [zhang-chiplay-25]: https://dl.acm.org/doi/full/10.1145/3744736.3749191
 [wang-neurips-25]: https://arxiv.org/abs/2509.23602
 [reddig-ijaied-25]: https://doi.org/10.1007/s40593-025-00505-6
