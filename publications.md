@@ -5,6 +5,10 @@ title: Publications
 
 ## Lab Publications
 
+Zhang, Q., Wang, C., & MacLellan, C. J. (2025). (A)I Can Play Gomoku: An Intelligent Tutoring System for Strategic Games. In _Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play_. [(pdf)][zhang-chiplay-25]
+
+Wang, Z., Harrer, E., Zhu, T., Dai, Z., & MacLellan, C. J. (2025). Deep Taxonomic Networks for Unsupervised Hierarchical Prototype Discovery. In _Proceedings of Advances in Neural Information Processing Systems_. [(pdf)][wang-neurips-25]
+
 Reddig, J. M., Arora, A., & MacLellan, C. J. (2025). Generating in-context, personalized feedback for intelligent tutors with large language models. International Journal of Artificial Intelligence in Education, 1-42. [(pdf)][reddig-ijaied-25]
 
 Wang, Z., Haarer, E., Barari, N., & MacLellan, C.J. (2025). Taxonomic Networks: A Representation for Neuro-Symbolic Pairing. In _Proceedings of the 2nd International Conference on Neuro-symbolic Systems_. [(pdf)][wang-neus-25] [(poster)][wang-neus-25-poster]
@@ -167,6 +171,8 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[zhang-chiplay-25]: https://dl.acm.org/doi/full/10.1145/3744736.3749191
+[wang-neurips-25]: https://arxiv.org/abs/2509.23602
 [reddig-ijaied-25]: https://doi.org/10.1007/s40593-025-00505-6
 [weitekamp-cogsci-25-poster]: /files/CogSci25-DIPL-Poster.pdf
 [maclellan-cogsci-25-poster]: /files/CogSci25-Model-Human-Learner-Poster.pdf
