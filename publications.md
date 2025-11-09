@@ -11,6 +11,8 @@ Barari, N., Kim, E., & MacLellan, C. J. (2025). Explaining Robustness to Catastr
 
 Gupta, A., Singaravadivelan, K., & Wang, Z. (2025). Hierarchical Semantic Retrieval with Cobweb. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][gupta-acs-25]
 
+Xiong, S., Zhangding, L., Zhou, J., & Su, Y. (2025). Deliberate Planning in Language Models with Symbolic Representation. In _Poster Collection of the Twelfth Annual Conference on Advances in Cognitive Systems. [(pdf)][xiong-acs-25]
+
 Zhang, Q., Wang, C., & MacLellan, C. J. (2025). (A)I Can Play Gomoku: An Intelligent Tutoring System for Strategic Games. In _Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play_. [(pdf)][zhang-chiplay-25]
 
 Wang, Z., Harrer, E., Zhu, T., Dai, Z., & MacLellan, C. J. (2025). Deep Taxonomic Networks for Unsupervised Hierarchical Prototype Discovery. In _Proceedings of Advances in Neural Information Processing Systems_. [(pdf)][wang-neurips-25]
@@ -177,6 +179,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[xiong-acs-25]: https://openreview.net/forum?id=uJHpaZlIvT
 [gupta-acs-25]: https://openreview.net/forum?id=ms3utEpR78
 [smith-acs-25]: https://openreview.net/forum?id=aKJl1p8hWb
 [barari-acs-25]: https://openreview.net/forum?id=VPAUjiYc4m
