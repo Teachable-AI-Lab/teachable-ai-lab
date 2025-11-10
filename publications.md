@@ -5,7 +5,7 @@ title: Publications
 
 ## Lab Publications
 
-Smith, G. & Maclellan, C. J. (2025). L.E.A.R.N: A Hybrid Architecture For Language-Guided Induction of Hierarchical Task Networks. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][smith-acs-25]
+Smith, G. & MacLellan, C. J. (2025). L.E.A.R.N: A Hybrid Architecture for Language-Guided Induction of Hierarchical Task Networks. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][smith-acs-25]
 
 Barari, N., Kim, E., & MacLellan, C. J. (2025). Explaining Robustness to Catastrophic Forgetting Through Incremental Concept Formation. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][barari-acs-25]
 
