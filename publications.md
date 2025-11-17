@@ -5,6 +5,8 @@ title: Publications
 
 ## Lab Publications
 
+Weitekamp, D. (2025). CORGI: Efficient Pattern Matching With Quadratic Guarantees. In _Proceedings of the Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][(weitekamp-acs-25)]
+
 Smith, G. & MacLellan, C. J. (2025). L.E.A.R.N: A Hybrid Architecture for Language-Guided Induction of Hierarchical Task Networks. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][smith-acs-25]
 
 Barari, N., Kim, E., & MacLellan, C. J. (2025). Explaining Robustness to Catastrophic Forgetting Through Incremental Concept Formation. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][barari-acs-25]
@@ -179,6 +181,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[weitekamp-acs-25]: https://openreview.net/forum?id=MQr2n8bxqU
 [xiong-acs-25]: https://openreview.net/forum?id=uJHpaZlIvT
 [gupta-acs-25]: https://openreview.net/forum?id=ms3utEpR78
 [smith-acs-25]: https://openreview.net/forum?id=aKJl1p8hWb
