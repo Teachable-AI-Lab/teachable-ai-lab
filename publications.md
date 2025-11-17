@@ -5,7 +5,7 @@ title: Publications
 
 ## Lab Publications
 
-Weitekamp, D. (2025). CORGI: Efficient Pattern Matching With Quadratic Guarantees. In _Proceedings of the Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][(weitekamp-acs-25)]
+Weitekamp, D. (2025). CORGI: Efficient Pattern Matching With Quadratic Guarantees. In _Proceedings of the Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][weitekamp-acs-25]
 
 Smith, G. & MacLellan, C. J. (2025). L.E.A.R.N: A Hybrid Architecture for Language-Guided Induction of Hierarchical Task Networks. In _Proceedings of Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][smith-acs-25]
 
