@@ -50,143 +50,101 @@ As a result of your experience in this course, you will be able to:
 | -----: | :------ | :-------------- |
 | 1 | 1/12 | **1/13: Class Intro**<br>
 READ: Syllabus<br><br>
-
 **1/15: Human-Computer Symbiosis and AI vs. IA**<br>
 READ: Licklider, J. C. (1960). *Man-computer symbiosis.*  
 IRE Transactions on Human Factors in Electronics, 1(1), 4–11.<br>
 READ: Markoff, J. (2015). *Between human and machine.*  
 In *Machines of Loving Grace* (ch. 1; pp. 1–18).<br>
 OPTIONAL: Full Markoff book (ProQuest). |
-
 | 2 | 1/19 | **1/20: Direct Manipulation vs. Interface Agents**<br>
 READ: Shneiderman & Maes (1997). *Direct manipulation vs. interface agents.*  
 interactions, 4(6), 42–61.<br>
 DEBATE: In-class debate (assigned position).<br>
 OPTIONAL: DirectGPT; Agent Laboratory<br><br>
-
 **1/21: DUE** Learning Goals Self-Assessment<br><br>
-
 **1/22: Broader Perspectives on Humans and AI Automation**<br>
 READ: Wiener (1960). *Some moral and technical consequences of automation.*  
 Science, 131(3410), 1355–1358.<br>
 READ: Ito (2017). *Resisting reduction: A manifesto.*  
 Journal of Design and Science.<br>
 OPTIONAL: Bigham (2019). |
-
 | 3 | 1/26 | **1/27: LLMs**<br>
 READ: Bender et al. (2021). *On the dangers of stochastic parrots.*  
 FAccT 2021.<br><br>
-
 **1/29: LLMs and Human-AI Interaction**<br>
 READ: Zamfirescu-Pereira et al. (2023). *Why Johnny can’t prompt.* CHI 2023.<br>
 OPTIONAL: Wu et al. (2022); Lin & Martelaro (2024). |
-
 | 4 | 2/1 | **2/3: Interactive Task Learning**<br>
 READ: Laird et al. (2017). *Interactive task learning.*  
 IEEE Intelligent Systems, 32(4), 6–21.<br>
 READ: Lawley & MacLellan (2024). *Val: Interactive task learning with GPT dialog parsing.* CHI 2024.<br>
 OPTIONAL: MacLellan et al. (2018); Simard et al. (2017); Amershi et al. (2014).<br><br>
-
 **2/5: Mixed-Initiative Systems**<br>
 READ: Horvitz (1999). *Principles of mixed-initiative user interfaces.* CHI ’99. |
-
 | 5 | 2/9 | **2/9: DUE** Project Proposal Materials<br><br>
-
 **2/10: Presentation and Discussion of Project Ideas**<br><br>
-
 **2/12: Challenges in Human-AI Interaction Design**<br>
 READ: Yang et al. (2020). *Why human–AI interaction is uniquely difficult.* CHI 2020. |
-
 | 6 | 2/16 | **2/17: AI as a Design Material**<br>
 READ: Yildirim et al. (2023). *Creating design resources to scaffold AI ideation.* DIS 2023.<br>
 REVIEW: AI Brainstorming Kit<br>
 OPTIONAL: Google People + AI Guidebook<br><br>
-
 **2/19: Guidelines for Human-AI Interaction**<br>
 READ: Amershi et al. (2019). *Guidelines for human-AI interaction.* CHI 2019.<br>
 OPTIONAL: Design Principles for Generative AI Applications |
-
 | 7 | 2/23 | **2/23: DUE** Critique of an Existing Human-AI Interaction Technology<br><br>
-
 **2/24: Fair and Inclusive AI Systems**<br>
 READ: ProPublica. *Machine Bias.*<br>
 READ: Winner (1980). *Do artifacts have politics?*<br><br>
-
 **2/26: Fair and Inclusive AI**<br>
 READ: Costanza-Chock (2018). *Design Justice, A.I.*<br>
 WATCH: Buolamwini (2018). *AI, Ain’t I a Woman.* |
-
 | 8 | 3/2 | **3/2: DUE** Peer Reviews<br><br>
-
 **3/3: Fair and Inclusive AI**<br>
 READ: Keyes et al. (2019). *A mulching proposal.*<br>
 OPTIONAL: Wired article<br><br>
-
 **3/5: Data — Where Does It Come From?**<br>
 READ: Baack & Mozilla Insights (2024). *Training Data for the Price of a Sandwich.*<br>
 OPTIONAL: Fiesler & Hallinan (2018). |
-
 | 9 | 3/9 | **3/9: DUE** Midterm Learning Self-Assessment<br><br>
-
 **3/10: Ethical Challenges**<br>
 READ: Rezwana & Maher (2023). *Ethical challenges in Human-AI co-creativity.*<br>
 OPTIONAL: Wang et al. (2023); Munteanu et al. (2015).<br><br>
-
 **3/12: AI Literacy**<br>
 READ: Long & Magerko (2020). *What is AI literacy?* CHI 2020. |
-
 | 10 | 3/16 | **3/17: AI and Education**<br>
 READ: Jurenka et al. (2024). *Responsible generative AI for education.*<br><br>
-
 **3/19: Writing Assistants**<br>
 READ: Lee et al. (2022). *Coauthor.* CHI 2022.<br>
 OPTIONAL: Siddiqui et al. (2025). |
-
 | 11 | 3/23 | **Spring Break (No Class)** |
-
 | 12 | 3/30 | **3/31: Agentic AI and Design Challenges**<br>
 READ: Passi (2025). *Agentic AI has a human oversight problem.*<br>
 OPTIONAL: Bansal et al. (2024).<br><br>
-
 **4/1: DUE** Reviews for Assigned Papers<br><br>
-
 **4/2: Mock Paper Review** |
-
 | 13 | 4/6 | **4/6: DUE** Proposal for a Novel Human-AI Interaction Technology<br><br>
-
 **4/7: AI and Risks**<br>
 READ: Harvey et al. (2025). *Educator-centered harms from LLMs.*<br><br>
-
 **4/9: AI and Risks**<br>
 READ: Zhou et al. (2023). *Synthetic Lies.*<br>
 OPTIONAL: Lee et al. (2024). |
-
 | 14 | 4/13 | **4/13: DUE** Peer Feedback<br><br>
-
 **4/14: AI and Risks**<br>
 READ: Jakesch et al. (2023). *Opinionated language models.*<br>
 OPTIONAL: Doshi & Hauser (2024).<br><br>
-
 **4/16: Child-AI Interaction**<br>
 READ: Druga et al. (2017). |
-
 | 15 | 4/20 | **4/20: DUE** Define What Human-AI Interaction Is<br><br>
-
 **4/21: Human-AI Teaming and the Future of Work**<br>
 READ: Stowers et al. (2021).<br>
 OPTIONAL: Future of Work readings/videos<br><br>
-
 **4/23: Project Presentations** |
-
 | 16 | 4/27 | **4/27: DUE** Peer Feedback<br><br>
-
 **4/29: Project Presentations**<br><br>
-
 **4/30: DUE** Final Project Materials; Finals (No Class) |
-
 | 17 | 5/4 | **5/4: DUE** Final Learning Self-Assessment & Course Feedback<br>
 DUE: CIOS Course Evaluation<br><br>
-
 **5/5–5/7: Finals (No Class)** |
 
 # Participation & Attendance
