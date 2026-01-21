@@ -43,12 +43,6 @@ Zhang, Q., MacLellan C.J. (2025). Think and Play: Designing and Evaluating Human
 
 Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [(pdf)][zhang-fdg-25] [<i class="fab fa-youtube"></i>][zhang-fdg-25-talk]
 
-Zhou, J., MacLellan, C.J. (2024). Improving Interface Design in Interactive Task Learning for Hierarchical Tasks based on a Qualitative Study. In _UIST Adjunct '24: Adjunct Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology_. [(pdf)][zhou-uist-24]
-
-Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024).
-Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings
-of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
-
 Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus
 Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational
 Conference on HUman-Agent Interaction_. [(pdf)][wu-hai-2024]
