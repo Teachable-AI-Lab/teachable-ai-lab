@@ -5,6 +5,8 @@ title: Publications
 
 ## Lab Publications
 
+Barari, N., Lian, X., and MacLellan, C.J. (2026). Robust Incremental Learning of Visual Concepts without Catastrophic Forgetting. Cognitive Systems Research. [(pdf)][https://doi.org/10.1016/j.cogsys.2026.101447]
+
 Li, Z., Hammad, N., Zhang, Q., Wang, C., & Harpstead, E. (2025). Vertical Farm: A Unified Testbed to Address Challenges in Human-Agent Teaming Research. In _Proceedings of the 13th International Conference on Human-Agent Interaction_ (pp. 421-423). [(pdf)][li-hai-2025]
 
 Weitekamp, D. (2025). CORGI: Efficient Pattern Matching With Quadratic Guarantees. In _Proceedings of the Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][weitekamp-acs-25]
