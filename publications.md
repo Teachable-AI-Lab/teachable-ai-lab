@@ -5,7 +5,7 @@ title: Publications
 
 ## Lab Publications
 
-Reddig, J., Moon, S., Crutcher, K., and MacLellan, C.J. (2026). AI Unplugged: Embodied Interactions for AI Literacy in Higher Education. In Proceedings of The 16th Symposium on Educational Advances in Artificial Intellignece.[(pdf)][reddig-eaai-2026] [<i class="fab fa-youtube"></i>][reddig-eaai-2026-video]
+Reddig, J., Moon, S., Crutcher, K., and MacLellan, C.J. (2026). AI Unplugged: Embodied Interactions for AI Literacy in Higher Education. In Proceedings of The 16th Symposium on Educational Advances in Artificial Intellignece.[(pdf)][reddig-eaai-2026]
 
 Barari, N., Lian, X., and MacLellan, C.J. (2026). Robust Incremental Learning of Visual Concepts without Catastrophic Forgetting. Cognitive Systems Research. [(pdf)][barari-csr-2026]
 
