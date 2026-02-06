@@ -7,7 +7,6 @@ title: Publications
 
 Reddig, J., Moon, S., Crutcher, K., and MacLellan, C.J. (2026). AI Unplugged: Embodied Interactions for AI Literacy in Higher Education. In Proceedings of The 16th Symposium on Educational Advances in Artificial Intellignece.
 [(pdf)][reddig-eaai-2026] [<i class="fab fa-youtube"></i>][reddig-eaai-2026-video]
-
 Barari, N., Lian, X., and MacLellan, C.J. (2026). Robust Incremental Learning of Visual Concepts without Catastrophic Forgetting. Cognitive Systems Research. [(pdf)][barari-csr-2026]
 
 Li, Z., Hammad, N., Zhang, Q., Wang, C., & Harpstead, E. (2025). Vertical Farm: A Unified Testbed to Address Challenges in Human-Agent Teaming Research. In _Proceedings of the 13th International Conference on Human-Agent Interaction_ (pp. 421-423). [(pdf)][li-hai-2025]
