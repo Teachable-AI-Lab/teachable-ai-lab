@@ -182,7 +182,6 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
 [reddig-eaai-2026]: /files/reddig-eaai-2026.pdf
-[reddig-eaai-2026-video]:https://underline.io/events/501/sessions?searchGroup=lecture&trackIds=2551&eventSessionId=21711
 [barari-csr-2026]: https://doi.org/10.1016/j.cogsys.2026.101447
 [li-hai-2025]: https://dl.acm.org/doi/full/10.1145/3765766.3765813
 [weitekamp-acs-25]: https://openreview.net/forum?id=MQr2n8bxqU
