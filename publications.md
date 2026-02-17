@@ -5,6 +5,8 @@ title: Publications
 
 ## Lab Publications
 
+Zhou, J., Roy, A., Gupta, S., Weitekamp, D., & MacLellan, C.J. (2026). When Should Users Check? A Decision-Theoretic Model of Confirmation Frequency in Multi-Step AI Agent Tasks. In _Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)_. [(pdf)][zhou-chi-26]
+
 Li, Z., Hammad, N., Zhang, Q., Wang, C., & Harpstead, E. (2025). Vertical Farm: A Unified Testbed to Address Challenges in Human-Agent Teaming Research. In _Proceedings of the 13th International Conference on Human-Agent Interaction_ (pp. 421-423). [(pdf)][li-hai-2025]
 
 Weitekamp, D. (2025). CORGI: Efficient Pattern Matching With Quadratic Guarantees. In _Proceedings of the Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][weitekamp-acs-25]
@@ -183,6 +185,7 @@ _Proceedings of the Eighth Annual Conference on Advances in
 Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
+[zhou-chi-26]: https://arxiv.org/abs/2510.05307
 [li-hai-2025]: https://dl.acm.org/doi/full/10.1145/3765766.3765813
 [weitekamp-acs-25]: https://openreview.net/forum?id=MQr2n8bxqU
 [xiong-acs-25]: https://openreview.net/forum?id=uJHpaZlIvT
