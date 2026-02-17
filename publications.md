@@ -7,6 +7,10 @@ title: Publications
 
 Zhou, J., Roy, A., Gupta, S., Weitekamp, D., & MacLellan, C.J. (2026). When Should Users Check? A Decision-Theoretic Model of Confirmation Frequency in Multi-Step AI Agent Tasks. In _Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)_. [(pdf)][zhou-chi-26]
 
+Reddig, J., Moon, S., Crutcher, K., and MacLellan, C.J. (2026). AI Unplugged: Embodied Interactions for AI Literacy in Higher Education. In Proceedings of The 16th Symposium on Educational Advances in Artificial Intellignece.[(pdf)][reddig-eaai-2026]
+
+Barari, N., Lian, X., and MacLellan, C.J. (2026). Robust Incremental Learning of Visual Concepts without Catastrophic Forgetting. Cognitive Systems Research. [(pdf)][barari-csr-2026]
+
 Li, Z., Hammad, N., Zhang, Q., Wang, C., & Harpstead, E. (2025). Vertical Farm: A Unified Testbed to Address Challenges in Human-Agent Teaming Research. In _Proceedings of the 13th International Conference on Human-Agent Interaction_ (pp. 421-423). [(pdf)][li-hai-2025]
 
 Weitekamp, D. (2025). CORGI: Efficient Pattern Matching With Quadratic Guarantees. In _Proceedings of the Twelfth Annual Conference on Advances in Cognitive Systems_. [(pdf)][weitekamp-acs-25]
@@ -44,12 +48,6 @@ Lange, L., Zhang, Q., MacLellan, C., & Wu, Y. (2025). Training Humans for Robust
 Zhang, Q., MacLellan C.J. (2025). Think and Play: Designing and Evaluating Human-AI Teaming Dynamics in Gaming Environments. In _Proceedings of the AAAI Symposium Series_ (Vol. 5, No. 1, pp. 133-135). [(pdf)][zhang-aaai-sss-25]
 
 Zhang, Q., Smith, G., Li, Z., Dong, Y., Harpstead, E., & Maclellan, C. (2025). Dice Adventure: An Asymmetrical Collaborative Game for Exploring the Hybrid Teaming Effects. In _Proceedings of the 20th International Conference on the Foundations of Digital Games_ (pp. 1-9). 🏆 [(pdf)][zhang-fdg-25] [<i class="fab fa-youtube"></i>][zhang-fdg-25-talk]
-
-Zhou, J., MacLellan, C.J. (2024). Improving Interface Design in Interactive Task Learning for Hierarchical Tasks based on a Qualitative Study. In _UIST Adjunct '24: Adjunct Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology_. [(pdf)][zhou-uist-24]
-
-Guo, G., Kumar, A. M. S., Gupta, A., Coscia, A., Maclellan, C., & Endert, A. (2024).
-Visualizing Intelligent Tutor Interactions for Responsive Pedagogy. In _Proceedings
-of the 2024 International Conference on Advanced Visual Interfaces_. [(pdf)][guo-avi-24]
 
 Wu, Y. C., Lange, L., Yenney, J., Zhang, Q., Harpstead, E. (2024). Scaffolded versus
 Self-Paced Training for Human-Agent Teams. In _Proceedings of the 12th INternational
@@ -186,6 +184,8 @@ Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
 [<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
 
 [zhou-chi-26]: https://arxiv.org/abs/2510.05307
+[reddig-eaai-2026]: /files/reddig-eaai-2026.pdf
+[barari-csr-2026]: https://doi.org/10.1016/j.cogsys.2026.101447
 [li-hai-2025]: https://dl.acm.org/doi/full/10.1145/3765766.3765813
 [weitekamp-acs-25]: https://openreview.net/forum?id=MQr2n8bxqU
 [xiong-acs-25]: https://openreview.net/forum?id=uJHpaZlIvT
