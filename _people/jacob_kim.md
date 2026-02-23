@@ -1,5 +1,7 @@
 ---
 name: Jacob Kim
+first_name: "Jacob"
+last_name: "Kim"
 role: High School Student
 profile_pic: /images/jacob_kim.jpg
 email: jacobkim008@gmail.com

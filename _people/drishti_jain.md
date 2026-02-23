@@ -1,5 +1,7 @@
 ---
 name: Drishti Jain
+first_name: "Drishti"
+last_name: "Jain"
 role: Master's Student
 profile_pic: /images/drishti.jpg
 email: djain301@gatech.edu

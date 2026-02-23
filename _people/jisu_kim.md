@@ -1,5 +1,7 @@
 ---
 name: Jisu Kim
+first_name: "Jisu"
+last_name: "Kim"
 role: Master's Student
 profile_pic: images/jisu_profile.jpg
 email: jisu.kim@gatech.edu

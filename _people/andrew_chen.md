@@ -1,5 +1,7 @@
 ---
 name: Andrew Chen
+first_name: "Andrew"
+last_name: "Chen"
 role: Master's Student
 profile_pic: /images/andrew-chen-profile.jpeg
 email: ac4267@drexel.edu

@@ -1,5 +1,7 @@
 ---
 name: Jennifer Reddig
+first_name: "Jennifer"
+last_name: "Reddig"
 role: PhD Student
 order: 3
 profile_pic: /images/jenn_profile.JPG

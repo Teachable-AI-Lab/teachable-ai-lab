@@ -1,5 +1,7 @@
 ---
 name: Shinhaeng Lee
+first_name: "Shinhaeng"
+last_name: "Lee"
 role: Undergraduate Student
 profile_pic: /images/shinhaeng_profile.jpg
 email: slee3487@gatech.edu

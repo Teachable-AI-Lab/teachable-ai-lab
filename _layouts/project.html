@@ -1,0 +1,74 @@
+---
+layout: default
+---
+{%- comment -%} Build lab-member "First Last" match keys for bold author display {%- endcomment -%}
+{%- assign lab_member_keys = "" -%}
+{%- for person in site.people -%}
+  {%- assign person_key = person.first_name | append: " " | append: person.last_name -%}
+  {%- assign lab_member_keys = lab_member_keys | append: "|" | append: person_key -%}
+{%- endfor -%}
+{%- assign lab_members = lab_member_keys | split: "|" -%}
+
+{%- assign page_slug = page.path | split: "/" | last | split: "." | first -%}
+{%- assign related_pubs = site.publications | where_exp: "p", "p.projects contains page_slug" | sort: "date" | reverse -%}
+
+<article class="post">
+  <div class="post-content">
+
+    {%- if page.title -%}
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+    {%- endif -%}
+
+    {{ content }}
+
+    {%- if related_pubs.size > 0 -%}
+    <div class="project-publications">
+      <h3>Related Publications</h3>
+      {%- for pub in related_pubs -%}
+        <div class="pub-item pub-item-project">
+          <p class="pub-citation">
+            {%- for author in pub.authors -%}
+              {%- assign author_key = author.first | append: " " | append: author.last -%}
+              {%- if lab_members contains author_key -%}
+                <strong>{{ author.first }} {{ author.last }}</strong>
+              {%- else -%}
+                {{ author.first }} {{ author.last }}
+              {%- endif -%}
+              {%- unless forloop.last -%}, {% endunless -%}
+            {%- endfor %}
+            ({{ pub.year }}).
+            <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>.
+            <em>{{ pub.venue }}</em>.
+            {%- if pub.award and pub.award != "" -%}
+              &nbsp;&#127942; <em>{{ pub.award }}</em>
+            {%- endif -%}
+          </p>
+          <p class="pub-links">
+            {%- if pub.pdf_url and pub.pdf_url != "" -%}
+              <a class="pub-link" href="{{ pub.pdf_url }}">[PDF]</a>
+            {%- endif -%}
+            {%- if pub.arxiv_url and pub.arxiv_url != "" -%}
+              <a class="pub-link" href="{{ pub.arxiv_url }}">[arXiv]</a>
+            {%- endif -%}
+            {%- if pub.doi and pub.doi != "" -%}
+              <a class="pub-link" href="https://doi.org/{{ pub.doi }}">[DOI]</a>
+            {%- endif -%}
+            {%- if pub.video_url and pub.video_url != "" -%}
+              <a class="pub-link" href="{{ pub.video_url }}">[Video]</a>
+            {%- endif -%}
+            {%- if pub.poster_url and pub.poster_url != "" -%}
+              <a class="pub-link" href="{{ pub.poster_url }}">[Poster]</a>
+            {%- endif -%}
+            {%- if pub.website_url and pub.website_url != "" -%}
+              <a class="pub-link" href="{{ pub.website_url }}">[Website]</a>
+            {%- endif -%}
+          </p>
+        </div>
+      {%- endfor -%}
+    </div>
+    {%- endif -%}
+
+  </div>
+</article>

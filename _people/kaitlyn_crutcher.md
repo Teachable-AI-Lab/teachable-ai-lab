@@ -1,5 +1,7 @@
 ---
 name: Kaitlyn Crutcher
+first_name: "Kaitlyn"
+last_name: "Crutcher"
 role: Undergrad Student
 order: 1
 profile_pic: /images/kaitlyn_picture.jpg

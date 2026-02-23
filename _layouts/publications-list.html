@@ -1,0 +1,271 @@
+---
+layout: default
+---
+{%- comment -%} Build lab-member "First Last" match keys from _people collection {%- endcomment -%}
+{%- assign lab_member_keys = "" -%}
+{%- for person in site.people -%}
+  {%- assign person_key = person.first_name | append: " " | append: person.last_name -%}
+  {%- assign lab_member_keys = lab_member_keys | append: "|" | append: person_key -%}
+{%- endfor -%}
+{%- assign lab_members = lab_member_keys | split: "|" -%}
+
+{%- assign sorted_pubs = site.publications | sort: "date" | reverse -%}
+{%- assign sorted_people = site.people | sort: "last_name" -%}
+
+<article class="post">
+  <div class="post-content">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+
+    <div class="pub-filters" id="pub-filters">
+      <div class="pub-filter-group">
+        <label for="filter-author">Author:</label>
+        <select id="filter-author">
+          <option value="">All Lab Members</option>
+          {%- for person in sorted_people -%}
+            {%- assign person_key = person.first_name | append: " " | append: person.last_name -%}
+            {%- assign display_name = person.first_name -%}
+            {%- if person.preferred_name and person.preferred_name != "" -%}
+              {%- assign display_name = display_name | append: " (" | append: person.preferred_name | append: ")" -%}
+            {%- endif -%}
+            {%- assign display_name = display_name | append: " " | append: person.last_name -%}
+            <option value="{{ person_key | escape }}">{{ display_name }}</option>
+          {%- endfor -%}
+        </select>
+      </div>
+      <div class="pub-filter-group">
+        <label for="filter-venue">Venue:</label>
+        <select id="filter-venue">
+          <option value="">All Venues</option>
+        </select>
+      </div>
+      <div class="pub-filter-group">
+        <label for="filter-topic">Topic:</label>
+        <select id="filter-topic">
+          <option value="">All Topics</option>
+        </select>
+      </div>
+      <div class="pub-filter-group">
+        <label for="filter-project">Project:</label>
+        <select id="filter-project">
+          <option value="">All Projects</option>
+        </select>
+      </div>
+      <div class="pub-filter-group">
+        <button id="clear-filters" class="pub-clear-btn">Clear</button>
+        <span id="pub-count" class="pub-count"></span>
+      </div>
+    </div>
+
+  </div>
+</article>
+
+<div id="pub-list">
+  {%- assign current_year = 0 -%}
+  {%- for pub in sorted_pubs -%}
+    {%- assign pub_slug = pub.path | split: "/" | last | split: "." | first -%}
+
+    {%- comment -%} Build pipe-separated "First Last" author keys {%- endcomment -%}
+    {%- assign author_keys = "" -%}
+    {%- for author in pub.authors -%}
+      {%- unless forloop.first -%}{%- assign author_keys = author_keys | append: "|" -%}{%- endunless -%}
+      {%- assign author_keys = author_keys | append: author.first | append: " " | append: author.last -%}
+    {%- endfor -%}
+
+    {%- comment -%} Compute venue_base: strip trailing 4-digit year from venue_short {%- endcomment -%}
+    {%- assign vs_parts = pub.venue_short | split: " " -%}
+    {%- assign vs_last = vs_parts | last -%}
+    {%- assign vs_year = vs_last | plus: 0 -%}
+    {%- if vs_year >= 1900 -%}
+      {%- assign venue_base = pub.venue_short | remove: vs_last | strip -%}
+    {%- else -%}
+      {%- assign venue_base = pub.venue_short -%}
+    {%- endif -%}
+
+    {%- assign topics_joined = pub.topics | join: "|" -%}
+    {%- assign projects_joined = pub.projects | join: "|" -%}
+
+    {%- if pub.year != current_year -%}
+      {%- assign current_year = pub.year -%}
+      <h2 class="pub-year-heading" data-year="{{ pub.year }}">{{ pub.year }}</h2>
+    {%- endif -%}
+
+    <div class="pub-entry"
+         id="pub-{{ pub_slug }}"
+         data-year="{{ pub.year }}"
+         data-authors="{{ author_keys | escape }}"
+         data-venue="{{ venue_base | escape }}"
+         data-topics="{{ topics_joined | escape }}"
+         data-projects="{{ projects_joined | escape }}">
+      <div class="pub-item">
+        <p class="pub-citation">
+          {%- for author in pub.authors -%}
+            {%- assign author_key = author.first | append: " " | append: author.last -%}
+            {%- if lab_members contains author_key -%}
+              <strong class="pub-author-link" data-filter-author="{{ author_key | escape }}">{{ author.first }} {{ author.last }}</strong>
+            {%- else -%}
+              {{ author.first }} {{ author.last }}
+            {%- endif -%}
+            {%- unless forloop.last -%}, {% endunless -%}
+          {%- endfor %}
+          ({{ pub.year }}).
+          <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>.
+          <em>{{ pub.venue }}</em>.
+          {%- if pub.award and pub.award != "" -%}
+            &nbsp;&#127942; <em>{{ pub.award }}</em>
+          {%- endif -%}
+        </p>
+        <p class="pub-tags">
+          <span class="pub-tag pub-tag-venue" data-filter-venue="{{ venue_base | escape }}">{{ venue_base }}</span>
+          {%- for topic in pub.topics -%}
+            <span class="pub-tag pub-tag-topic" data-filter-topic="{{ topic | escape }}">{{ topic }}</span>
+          {%- endfor -%}
+          {%- for proj_slug in pub.projects -%}
+            {%- assign proj = site.projects | where_exp: "p", "p.path contains proj_slug" | first -%}
+            {%- if proj -%}
+              <span class="pub-tag pub-tag-project" data-filter-project="{{ proj_slug | escape }}">{{ proj.title }}</span>
+            {%- endif -%}
+          {%- endfor -%}
+        </p>
+        <p class="pub-links">
+          {%- if pub.pdf_url and pub.pdf_url != "" -%}
+            <a class="pub-link" href="{{ pub.pdf_url }}">[PDF]</a>
+          {%- endif -%}
+          {%- if pub.arxiv_url and pub.arxiv_url != "" -%}
+            <a class="pub-link" href="{{ pub.arxiv_url }}">[arXiv]</a>
+          {%- endif -%}
+          {%- if pub.doi and pub.doi != "" -%}
+            <a class="pub-link" href="https://doi.org/{{ pub.doi }}">[DOI]</a>
+          {%- endif -%}
+          {%- if pub.video_url and pub.video_url != "" -%}
+            <a class="pub-link" href="{{ pub.video_url }}">[Video]</a>
+          {%- endif -%}
+          {%- if pub.poster_url and pub.poster_url != "" -%}
+            <a class="pub-link" href="{{ pub.poster_url }}">[Poster]</a>
+          {%- endif -%}
+          {%- if pub.website_url and pub.website_url != "" -%}
+            <a class="pub-link" href="{{ pub.website_url }}">[Website]</a>
+          {%- endif -%}
+        </p>
+      </div>
+    </div>
+  {%- endfor -%}
+</div>
+
+<p id="no-results" style="display:none" class="pub-no-results">No publications match the selected filters.</p>
+
+{%- comment -%} Liquid-generated project slug→title lookup for JS {%- endcomment -%}
+<script>
+var projectTitles = {
+  {%- for project in site.projects -%}
+    {%- assign p_slug = project.path | split: "/" | last | split: "." | first -%}
+    "{{ p_slug }}": "{{ project.title | escape }}",
+  {%- endfor -%}
+};
+</script>
+
+<script>
+(function() {
+  var entries = Array.from(document.querySelectorAll('.pub-entry'));
+  var venueSet = {}, topicSet = {}, projectSet = {};
+
+  entries.forEach(function(el) {
+    var v = el.dataset.venue;
+    if (v) venueSet[v] = true;
+    var ts = el.dataset.topics;
+    if (ts) ts.split('|').forEach(function(t) { if (t) topicSet[t] = true; });
+    var ps = el.dataset.projects;
+    if (ps) ps.split('|').forEach(function(p) { if (p) projectSet[p] = true; });
+  });
+
+  var venueSel = document.getElementById('filter-venue');
+  Object.keys(venueSet).sort().forEach(function(v) {
+    var opt = document.createElement('option');
+    opt.value = v; opt.textContent = v;
+    venueSel.appendChild(opt);
+  });
+
+  var topicSel = document.getElementById('filter-topic');
+  Object.keys(topicSet).sort().forEach(function(t) {
+    var opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    topicSel.appendChild(opt);
+  });
+
+  var projectSel = document.getElementById('filter-project');
+  Object.keys(projectSet).sort(function(a, b) {
+    return (projectTitles[a] || a).localeCompare(projectTitles[b] || b);
+  }).forEach(function(p) {
+    var opt = document.createElement('option');
+    opt.value = p;
+    opt.textContent = projectTitles[p] || p;
+    projectSel.appendChild(opt);
+  });
+
+  var authorSel = document.getElementById('filter-author');
+
+  function applyFilters() {
+    var selAuthor = authorSel.value;
+    var selVenue = venueSel.value;
+    var selTopic = topicSel.value;
+    var selProject = projectSel.value;
+    var visible = 0;
+
+    entries.forEach(function(el) {
+      var authors = el.dataset.authors || '';
+      var venue = el.dataset.venue || '';
+      var topics = el.dataset.topics || '';
+      var projects = el.dataset.projects || '';
+
+      var matchAuthor = !selAuthor || ('|' + authors + '|').indexOf('|' + selAuthor + '|') !== -1;
+      var matchVenue = !selVenue || venue === selVenue;
+      var matchTopic = !selTopic || ('|' + topics + '|').indexOf('|' + selTopic + '|') !== -1;
+      var matchProject = !selProject || ('|' + projects + '|').indexOf('|' + selProject + '|') !== -1;
+
+      var show = matchAuthor && matchVenue && matchTopic && matchProject;
+      el.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    document.querySelectorAll('.pub-year-heading').forEach(function(heading) {
+      var year = heading.dataset.year;
+      var hasVisible = entries.some(function(el) {
+        return el.dataset.year === year && el.style.display !== 'none';
+      });
+      heading.style.display = hasVisible ? '' : 'none';
+    });
+
+    document.getElementById('no-results').style.display = visible === 0 ? '' : 'none';
+    document.getElementById('pub-count').textContent =
+      visible + ' publication' + (visible !== 1 ? 's' : '');
+  }
+
+  // Tag and author-name click: set the matching dropdown and filter
+  document.getElementById('pub-list').addEventListener('click', function(e) {
+    var el = e.target;
+    if (el.classList.contains('pub-tag-venue')) {
+      venueSel.value = el.dataset.filterVenue;
+      applyFilters();
+    } else if (el.classList.contains('pub-tag-topic')) {
+      topicSel.value = el.dataset.filterTopic;
+      applyFilters();
+    } else if (el.classList.contains('pub-tag-project')) {
+      projectSel.value = el.dataset.filterProject;
+      applyFilters();
+    } else if (el.classList.contains('pub-author-link')) {
+      authorSel.value = el.dataset.filterAuthor;
+      applyFilters();
+    }
+  });
+
+  authorSel.addEventListener('change', applyFilters);
+  venueSel.addEventListener('change', applyFilters);
+  topicSel.addEventListener('change', applyFilters);
+  projectSel.addEventListener('change', applyFilters);
+  document.getElementById('clear-filters').addEventListener('click', function() {
+    authorSel.value = ''; venueSel.value = ''; topicSel.value = ''; projectSel.value = '';
+    applyFilters();
+  });
+
+  applyFilters();
+})();
+</script>

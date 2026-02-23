@@ -1,5 +1,7 @@
 ---
 name: Namyata Cheduri
+first_name: "Namyata"
+last_name: "Cheduri"
 role: Master's Student
 profile_pic: /images/namyata_profile.jpeg
 email: ncheduri3@gatech.edu

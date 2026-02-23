@@ -1,5 +1,7 @@
 ---
 name: Jieyu Zhou
+first_name: "Jieyu"
+last_name: "Zhou"
 role: PhD Student
 order: 3
 profile_pic: images/jieyu_profile.png

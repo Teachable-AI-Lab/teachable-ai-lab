@@ -1,5 +1,7 @@
 ---
 name: Tanush Chopra
+first_name: "Tanush"
+last_name: "Chopra"
 role: Undergraduate Researcher
 profile_pic: /images/tanush_chopra.jpeg
 email: tchopra32@gatech.edu

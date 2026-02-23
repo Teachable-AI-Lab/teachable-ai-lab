@@ -1,5 +1,7 @@
 ---
 name: Momin Siddiqui
+first_name: "Momin"
+last_name: "Siddiqui"
 role: PhD Student
 order: 3
 profile_pic: images/momin_profile.jpeg

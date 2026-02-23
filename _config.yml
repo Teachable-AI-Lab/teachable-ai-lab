@@ -43,6 +43,7 @@ mastodon:
    instance: sigmoid.social
 
 # Build settings
+future: true
 markdown: kramdown
 theme: minima
 plugins:
@@ -64,6 +65,9 @@ collections:
     output: true
   lab_pages:
     output: true
+  publications:
+    output: true
+    permalink: /publications/:name/
 
 show_excerpts: true
 

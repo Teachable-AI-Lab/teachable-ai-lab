@@ -1,5 +1,7 @@
 ---
 name: Pat Langley
+first_name: "Pat"
+last_name: "Langley"
 role: Principal Research Scientist
 order: 98
 profile_pic: images/pat_langley.jpg

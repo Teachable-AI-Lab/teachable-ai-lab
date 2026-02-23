@@ -1,5 +1,7 @@
 ---
 name: Dan Nedelescu
+first_name: "Dan"
+last_name: "Nedelescu"
 role: Master's Student
 profile_pic: images/dan_profile.png
 email: dnedelescu3@gatech.edu

@@ -1,5 +1,7 @@
 ---
 name: Xin Lian
+first_name: "Xin"
+last_name: "Lian"
 role: Master's Student
 profile_pic: images/xin_profile.jpg
 email: xlian34@gatech.edu

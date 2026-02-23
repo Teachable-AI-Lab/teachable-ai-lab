@@ -1,5 +1,7 @@
 ---
 name: Anant Gupta
+first_name: "Anant"
+last_name: "Gupta"
 role: Master's Student
 profile_pic: /images/anant-gupta.jpg
 email: agupta886@gatech.edu

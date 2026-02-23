@@ -1,5 +1,7 @@
 ---
 name: Cyrus Khabbaz
+first_name: "Cyrus"
+last_name: "Khabbaz"
 role: Undergraduate Student
 profile_pic: /images/cyrus_khabbaz.png
 email: ckhabbaz@gatech.edu

@@ -1,5 +1,7 @@
 ---
 name: Neel Shah
+first_name: "Neel"
+last_name: "Shah"
 role: Master's Student
 profile_pic: /images/Neel_profile.png
 email: nshah621@gatech.edu

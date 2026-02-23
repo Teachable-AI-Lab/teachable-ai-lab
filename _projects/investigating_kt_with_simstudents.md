@@ -1,6 +1,6 @@
 ---
 title: Investigating Knowledge Tracing using Simulated Students 
-layout: post
+layout: project
 img: /images/T6R1C0_all_afmS.png
 date: 2021-12-07
 comments: false
@@ -24,30 +24,3 @@ correlation between the model parameters achieved from human data and the
 param- eters obtained from simulated learners. This finding suggests that it
 might be possible to initialize the parameters for knowledge tracing models
 using simulated data when no human student data is yet available.
-
-### Relevant Publications
-
-Zhang, Q., Chen, Z., Lalwani, N., MacLellan, C.J. (2022). Modifying Deep Knowledge Tracing
-for Multi-step Problems. In _Proceedings of the 15th International Conference on Educational
-Data Mining_. [<i class="far fa-file-pdf"></i>][zhang-edm-22-paper]
-[<i class="fab fa-youtube"></i>][zhang-edm-22-video]
-
-[zhang-edm-22-paper]:https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.82/index.html
-[zhang-edm-22-video]:https://www.youtube.com/watch?v=pSmxlBQC76g
-
-Zhang, Q., MacLellan, C.J. (2021). Going Online: A simulated student approach for evaluating
-knowledge tracing in the context of mastery learning. _Proceedings of the Fourteenth
-International Conference on Educational Data Mining_. [<i class="far fa-file-pdf"></i>][zhang-edm-2021]
-[<i class="fab fa-youtube"></i>][zhang-edm-2021-talk]
-
-[zhang-edm-2021]: https://educationaldatamining.org/EDM2021/virtual/poster_paper144.html
-[zhang-edm-2021-talk]:https://youtu.be/NwmeShqfOI4
-
-Zhang, Q., MacLellan C.J. (2021). Investigating Knowledge Tracing Models
-using Simulated Students. _AAAI2021 Spring Symposium on Artificial
-Intelligence for K-12 Education_. [<i class="far fa-file-pdf"></i>][zhang-aaai-2021]
-[<i class="fab fa-youtube"></i>][zhang-aaai-2021-talk]
-
-[zhang-aaai-2021-talk]: https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13
-[zhang-aaai-2021]: /files/Investigating-Knowledge-Tracing-Models-using-Simulated-Students.pdf
-

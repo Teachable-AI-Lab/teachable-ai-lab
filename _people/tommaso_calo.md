@@ -1,5 +1,7 @@
 ---
 name: Tommaso Calò
+first_name: "Tommaso"
+last_name: "Calò"
 role: Visiting PhD Student
 order: 2
 profile_pic: /images/tom_profile.png

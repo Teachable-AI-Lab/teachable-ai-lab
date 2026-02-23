@@ -1,5 +1,7 @@
 ---
 name: Ethan Haarer
+first_name: "Ethan"
+last_name: "Haarer"
 role: Master's Student
 profile_pic: /images/ethan.jpg
 email: ehaarer3@gatech.edu

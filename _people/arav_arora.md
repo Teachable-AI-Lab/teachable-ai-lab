@@ -1,5 +1,7 @@
 ---
 name: Arav Arora
+first_name: "Arav"
+last_name: "Arora"
 role: Undergraduate Student
 profile_pic: /images/arav.jpg
 email: aarora@gatech.edu

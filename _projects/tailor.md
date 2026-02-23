@@ -1,6 +1,6 @@
 ---
 title: Predicting Effects of HPO Interventions with Socio-Cognitive Agents that Leverage Individual Residuals (TAILOR)
-layout: post
+layout: project
 img: /images/TAIL-Predicted-vs-Actual.png
 date: 2021-12-07
 comments: false
@@ -30,15 +30,6 @@ information):
 ![Comparison of Models vs. Human Performance on a Fractions Task][ACS Predicted
 Vs Actual]
 
-### Relevant Publications
-
-MacLellan, C.J., Stowers, K., Brady, L. (2020). Optimizing Human 
-Performance using Individualized Computational Models of Learning. 
-_Proceedings of the Eighth Annual Conference on Advances in
-Cognitive Systems_. [<i class="far fa-file-pdf"></i>][maclellan-acs-2020]
-[<i class="fab fa-youtube"></i>][maclellan-2020-acs-talk]
-
-[maclellan-2020-acs-talk]: https://www.youtube.com/watch?v=LpjXd2Xlqpo
 [maclellan-acs-2020]: https://chrismaclellan.com/media/publications/MacLellan-ACS-2020.pdf
 [ACS Predicted Vs Actual]: /images/TAIL-Predicted-vs-Actual.png
 

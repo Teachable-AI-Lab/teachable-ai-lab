@@ -1,5 +1,7 @@
 ---
 name: Ananya Bhargava
+first_name: "Ananya"
+last_name: "Bhargava"
 role: Undergraduate Student
 profile_pic: /images/ananya_bhargava.jpg
 email: abhargava78@gatech.edu

@@ -1,5 +1,7 @@
 ---
 name: Darryl Hannan
+first_name: "Darryl"
+last_name: "Hannan"
 role: PhD Student
 order: 3
 profile_pic: images/darryl_hannan_profile.jpeg

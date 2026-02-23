@@ -1,5 +1,7 @@
 ---
 name: Daniel Sin
+first_name: "Daniel"
+last_name: "Sin"
 role: Undergraduate Student
 profile_pic: /images/daniel_profile.png
 email: ds3657@drexel.edu

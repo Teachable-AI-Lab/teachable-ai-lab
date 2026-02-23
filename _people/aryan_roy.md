@@ -1,5 +1,7 @@
 ---
 name: Aryan Roy
+first_name: "Aryan"
+last_name: "Roy"
 role: Master’s Student
 profile_pic: /images/aryan_profile.jpg
 email: aroy389@gatech.edu

@@ -1,5 +1,7 @@
 ---
 name: Glen Smith
+first_name: "Glen"
+last_name: "Smith"
 role: PhD Student
 order: 3
 profile_pic: /images/glen_profile.jpg

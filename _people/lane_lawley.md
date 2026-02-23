@@ -1,5 +1,7 @@
 ---
 name: Lane Lawley
+first_name: "Lane"
+last_name: "Lawley"
 role: Postdoctoral Researcher
 order: 98
 profile_pic: /images/lane_profile.jpeg

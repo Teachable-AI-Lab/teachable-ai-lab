@@ -1,5 +1,7 @@
 ---
 name: Adit Gupta
+first_name: "Adit"
+last_name: "Gupta"
 role: PhD Student
 order: 3
 profile_pic: /images/adit_profile.png

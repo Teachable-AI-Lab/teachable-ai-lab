@@ -1,5 +1,7 @@
 ---
 name: Karthik Singaravadivelan
+first_name: "Karthik"
+last_name: "Singaravadivelan"
 role: Undergraduate Researcher
 profile_pic: /images/karthik.jpg
 email: ksingara3@gatech.edu

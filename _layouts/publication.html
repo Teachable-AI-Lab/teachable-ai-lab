@@ -1,0 +1,141 @@
+---
+layout: default
+---
+{%- assign pub_slug = page.path | split: "/" | last | split: "." | first -%}
+{%- assign ob = "{" -%}
+
+{%- comment -%} Build lab-member "First Last" match keys from _people collection {%- endcomment -%}
+{%- assign lab_member_keys = "" -%}
+{%- for person in site.people -%}
+  {%- assign person_key = person.first_name | append: " " | append: person.last_name -%}
+  {%- assign lab_member_keys = lab_member_keys | append: "|" | append: person_key -%}
+{%- endfor -%}
+{%- assign lab_members = lab_member_keys | split: "|" -%}
+
+{%- comment -%} BibTeX entry type {%- endcomment -%}
+{%- if page.venue_type == "journal" -%}
+  {%- assign bib_type = "article" -%}
+{%- elsif page.venue_type == "preprint" -%}
+  {%- assign bib_type = "misc" -%}
+{%- else -%}
+  {%- assign bib_type = "inproceedings" -%}
+{%- endif -%}
+
+{%- comment -%} BibTeX author string: "Last, First and Last, First" {%- endcomment -%}
+{%- capture bib_authors -%}{%- for author in page.authors -%}{{- author.last }}, {{ author.first -}}{%- unless forloop.last %} and {% endunless -%}{%- endfor -%}{%- endcapture -%}
+
+<article class="post publication-page">
+  <div class="post-content">
+
+    <header class="publication-header">
+      <h1 class="publication-title">{{ page.title }}</h1>
+
+      <p class="publication-authors">
+        {%- for author in page.authors -%}
+          {%- assign author_key = author.first | append: " " | append: author.last -%}
+          {%- if lab_members contains author_key -%}
+            <strong>{{ author.first }} {{ author.last }}</strong>
+          {%- else -%}
+            {{ author.first }} {{ author.last }}
+          {%- endif -%}
+          {%- unless forloop.last -%}, {% endunless -%}
+        {%- endfor %}
+      </p>
+
+      <p class="publication-venue">
+        <em>{{ page.venue }}</em>
+        {%- if page.award and page.award != "" -%}
+          &nbsp; <span class="publication-award">&#127942; {{ page.award }}</span>
+        {%- endif -%}
+      </p>
+
+      <p class="publication-year">{{ page.year }}</p>
+    </header>
+
+    <div class="publication-links">
+      {%- if page.pdf_url and page.pdf_url != "" -%}
+        <a class="pub-link" href="{{ page.pdf_url }}">[PDF]</a>
+      {%- endif -%}
+      {%- if page.doi and page.doi != "" -%}
+        <a class="pub-link" href="https://doi.org/{{ page.doi }}">[DOI]</a>
+      {%- endif -%}
+      {%- if page.arxiv_url and page.arxiv_url != "" -%}
+        <a class="pub-link" href="{{ page.arxiv_url }}">[arXiv]</a>
+      {%- endif -%}
+      {%- if page.video_url and page.video_url != "" -%}
+        <a class="pub-link" href="{{ page.video_url }}">[Video]</a>
+      {%- endif -%}
+      {%- if page.poster_url and page.poster_url != "" -%}
+        <a class="pub-link" href="{{ page.poster_url }}">[Poster]</a>
+      {%- endif -%}
+      {%- if page.website_url and page.website_url != "" -%}
+        <a class="pub-link" href="{{ page.website_url }}">[Website]</a>
+      {%- endif -%}
+      <button class="pub-link bibtex-btn" onclick="downloadBibtex('{{ pub_slug }}')">[BibTeX]</button>
+    </div>
+
+    {%- if page.abstract and page.abstract != "" -%}
+    <div class="publication-abstract">
+      <h2>Abstract</h2>
+      <p>{{ page.abstract }}</p>
+    </div>
+    {%- endif -%}
+
+    {%- if page.topics and page.topics.size > 0 -%}
+    <div class="publication-topics">
+      <strong>Topics:</strong>
+      {%- for topic in page.topics -%}
+        <span class="topic-tag">{{ topic }}</span>
+      {%- endfor -%}
+    </div>
+    {%- endif -%}
+
+    {%- if page.projects and page.projects.size > 0 -%}
+    <div class="publication-projects">
+      <strong>Projects:</strong>
+      {%- for proj_slug in page.projects -%}
+        {%- assign proj = site.projects | where_exp: "p", "p.path contains proj_slug" | first -%}
+        {%- if proj -%}
+          <a href="{{ proj.url | relative_url }}" class="topic-tag project-tag">{{ proj.title }}</a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+    {%- endif -%}
+
+    {{ content }}
+
+    <p class="publication-back"><a href="{{ "/publications/" | relative_url }}">&larr; All Publications</a></p>
+
+  </div>
+</article>
+
+{%- comment -%} BibTeX generated dynamically from frontmatter — no bibtex field needed {%- endcomment -%}
+<pre id="bibtex-{{ pub_slug }}" style="display:none">@{{ bib_type }}{{ ob }}{{ pub_slug }},
+  title     = {{ ob }}{{ page.title }}},
+  author    = {{ ob }}{{ bib_authors }}},
+{%- if page.venue_type == "journal" %}
+  journal   = {{ ob }}{{ page.venue }}},
+{%- elsif page.venue_type == "preprint" %}
+  howpublished = {{ ob }}arXiv preprint},
+{%- else %}
+  booktitle = {{ ob }}{{ page.venue }}},
+{%- endif %}
+  year      = {{ ob }}{{ page.year }}},{%- if page.doi and page.doi != "" %}
+  doi       = {{ ob }}{{ page.doi }}},{%- endif %}
+}</pre>
+
+<script>
+function downloadBibtex(slug) {
+  var pre = document.getElementById('bibtex-' + slug);
+  if (!pre) return;
+  var blob = new Blob([pre.textContent], {type: 'text/plain;charset=utf-8'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement('a');
+  a.href = url;
+  a.download = slug + '.bib';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+</script>

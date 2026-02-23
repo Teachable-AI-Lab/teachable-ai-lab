@@ -1,5 +1,7 @@
 ---
 name: Jiehui Kwa
+first_name: "Jiehui"
+last_name: "Kwa"
 role: MS-HCI Student
 profile_pic: images/jiehuipic.JPG
 email: jhkwa97@gatech.edu

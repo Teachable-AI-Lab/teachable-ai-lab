@@ -1,5 +1,7 @@
 ---
 name: Harshil Thakur
+first_name: "Harshil"
+last_name: "Thakur"
 role: Undergraduate Student
 profile_pic: /images/harshil_profile.jpg
 email: ht377@drexel.edu

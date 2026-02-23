@@ -1,5 +1,7 @@
 ---
 name: Qiao Zhang
+first_name: "Qiao"
+last_name: "Zhang"
 role: PhD Student
 order: 3
 profile_pic: images/qiao_profile.jpeg

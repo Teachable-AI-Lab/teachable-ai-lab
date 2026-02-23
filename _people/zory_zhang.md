@@ -1,5 +1,7 @@
 ---
 name: Zory Zhang
+first_name: "Zory"
+last_name: "Zhang"
 role: Undergraduate Intern
 order: 1
 profile_pic: images/zory_avatar.jpeg
