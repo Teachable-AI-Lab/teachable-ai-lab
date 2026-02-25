@@ -19,8 +19,9 @@ website_url: ""
 award: ""
 topics:
   - Interactive Task Learning
-  - Language
+  - Large Language Models
+  - Human-AI Interaction
 projects:
   - val
-abstract: ""
+abstract: "We present a system for interpretable, symbolic, interactive task learning from dialog using a GPT model as a conversational front-end. The learned tasks are represented as hierarchical decompositions of predicate-argument structures with scoped variable arguments. By using a GPT model to convert interactive dialog into a semantic representation, and then recursively asking for definitions of unknown steps, we show that hierarchical task knowledge can be acquired and re-used in a natural and unrestrained conversational environment. We compare our system to a similar architecture using a more conventional parser and show that our system tolerates a much wider variety of linguistic variance."
 ---
