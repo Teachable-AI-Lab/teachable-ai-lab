@@ -29,8 +29,8 @@ poster_url: ""
 website_url: ""
 award: ""
 topics:
-  - Vision
-  - Cognitive Systems
+  - Computer Vision
+  - Sparse Coding
 projects:
   - pocus-ai
 abstract: ""
