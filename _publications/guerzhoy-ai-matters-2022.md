@@ -16,7 +16,11 @@ date: 2022-01-01
 venue: "AI Matters"
 venue_short: "AI Matters 2022"
 venue_type: journal
+issn: "2372-3483"
 doi: "10.1145/3557785.3557789"
+volume: "8"
+number: "2"
+pages: "16-21"
 pdf_url: "https://sigai.acm.org/static/aimatters/8-2/AIMatters-8-2-04-Guerzhoy.pdf"
 arxiv_url: ""
 video_url: ""

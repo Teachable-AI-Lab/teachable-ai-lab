@@ -13,7 +13,10 @@ date: 2021-01-01
 venue: "Frontiers in Psychology"
 venue_short: "Frontiers in Psychology 2021"
 venue_type: journal
+issn: "1664-1078"
 doi: "10.3389/fpsyg.2021.590290"
+volume: "12"
+pages: "590290"
 pdf_url: ""
 arxiv_url: ""
 video_url: ""

@@ -9,6 +9,7 @@ date: 2017-01-01
 venue: "Doctoral Dissertation, Human-Computer Interaction Institute, Carnegie Mellon University"
 venue_short: "Dissertation 2017"
 venue_type: dissertation
+institution: "Carnegie Mellon University"
 doi: ""
 pdf_url: "https://chrismaclellan.com/media/publications/MacLellan-Camera-Ready.pdf"
 arxiv_url: ""

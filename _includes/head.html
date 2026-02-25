@@ -12,14 +12,37 @@
   <meta name="citation_publication_date" content="{{ page.year }}" />
   {%- if page.venue_type == "journal" -%}
   <meta name="citation_journal_title" content="{{ page.venue | escape }}" />
+  {%- if page.issn and page.issn != "" -%}
+  <meta name="citation_issn" content="{{ page.issn }}" />
+  {%- endif -%}
+  {%- elsif page.venue_type == "dissertation" -%}
+  {%- if page.institution and page.institution != "" -%}
+  <meta name="citation_dissertation_institution" content="{{ page.institution | escape }}" />
+  {%- endif -%}
   {%- else -%}
   <meta name="citation_conference_title" content="{{ page.venue | escape }}" />
+  {%- if page.isbn and page.isbn != "" -%}
+  <meta name="citation_isbn" content="{{ page.isbn }}" />
+  {%- endif -%}
   {%- endif -%}
   {%- if page.pdf_url and page.pdf_url != "" -%}
   <meta name="citation_pdf_url" content="{{ page.pdf_url }}" />
   {%- endif -%}
   {%- if page.doi and page.doi != "" -%}
   <meta name="citation_doi" content="{{ page.doi }}" />
+  {%- endif -%}
+  {%- if page.volume and page.volume != "" -%}
+  <meta name="citation_volume" content="{{ page.volume }}" />
+  {%- endif -%}
+  {%- if page.number and page.number != "" -%}
+  <meta name="citation_issue" content="{{ page.number }}" />
+  {%- endif -%}
+  {%- if page.pages and page.pages != "" -%}
+  {%- assign _page_parts = page.pages | split: "-" -%}
+  <meta name="citation_firstpage" content="{{ _page_parts[0] }}" />
+  {%- if _page_parts.size > 1 -%}
+  <meta name="citation_lastpage" content="{{ _page_parts[1] }}" />
+  {%- endif -%}
   {%- endif -%}
   {%- if page.abstract and page.abstract != "" -%}
   <meta name="citation_abstract" content="{{ page.abstract | escape }}" />

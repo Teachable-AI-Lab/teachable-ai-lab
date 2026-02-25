@@ -13,7 +13,11 @@ date: 2015-01-01
 venue: "Journal of Computing and Information Science in Engineering"
 venue_short: "JCISE 2015"
 venue_type: journal
+issn: "1944-7078"
 doi: "10.1115/1.4030076"
+volume: "15"
+number: "3"
+pages: "031007"
 pdf_url: "https://chrismaclellan.com/media/publications/dinar-2015.pdf"
 arxiv_url: ""
 video_url: ""

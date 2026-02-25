@@ -17,6 +17,8 @@ layout: default
   {%- assign bib_type = "article" -%}
 {%- elsif page.venue_type == "preprint" -%}
   {%- assign bib_type = "misc" -%}
+{%- elsif page.venue_type == "dissertation" -%}
+  {%- assign bib_type = "phdthesis" -%}
 {%- else -%}
   {%- assign bib_type = "inproceedings" -%}
 {%- endif -%}
@@ -71,7 +73,6 @@ layout: default
       {%- if page.website_url and page.website_url != "" -%}
         <a class="pub-link" href="{{ page.website_url }}">[Website]</a>
       {%- endif -%}
-      <button class="pub-link bibtex-btn" onclick="downloadBibtex('{{ pub_slug }}')">[BibTeX]</button>
     </div>
 
     {%- if page.abstract and page.abstract != "" -%}
@@ -104,38 +105,46 @@ layout: default
 
     {{ content }}
 
+    <div class="publication-bibtex">
+      <h2>BibTeX</h2>
+      <div class="bibtex-box">
+        <button class="bibtex-copy-btn" onclick="copyBibtex('{{ pub_slug }}')">Copy</button>
+        <pre id="bibtex-{{ pub_slug }}">@{{ bib_type }}{{ ob }}{{ pub_slug }},
+  title     = {{ ob }}{{ page.title }}},
+  author    = {{ ob }}{{ bib_authors }}},{%- if page.venue_type == "journal" %}
+  journal   = {{ ob }}{{ page.venue }}},{%- if page.volume and page.volume != "" %}
+  volume    = {{ ob }}{{ page.volume }}},{%- endif %}{%- if page.number and page.number != "" %}
+  number    = {{ ob }}{{ page.number }}},{%- endif %}{%- if page.pages and page.pages != "" %}
+  pages     = {{ ob }}{{ page.pages }}},{%- endif %}{%- elsif page.venue_type == "preprint" %}
+  howpublished = {{ ob }}arXiv preprint},{%- elsif page.venue_type == "dissertation" %}
+  school    = {{ ob }}{{ page.institution }}},{%- else %}
+  booktitle = {{ ob }}{{ page.venue }}},{%- if page.pages and page.pages != "" %}
+  pages     = {{ ob }}{{ page.pages }}},{%- endif %}{%- endif %}
+  year      = {{ ob }}{{ page.year }}},{%- if page.doi and page.doi != "" %}
+  doi       = {{ ob }}{{ page.doi }}},{%- endif %}
+}</pre>
+      </div>
+    </div>
+
     <p class="publication-back"><a href="{{ "/publications/" | relative_url }}">&larr; All Publications</a></p>
 
   </div>
 </article>
 
-{%- comment -%} BibTeX generated dynamically from frontmatter — no bibtex field needed {%- endcomment -%}
-<pre id="bibtex-{{ pub_slug }}" style="display:none">@{{ bib_type }}{{ ob }}{{ pub_slug }},
-  title     = {{ ob }}{{ page.title }}},
-  author    = {{ ob }}{{ bib_authors }}},
-{%- if page.venue_type == "journal" %}
-  journal   = {{ ob }}{{ page.venue }}},
-{%- elsif page.venue_type == "preprint" %}
-  howpublished = {{ ob }}arXiv preprint},
-{%- else %}
-  booktitle = {{ ob }}{{ page.venue }}},
-{%- endif %}
-  year      = {{ ob }}{{ page.year }}},{%- if page.doi and page.doi != "" %}
-  doi       = {{ ob }}{{ page.doi }}},{%- endif %}
-}</pre>
-
 <script>
-function downloadBibtex(slug) {
+function copyBibtex(slug) {
   var pre = document.getElementById('bibtex-' + slug);
   if (!pre) return;
-  var blob = new Blob([pre.textContent], {type: 'text/plain;charset=utf-8'});
-  var url = URL.createObjectURL(blob);
-  var a = document.createElement('a');
-  a.href = url;
-  a.download = slug + '.bib';
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
+  navigator.clipboard.writeText(pre.textContent).then(function() {
+    var btn = document.querySelector('.bibtex-copy-btn');
+    var orig = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(function() { btn.textContent = orig; }, 2000);
+  }).catch(function() {
+    var range = document.createRange();
+    range.selectNode(pre);
+    window.getSelection().removeAllRanges();
+    window.getSelection().addRange(range);
+  });
 }
 </script>

@@ -11,6 +11,7 @@ date: 2018-01-01
 venue: "Advances in Cognitive Systems"
 venue_short: "Advances in Cognitive Systems 2018"
 venue_type: journal
+issn: "2324-8416"
 doi: ""
 pdf_url: "https://chrismaclellan.com/media/publications/maclellan-2018.pdf"
 arxiv_url: ""

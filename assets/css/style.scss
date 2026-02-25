@@ -315,3 +315,41 @@ $base-font-family: 'Lato', sans-serif;
     a { color: #2a7ae2; }
 }
 
+.publication-bibtex {
+    margin: 24px 0;
+    h2 { font-size: 1.1em; margin-bottom: 8px; }
+}
+
+.bibtex-box {
+    position: relative;
+
+    pre {
+        background: #f6f8fa;
+        border: 1px solid #e1e4e8;
+        border-radius: 6px;
+        padding: 16px;
+        font-size: 0.82em;
+        overflow-x: auto;
+        white-space: pre;
+        margin: 0;
+        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+        color: #24292e;
+        line-height: 1.5;
+    }
+}
+
+.bibtex-copy-btn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    padding: 4px 10px;
+    font-size: 0.8em;
+    background: #fff;
+    border: 1px solid #d0d7de;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #24292f;
+    z-index: 1;
+    &:hover { background: #f0f2f4; }
+}
+
