@@ -18,6 +18,7 @@ poster_url: "https://chrismaclellan.com/media/publications/Sheline-2018-poster.p
 website_url: ""
 award: ""
 topics:
-  - Teachable AI
+  - Human-AI Interaction
+  - Interactive Task Learning
 abstract: "Machine-learning research has historically focused on improving learning algorithms but often neglects the context within which a learning technology is situated, and only minimally evaluates how natural and efficient these systems are for users to interact with. To better investigate these aspects of machine-learning, we introduce a novel experimental methodology, which we refer to as dual-sided, restricted-perception Wizard-of-Oz experiments, and describe a web-based framework for executing them. In classic Wizard-of-Oz experiments, a researcher rapidly tests a hypothetical Artificial Intelligence system with real users by manually simulating its capabilities. We extend this approach to support the prototyping and evaluation of interactive learning systems by instead simulating the learning technology using a naïve experimental participant, who learns the task by receiving the same inputs and outputs as the hypothetical learning system. We present proof-of-concept efforts to use this paradigm to evaluate hypothetical learning systems in the domain of service robotics."
 ---

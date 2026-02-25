@@ -22,8 +22,8 @@ poster_url: ""
 website_url: "http://cogsys.org/journal/volume10/article-10-4.pdf"
 award: ""
 topics:
-  - Cognitive Systems
-  - Human-AI Teaming
+  - Computational Models of Learning
+  - Intelligent Tutoring Systems
 projects:
   - tailor
 abstract: "Evaluating different training interventions to determine which produce the best learning outcomes is one of the main challenges faced by instructional designers. Typically, these designers use A/B experiments to evaluate each intervention; however, it is costly and time consuming to run such studies. To address this issue, we explore how computational models of learning might support designers in reasoning causally about alternative interventions within a fractions tutor. We present an approach for automatically tuning models to specific individuals and show that personalized models make better predictions of students' behavior than generic ones. Next, we conduct simulations to generate counterfactual predictions of performance and learning for two students (high and low performing) in different versions of the fractions tutor. Our approach makes predictions that align with previous human findings, as well as testable predictions that might be evaluated with future human experiments."

@@ -20,7 +20,7 @@ poster_url: ""
 website_url: "https://ceur-ws.org/Vol-1432/sl_pap6.pdf"
 award: ""
 topics:
-  - Student Modeling
+  - Computational Models of Learning
   - Intelligent Tutoring Systems
 abstract: "We discuss methods for evaluating simulated learners associated with four different scientific and practical goals for simulated learners. These goals are to develop a precise theory of learning, to provide a formative test of alternative instructional approaches, to automate authoring of intelligent tutoring systems, and to use as a teachable agent for students to learn by teaching.  For each goal, we discuss methods for evaluating how well a simulated learner achieves that goal. We use SimStudent, a simulated learner theory and software architecture, to illustrate these evaluation methods. We describe, for example, how SimStudent has been evaluated as a theory of student learning by comparing, across four domains, the cognitive models it learns to the hand-authored models. The SimStudent-acquired models generally yield more accurate predictions of student data. We suggest future research into directly evaluating simulated learner predictions of the process of student learning."
 ---
