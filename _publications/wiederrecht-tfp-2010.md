@@ -19,6 +19,6 @@ poster_url: ""
 website_url: ""
 award: ""
 topics:
-  - Programming Languages
-abstract: ""
+  - Intelligent Tutoring Systems
+abstract: "Beginning programmers need to learn more than the syntax of programming languages. They also need to learn how to reason about the programs they write. Thus we believe that beginners will benefit from tools that help them understand their programs, just as they already benefit from IDEs that help them to build and debug their programs. This paper describes a project aimed at automating some of the techniques required to reason about programs in Beginning Student Language (BSL), the first language in DrScheme’s How to Design Programs curriculum [4]. The automation is based on the theorem prover ACL2."
 ---

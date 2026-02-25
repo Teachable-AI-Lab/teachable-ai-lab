@@ -25,5 +25,7 @@ website_url: ""
 award: ""
 topics:
   - Human-AI Teaming
-abstract: ""
+projects:
+  - tailor
+abstract: "In response to calls for research to improve human-machine teaming (HMT), we present a “perspective” paper that explores techniques from computer science that can enhance machine agents for human-machine teams. As part of this paper, we (1) summarize the state of the science on critical team competencies identified for effective HMT, (2) discuss technological gaps preventing machines from fully realizing these competencies, and (3) identify ways that emerging artificial intelligence (AI) capabilities may address these gaps and enhance performance in HMT. We extend beyond extant literature by incorporating recent technologies and techniques and describing their potential for contributing to the advancement of HMT."
 ---

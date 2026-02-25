@@ -9,7 +9,7 @@ authors:
   - {first: "Kenneth R.", last: "Koedinger"}
 year: 2019
 date: 2019-01-01
-venue: "3rd International Conference on Artificial Intelligence + Adaptive Education"
+venue: "Proceedings of the Third International Conference on Artificial Intelligence + Adaptive Education"
 venue_short: "AIAED 2019"
 venue_type: conference
 doi: ""
@@ -21,6 +21,6 @@ website_url: ""
 award: ""
 topics:
   - Intelligent Tutoring Systems
-  - Student Modeling
+  - Computational Models of Learning
 abstract: ""
 ---

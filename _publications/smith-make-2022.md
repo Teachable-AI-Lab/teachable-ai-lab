@@ -20,7 +20,6 @@ website_url: ""
 award: ""
 topics:
   - Computer Vision
-  - Cognitive Systems
   - AI and Medicine
 projects:
   - pocus-ai
