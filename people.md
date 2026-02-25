@@ -16,7 +16,7 @@ title: People
   	<span class="role">{{ person.role }}</span>
   	<a href="{{ person.website }}"><i class="fas fa-home"></i></a>
   	<a href="mailto:{{ person.email }}"><i class="fas fa-envelope"></i></a>
-  	<a href="{{ "/publications/" | relative_url }}?author={{ person_key | url_encode }}" title="View publications"><i class="fas fa-book"></i></a>
+  	<a href="{{ "/publications.html" | relative_url }}?author={{ person_key | url_encode }}" title="View publications"><i class="fas fa-book"></i></a>
 	<p>{{ staff_member.content | markdownify }}</p>
   </div>
 {% endif %}
@@ -36,7 +36,7 @@ title: People
   	<span class="role">{{ person.role }}</span>
   	<a href="{{ person.website }}"><i class="fas fa-home"></i></a>
   	<a href="mailto:{{ person.email }}"><i class="fas fa-envelope"></i></a>
-  	<a href="{{ "/publications/" | relative_url }}?author={{ person_key | url_encode }}" title="View publications"><i class="fas fa-book"></i></a>
+  	<a href="{{ "/publications.html" | relative_url }}?author={{ person_key | url_encode }}" title="View publications"><i class="fas fa-book"></i></a>
 	<p>{{ staff_member.content | markdownify }}</p>
   </div>
 {% endif %}
