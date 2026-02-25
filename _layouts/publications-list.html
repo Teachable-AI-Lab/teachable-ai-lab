@@ -266,6 +266,12 @@ var projectTitles = {
     applyFilters();
   });
 
+  // Pre-filter from URL query parameter (e.g. /publications/?author=First+Last)
+  var urlParams = new URLSearchParams(window.location.search);
+  var authorParam = urlParams.get('author');
+  if (authorParam) {
+    authorSel.value = authorParam;
+  }
   applyFilters();
 })();
 </script>

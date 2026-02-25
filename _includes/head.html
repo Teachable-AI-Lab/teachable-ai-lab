@@ -19,7 +19,7 @@
   {%- if page.institution and page.institution != "" -%}
   <meta name="citation_dissertation_institution" content="{{ page.institution | escape }}" />
   {%- endif -%}
-  {%- else -%}
+  {%- elsif page.venue_type != "preprint" -%}
   <meta name="citation_conference_title" content="{{ page.venue | escape }}" />
   {%- if page.isbn and page.isbn != "" -%}
   <meta name="citation_isbn" content="{{ page.isbn }}" />

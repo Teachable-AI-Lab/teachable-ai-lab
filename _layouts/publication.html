@@ -118,7 +118,9 @@ layout: default
   pages     = {{ ob }}{{ page.pages }}},{%- endif %}{%- elsif page.venue_type == "preprint" %}
   howpublished = {{ ob }}arXiv preprint},{%- elsif page.venue_type == "dissertation" %}
   school    = {{ ob }}{{ page.institution }}},{%- else %}
-  booktitle = {{ ob }}{{ page.venue }}},{%- if page.pages and page.pages != "" %}
+  booktitle = {{ ob }}{{ page.venue }}},{%- if page.volume and page.volume != "" %}
+  volume    = {{ ob }}{{ page.volume }}},{%- endif %}{%- if page.number and page.number != "" %}
+  number    = {{ ob }}{{ page.number }}},{%- endif %}{%- if page.pages and page.pages != "" %}
   pages     = {{ ob }}{{ page.pages }}},{%- endif %}{%- endif %}
   year      = {{ ob }}{{ page.year }}},{%- if page.doi and page.doi != "" %}
   doi       = {{ ob }}{{ page.doi }}},{%- endif %}

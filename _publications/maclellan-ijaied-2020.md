@@ -12,7 +12,7 @@ venue_short: "IJAIED 2020"
 venue_type: journal
 doi: "10.1007/s40593-020-00214-2"
 volume: "32"
-number: "1"
+number: ""
 pages: "76-117"
 issn: "1560-4306"
 pdf_url: "https://link.springer.com/content/pdf/10.1007/s40593-020-00214-2.pdf"
