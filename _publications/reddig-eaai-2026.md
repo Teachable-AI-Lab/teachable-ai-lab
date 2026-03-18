@@ -12,7 +12,7 @@ date: 2026-02-01
 venue: "Proceedings of The 16th Symposium on Educational Advances in Artificial Intelligence"
 venue_short: "EAAI 2026"
 venue_type: symposium
-doi: ""
+doi: 10.1609/aaai.v40i47.41515
 pdf_url: "/files/reddig-eaai-2026.pdf"
 arxiv_url: ""
 video_url: ""
