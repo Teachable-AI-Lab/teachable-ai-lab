@@ -1,0 +1,25 @@
+---
+layout: publication
+scholar_meta: true
+title: "Grounded Concreteness: Human-Like Concreteness Sensitivity in Vision-Language Models"
+authors:
+  - {first: "Aryan", last: "Roy"}
+  - {first: "Zekun", last: "Wang"}
+  - {first: "Christopher J.", last: "MacLellan"}
+year: 2026
+date: 2026-05-05
+venue: "Findings of the association for computational linguistics"
+venue_short: "ACL 2026"
+venue_type: conference
+pages: ""
+doi: ""
+pdf_url: ""
+arxiv_url: "https://arxiv.org/abs/2601.18065"
+video_url: ""
+poster_url: ""
+website_url: ""
+award: ""
+topics:
+  - Large Language Models
+abstract: "Do vision--language models (VLMs) develop more human-like sensitivity to linguistic concreteness than text-only large language models (LLMs) when both are evaluated with text-only prompts? We study this question with a controlled comparison between matched Llama text backbones and their Llama Vision counterparts across multiple model scales, treating multimodal pretraining as an ablation on perceptual grounding rather than access to images at inference. We measure concreteness effects at three complementary levels: (i) output behavior, by relating question-level concreteness to QA accuracy; (ii) embedding geometry, by testing whether representations organize along a concreteness axis; and (iii) attention dynamics, by quantifying context reliance via attention-entropy measures. In addition, we elicit token-level concreteness ratings from models and evaluate alignment to human norm distributions, testing whether multimodal training yields more human-consistent judgments. Across benchmarks and scales, VLMs show larger gains on more concrete inputs, exhibit clearer concreteness-structured representations, produce ratings that better match human norms, and display systematically different attention patterns consistent with increased grounding."
+---
