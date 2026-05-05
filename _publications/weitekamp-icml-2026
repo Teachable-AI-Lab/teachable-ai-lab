@@ -1,0 +1,28 @@
+---
+layout: publication
+scholar_meta: true
+title: "STAND: Data-Efficient and Self-Aware Precondition Induction for Interactive Task Learning"
+authors:
+  - {first: "Daniel", last: "Weitekamp"}
+  - {first: "Glen", last: "Smith"}
+  - {first: "Kenneth R.", last: "Koedinger"}
+  - {first: "Christopher J.", last: "MacLellan"}
+year: 2026
+date: 2026-05-05
+venue: "Proceedings of the Forty-Third International Conference on Machine Learning"
+venue_short: "ICML 2026"
+venue_type: conference
+doi: ""
+pdf_url: ""
+arxiv_url: ""
+video_url: ""
+poster_url: ""
+website_url: ""
+award: ""
+topics:
+  - Interactive Task Learning
+  - Interactive Machine Learning
+  - Data-efficient Machine Learning
+  - Self-aware Learning
+abstract: "In interactive task learning (ITL), AI agents learn new capabilities from limited human instruction provided during task execution. STAND is a new method of data-efficient rule precondition induction specifically designed for these human-in-the-loop training scenarios. A key feature of STAND is its self-awareness of its own learning—it can provide accurate metrics of training progress back to users. STAND beats popular methods like XGBoost, decision trees, random forests, and version spaces at small-data precondition induction tasks, and is highly accurate at estimating when its performance improves on holdout examples. In our evaluations, we find that STAND shows more monotonic improvement than other models with low rates of error recurrence. These features of STAND support a more consistent training experience, enabling human instructors to estimate when they are finished training and providing active-learning support by identifying trouble spots where more training is required."
+---
