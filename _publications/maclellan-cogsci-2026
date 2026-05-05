@@ -1,0 +1,29 @@
+---
+layout: publication
+scholar_meta: true
+title: "A Rational Account of Categorization Based on Information Theory"
+authors:
+  - {first: "Christopher J.", last: "MacLellan"}
+  - {first: "Karthik", last: "Singaravadivelan"}
+  - {first: "Xin", last: "Lian"}
+  - {first: "Zekun", last: "Wang"}
+  - {first: "Pat", last: "Langley"}
+year: 2026
+date: 2026-05-05
+venue: "Proceedings of the 48th Annual Conference of the Cognitive Science Society"
+venue_short: "CogSci 2026"
+venue_type: conference
+pages: ""
+doi: ""
+pdf_url: ""
+arxiv_url: "https://arxiv.org/abs/2603.29895"
+video_url: ""
+poster_url: ""
+website_url: ""
+award: ""
+topics:
+  - Concept Learning
+projects:
+  - cobweb
+abstract: "We present a new theory of categorization based on an information-theoretic rational analysis. To evaluate this theory, we investigate how well it can account for key findings from classic categorization experiments conducted by Hayes-Roth and Hayes-Roth (1977), Medin and Schaffer (1978), and Smith and Minda (1998). We find that it explains the human categorization behavior as well as (or better) than the independent cue and context models (Medin & Schaffer, 1978), the rational model of categorization (Anderson, 1991), and a hierarchical Dirichlet process model (Griffiths et al., 2007)."
+---
