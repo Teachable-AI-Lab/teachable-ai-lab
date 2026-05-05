@@ -38,5 +38,9 @@ award: ""
 topics:
   - Human-AI Interaction
   - AI and Education
+  - Design Guidelines
+  - Adult Learning
+  - Andragogy
+  - Educational Technology
 abstract: "AI-powered educational technologies have demonstrated measurable benefits for learners, but their design and evaluation have largely centered on K-12 contexts. As a result, many AI-supported learning systems remain poorly aligned with the needs, constraints, and goals of adult learners.  To better understand how AI systems function in adult education, this paper examines the deployment of several AI learning technologies developed within a multidisciplinary, national research institute in the United States focused on adult learning and online education. Drawing on longitudinal deployment data, we conducted a reflexive thematic analysis to identify recurring challenges and design considerations across systems. These insights were synthesized into a set of 19 design guidelines intended to inform future AI-supported adult learning technologies. We demonstrate the utility of these guidelines through a heuristic evaluation of the deployed systems.  Lastly, we present a guideline exploration tool that aids in the ideation of technologies by connecting the guidelines to stakeholder statements surfaced in the analysis process."
 ---
