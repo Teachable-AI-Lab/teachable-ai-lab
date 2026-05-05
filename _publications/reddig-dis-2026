@@ -1,0 +1,42 @@
+---
+layout: publication
+scholar_meta: true
+title: "Guidelines for Designing AI Technologies to Support Adult Learning"
+authors:
+  - {first: "Jennifer", last: "Reddig"}
+  - {first: "Glen", last: "Smith"}
+  - {first: "Sanaz A.", last: "Siyahrood"}
+  - {first: "Wesley G.", last: "Morris"}
+  - {first: "Yoojin", last: "Bae"}
+  - {first: "Kaitlyn", last: "Crutcher"}
+  - {first: "John", last: "Kos"}
+  - {first: "Rahul K.", last: "Dass"}
+  - {first: "Jinho", last: "Kim"}
+  - {first: "Momin", last: "Siddiqui"}
+  - {first: "Daniel", last: "Weitekamp"}
+  - {first: "Ploy", last: "Thajchayapong"}
+  - {first: "Sandeep", last: "Kakar"}
+  - {first: "Alex", last: "Endert"}
+  - {first: "Scott", last: "Crossley"}
+  - {first: "Min Kyu", last: "Kim"}
+  - {first: "Chris", last: "Dede"}
+  - {first: "Ashok K.", last: "Goel"}
+  - {first: "Christopher J.", last: "MacLellan"}
+year: 2026
+date: 2026-05-06
+venue: "Proceedings of the 2026 ACM Designing Interactive Systems Conference"
+venue_short: "DIS 2026"
+venue_type: conference
+doi: ""
+pages: ""
+pdf_url: ""
+arxiv_url: ""
+video_url: ""
+poster_url: ""
+website_url: ""
+award: ""
+topics:
+  - Human-AI Interaction
+  - AI and Education
+abstract: "AI-powered educational technologies have demonstrated measurable benefits for learners, but their design and evaluation have largely centered on K-12 contexts. As a result, many AI-supported learning systems remain poorly aligned with the needs, constraints, and goals of adult learners.  To better understand how AI systems function in adult education, this paper examines the deployment of several AI learning technologies developed within a multidisciplinary, national research institute in the United States focused on adult learning and online education. Drawing on longitudinal deployment data, we conducted a reflexive thematic analysis to identify recurring challenges and design considerations across systems. These insights were synthesized into a set of 19 design guidelines intended to inform future AI-supported adult learning technologies. We demonstrate the utility of these guidelines through a heuristic evaluation of the deployed systems.  Lastly, we present a guideline exploration tool that aids in the ideation of technologies by connecting the guidelines to stakeholder statements surfaced in the analysis process."
+---
