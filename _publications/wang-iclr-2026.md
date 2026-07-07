@@ -16,7 +16,7 @@ doi: ""
 pdf_url: ""
 arxiv_url: "https://arxiv.org/abs/2509.23593"
 video_url: ""
-poster_url: ""
+poster_url: "https://iclr.cc/media/PosterPDFs/ICLR%202026/10006476.png"
 website_url: "https://openreview.net/forum?id=zCZcbRsc4g"
 award: ""
 topics:

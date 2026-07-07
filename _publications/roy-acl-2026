@@ -11,13 +11,13 @@ date: 2026-05-05
 venue: "Findings of the association for computational linguistics"
 venue_short: "ACL 2026"
 venue_type: conference
-pages: ""
-doi: ""
-pdf_url: ""
+pages: "41934–41950"
+doi: "10.18653/v1/2026.findings-acl.2081"
+pdf_url: "https://aclanthology.org/2026.findings-acl.2081.pdf"
 arxiv_url: "https://arxiv.org/abs/2601.18065"
 video_url: ""
 poster_url: ""
-website_url: ""
+website_url: "https://aclanthology.org/2026.findings-acl.2081/"
 award: ""
 topics:
   - Large Language Models

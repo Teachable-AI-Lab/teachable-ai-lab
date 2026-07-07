@@ -27,10 +27,10 @@ date: 2026-05-06
 venue: "Proceedings of the 2026 ACM Designing Interactive Systems Conference"
 venue_short: "DIS 2026"
 venue_type: conference
-doi: ""
-pages: ""
+doi: "10.1145/3800645.3813102"
+pages: "2474 - 2496"
 pdf_url: "/files/reddig-dis-2026.pdf"
-arxiv_url: ""
+arxiv_url: "https://arxiv.org/abs/2605.04616"
 video_url: ""
 poster_url: ""
 website_url: ""

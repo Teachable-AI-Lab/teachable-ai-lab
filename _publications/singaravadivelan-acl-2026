@@ -12,13 +12,13 @@ date: 2026-05-05
 venue: "Findings of the association for computational linguistics"
 venue_short: "ACL 2026"
 venue_type: conference
-pages: ""
-doi: ""
-pdf_url: ""
+pages: "35140–35155"
+doi: "10.18653/v1/2026.findings-acl.1753"
+pdf_url: "https://aclanthology.org/2026.findings-acl.1753.pdf"
 arxiv_url: "https://arxiv.org/abs/2604.14489"
 video_url: ""
 poster_url: ""
-website_url: ""
+website_url: "https://aclanthology.org/2026.findings-acl.1753/"
 award: ""
 topics:
   - Concept Learning
