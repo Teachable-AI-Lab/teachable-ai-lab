@@ -11,9 +11,6 @@ comments: false
 <p>
 An interactive search tool to explore design guidelines for AI technologies that support Adult Learners.
 </p>
-<p>
-    <a href="https://doi.org/10.1145/3800645.3813102">Link to Paper</a>
-</p>
 
 <head>
     <meta charset="UTF-8">
@@ -619,14 +616,13 @@ G19,AI tools should foster social connection and community,"My AI tools should h
 
                 return (
                     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
-                        <!----
                         <header className="text-center pt-12 md:pt-16 pb-4">
                             <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight">AI Technology Design Guidelines Explorer</h1>
                             <p className="mt-3 max-w-2xl mx-auto text-lg text-gray-500">An interactive search tool to explore design guidelines
                                 for AI technologies that support Adult Learners.</p>
                             <div className="mt-5 flex justify-center">
                                 <a
-                                    href="https://arxiv.org/pdf/2605.04616"
+                                    href="https://doi.org/10.1145/3800645.3813102"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-2 px-3.5 py-2 text-sm font-semibold text-gray-600 hover:text-indigo-600 bg-white hover:bg-indigo-50/30 border border-gray-200 hover:border-indigo-200 rounded-lg shadow-sm hover:shadow transition-all duration-200"
@@ -642,8 +638,6 @@ G19,AI tools should foster social connection and community,"My AI tools should h
                                 </a>
                             </div>
                         </header>
-                        ---->
-
                         <div className="control-panel rounded-xl border border-gray-200 bg-white/50">
                             <div className="flex justify-between items-center px-5 py-3">
                                 <button
