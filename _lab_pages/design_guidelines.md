@@ -30,16 +30,6 @@ author: Glen Smith
             background-color: #f8fafc;
         }
 
-        .site-header .site-nav .trigger {
-            z-index: 999;
-            position: absolute;
-        }
-
-        .site-header {
-            position: relative;
-            z-index: 1000;
-        }
-
         .page-content .wrapper {
             max-width: initial;
         }
