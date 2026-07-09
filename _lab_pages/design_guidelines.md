@@ -228,14 +228,14 @@ author: Glen Smith
                 '<div>' +
                 '<p style="font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#6366f1;margin-bottom:4px">' + escHtml(card.guidelineCode) + ' &middot; Stakeholder Themes</p>' +
                 '<p style="font-size:.88rem;font-weight:700;color:#1e293b;line-height:1.4">' + escHtml(ideation) + '</p>' +
-                '<p style="font-size:.72rem;color:#94a3b8;margin-top:6px">' + quotes.length + ' stakeholder quote' + (quotes.length !== 1 ? 's' : '') + ' from the field</p>' +
+                '<p style="font-size:.72rem;color:#94a3b8;margin-top:6px">' + quotes.length + ' stakeholder theme' + (quotes.length !== 1 ? 's' : '') + ' derived from field data</p>' +
                 '</div>' +
                 '<button onclick="closeSidebar()" aria-label="Close" style="background:none;border:none;cursor:pointer;color:#64748b;padding:4px;border-radius:6px;flex-shrink:0" onmouseover="this.style.background=\'#f1f5f9\'" onmouseout="this.style.background=\'none\'">' +
                 '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>' +
                 '</button></div>';
             var body = '';
             if (quotes.length === 0) {
-                body = '<p style="color:#94a3b8;font-size:.85rem;font-style:italic">No stakeholder quotes found for this statement.</p>';
+                body = '<p style="color:#94a3b8;font-size:.85rem;font-style:italic">No stakeholder themes found for this statement.</p>';
             } else {
                 body = '<div style="display:flex;flex-direction:column;gap:10px">';
                 quotes.forEach(function (entry) {
@@ -805,7 +805,7 @@ G19,AI tools should foster social connection and community,"My AI tools should h
     </script>
 
     <div id="sb-overlay" onclick="closeSidebar()"></div>
-    <aside id="sb-panel" role="dialog" aria-modal="true" aria-label="Stakeholder quotes">
+    <aside id="sb-panel" role="dialog" aria-modal="true" aria-label="Stakeholder themes">
         <div id="sb-header"></div>
         <div id="sb-body"></div>
     </aside>
