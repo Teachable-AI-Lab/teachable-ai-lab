@@ -27,6 +27,10 @@ comments: false
             background-color: #f8fafc;
         }
 
+        .wrapper {
+            max-width: initial;
+        }
+
         .control-panel {
             backdrop-filter: blur(16px);
             background: rgba(255, 255, 255, 0.92);
