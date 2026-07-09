@@ -14,6 +14,10 @@ $base-font-family: 'Lato', sans-serif;
     .site-nav .page-link {
         line-height: 1.5;
     }
+
+    .site-nav {
+        z-index: 999;
+    }
 }
 
 .list-thumb {
