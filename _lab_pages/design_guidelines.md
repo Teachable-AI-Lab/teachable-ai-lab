@@ -226,7 +226,7 @@ author: Glen Smith
             document.getElementById('sb-header').innerHTML =
                 '<div style="display:flex;align-items:flex-start;justify-content:space-between;gap:12px">' +
                 '<div>' +
-                '<p style="font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#6366f1;margin-bottom:4px">' + escHtml(card.guidelineCode) + ' &middot; Stakeholder Quotes</p>' +
+                '<p style="font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#6366f1;margin-bottom:4px">' + escHtml(card.guidelineCode) + ' &middot; Stakeholder Themes</p>' +
                 '<p style="font-size:.88rem;font-weight:700;color:#1e293b;line-height:1.4">' + escHtml(ideation) + '</p>' +
                 '<p style="font-size:.72rem;color:#94a3b8;margin-top:6px">' + quotes.length + ' stakeholder quote' + (quotes.length !== 1 ? 's' : '') + ' from the field</p>' +
                 '</div>' +
@@ -400,7 +400,7 @@ G1,AI tools should be open about data practices and share governance with learne
 G2,AI tools should be accessible and fit into the busy lives of instructors and learners,My tools should adopt good design principles that make learning accessible to everyone,Cognitive,"Developer, Learner, Researcher",Access
 G2,AI tools should be accessible and fit into the busy lives of instructors and learners,"I should be able to access AI help on a phone, with or without internet, and it should be affordable",Cognitive,"Developer, Instructor, Learner",Access
 G2,AI tools should be accessible and fit into the busy lives of instructors and learners,"I (an adult) have limited time and resources, and learning needs to to fit into my life",Cognitive,"Instructor, Learner, Researcher",Access
-G2,AI tools should be accessible and fit into the busy lives of instructors and learners,"I think AI's ability to provide extra help anytime anywhere makes it ""super human""",Cognitive,Learner,Access
+G2,AI tools should be accessible and fit into the busy lives of instructors and learners,"I think AI's ability to provide extra help anytime anywhere makes it "super human"",Cognitive,Learner,Access
 G3,AI tools should be informed by learning science and learning theories,I think learning technologies should be informed by learning science and learning theories,Cognitive,"Developer, Researcher",Low Learning
 G4,AI tools should be easy to understand and frictionless to use,The AI tool has a big learning curve and I need an introduction / tutorial on what it can do and how to use it,Cognitive,"Instructor, Learner","Low Engagement, Access"
 G4,AI tools should be easy to understand and frictionless to use,"I need an AI tool that works without errors and is easy for me to understand quickly, or I won't use it (because my time is better spent elsewhere)",Cognitive,"Developer, Instructor, Learner","Low Engagement, Access"
@@ -750,7 +750,7 @@ G19,AI tools should foster social connection and community,"My AI tools should h
                                                         </div>
                                                         <button onClick={() => openSidebar(card)} className="flex items-center gap-1.5 text-xs font-semibold text-gray-300 hover:text-white hover:bg-gray-700 px-2 py-1 rounded-lg transition-colors border border-transparent flex-shrink-0 ml-auto whitespace-nowrap">
                                                             <svg className="flex-shrink-0" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /></svg>
-                                                            <span>Stakeholder Quotes</span>
+                                                            <span>Stakeholder Themes</span>
                                                         </button>
                                                     </div>
                                                     <div className="p-6 flex-grow"><p
