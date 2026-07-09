@@ -7,7 +7,6 @@ permalink: /design_guidelines/
 author: Glen Smith
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -136,6 +135,8 @@ author: Glen Smith
 </head>
 
 <body class="antialiased text-gray-800">
+
+   {%- include header.html -%}
 
     <div id="root"></div>
 
