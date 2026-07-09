@@ -1,16 +1,14 @@
 ---
-layout: post
 title:  AI Technology Design Guideline Explorer
+excerpt: "An interactive search tool to explore design guidelines for AI technologies that support Adult Learners."
 date:   2026-07-09
 categories: aloe
 permalink: /design_guidelines/
 author: Glen Smith
-comments: false
 ---
 
-<p>
-An interactive search tool to explore design guidelines for AI technologies that support Adult Learners.
-</p>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -810,3 +808,4 @@ G19,AI tools should foster social connection and community,"My AI tools should h
     </aside>
 </body>
 
+</html>
