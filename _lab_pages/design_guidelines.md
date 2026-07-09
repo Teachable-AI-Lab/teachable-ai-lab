@@ -30,6 +30,16 @@ author: Glen Smith
             background-color: #f8fafc;
         }
 
+        .site-header .site-nav .trigger {
+            z-index: 999;
+            position: absolute;
+        }
+
+        .site-header {
+            position: relative;
+            z-index: 1000;
+        }
+
         .page-content .wrapper {
             max-width: initial;
         }
@@ -809,6 +819,9 @@ G19,AI tools should foster social connection and community,"My AI tools should h
         <div id="sb-header"></div>
         <div id="sb-body"></div>
     </aside>
+
+{%- include footer.html -%}
+
 </body>
 
 </html>
