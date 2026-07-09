@@ -27,7 +27,7 @@ comments: false
             background-color: #f8fafc;
         }
 
-        .wrapper {
+        .page-content .wrapper {
             max-width: initial;
         }
 
