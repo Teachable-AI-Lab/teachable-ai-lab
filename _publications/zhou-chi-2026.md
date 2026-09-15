@@ -1,7 +1,7 @@
 ---
 layout: publication
 scholar_meta: true
-title: "When Should Users Check? A Decision-Theoretic Model of Confirmation Frequency in Multi-Step AI Agent Tasks"
+title: "When Should Users Check? Modeling Confirmation Frequency in Multi-Step Agentic AI Tasks"
 authors:
   - {first: "Jieyu", last: "Zhou"}
   - {first: "Aryan", last: "Roy"}
