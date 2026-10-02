@@ -21,10 +21,8 @@ poster_url: ""
 website_url: ""
 award: ""
 topics:
-  - Compositionality
-  - Diffusion
+  - AI Education
 projects:
-  - cobweb
 abstract: >-
   Introductory artificial intelligence (AI) courses present significant learning challenges due to abstract concepts, mathematical complexity, and students' diverse technical backgrounds. This paper presents an experience report examining the redesign of in-class instructional time in a university-level Introduction to Artificial Intelligence course, inspired by CS Unplugged approaches. We redesigned the summer offering, integrating embodied, unplugged simulations, collaborative programming labs, and structured reflection to provide students with a first-person perspective on AI decision-making. We maintained identical assignments, exams, and assessments as the traditional lecture-based offering. We found that students in the redesigned course reported higher attendance, stronger agreement that assessments measured their understanding, and greater overall course effectiveness, despite no significant differences in self-reported learning. Post-course interviews indicate that unplugged simulations and collaboration fostered a safe, supportive learning environment that increased engagement and confidence with AI concepts. These results highlight the importance of in-class instructional design in improving students' learning experiences without compromising rigor.
 ---
