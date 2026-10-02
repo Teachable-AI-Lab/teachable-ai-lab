@@ -7,7 +7,7 @@ authors:
   - {first: "Anant", last: "Gupta"}
   - {first: "Christopher J.", last: "MacLellan"}
 year: 2026
-date: 2026-10-06
+date: 2026-12-08
 venue: "Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems"
 venue_short: "NeurIPS 2026"
 venue_type: conference
