@@ -1,7 +1,7 @@
 ---
 layout: publication
 scholar_meta: true
-title: "Trust Region Continual Learning is also a Meta-Learner"
+title: "Trust Region Continual Learning as an Implicit Meta-Learner"
 authors:
   - {first: "Zekun", last: "Wang"}
   - {first: "Anant", last: "Gupta"}
