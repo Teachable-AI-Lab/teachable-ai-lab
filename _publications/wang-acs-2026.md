@@ -20,7 +20,7 @@ poster_url: ""
 website_url: ""
 award: ""
 topics:
-  - Concept Formation
+  - Concept Learning
 projects:
   - cobweb
 abstract: "Humans organize knowledge into a taxonomy of concepts with nested levels of abstraction and a _basic level_ at which people recognize and name objects with the least cognitive effort. Cobweb is a classic cognitive account of this ability, an incremental learner that builds a probabilistic concept hierarchy by maximizing category utility. We argue that diffusion models, although designed for image synthesis, implicitly perform the same computation. The noisy marginals of a diffusion model are Gaussian smoothings of the data distribution, and the modes of these marginals form a hierarchy that corresponds to a Cobweb tree of probabilistic prototypes in four respects. Both are hierarchical density models, both are hierarchical-Bayesian models with Gaussian prototypes, both treat categorization as score-following that reduces uncertainty, and in both a basic level emerges. We locate this basic level for a diffusion model at an intermediate noise level, where recent analyses show that the reverse process commits to the class identity of a sample. The two models differ mainly in how they represent and learn the taxonomy. Cobweb learns a discrete tree incrementally, whereas a diffusion model encodes a continuous, interpolable hierarchy in a single learned score field fit to the data distribution. We test the correspondence on MNIST and Fashion-MNIST by recovering the diffusion hierarchy through mode-finding and comparing the basic levels of the two models. This reframes diffusion as a cognitive model of concept formation and offers Cobweb a continuous, scalable instantiation."
