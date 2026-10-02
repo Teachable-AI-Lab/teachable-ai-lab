@@ -13,7 +13,7 @@ venue: "Proceedings of the Fourteenth International Conference on Learning Repre
 venue_short: "ICLR 2026"
 venue_type: conference
 doi: ""
-pdf_url: ""
+pdf_url: "https://proceedings.iclr.cc/paper_files/paper/2026/file/ae90d88755e0eaeb9121712fbac4e8de-Paper-Conference.pdf"
 arxiv_url: "https://arxiv.org/abs/2509.23593"
 video_url: ""
 poster_url: "https://iclr.cc/media/PosterPDFs/ICLR%202026/10006476.png"
