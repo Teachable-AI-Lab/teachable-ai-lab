@@ -7,7 +7,7 @@ authors:
   - {first: "Jennifer", last: "Reddig"}
   - {first: "Adit", last: "Gupta"}
   - {first: "Momin", last: "Siddiqui"}
-  - {first: "Elias", last: "Izmirilian"}
+  - {first: "Elias", last: "Izmirlian"}
   - {first: "Christopher J.", last: "MacLellan"}
 year: 2026
 date: 2026-07-07
