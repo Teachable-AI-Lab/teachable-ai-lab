@@ -5,7 +5,7 @@ title: "Trust Region Continual Learning is also a Meta-Learner"
 authors:
   - {first: "Zekun", last: "Wang"}
   - {first: "Anant", last: "Gupta"}
-  - {first: "Christopher", last: "MacLellan"}
+  - {first: "Christopher J.", last: "MacLellan"}
 year: 2026
 date: 2026-10-06
 venue: "Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems"
