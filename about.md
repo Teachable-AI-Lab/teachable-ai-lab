@@ -4,6 +4,11 @@ title: About
 permalink: /index.html
 ---
 
+> **Notice:** We are **not accepting PhD students this cycle** and do not
+> currently work with high school students. High school students interested in
+> research at Georgia Tech should see the [K-12 student resources][gt k12]
+> page.
+
 ### Who we are
 
 The Teachable AI Lab (or TAIL for short) is an interdisciplinary research group
@@ -67,6 +72,7 @@ to apply to work in the lab directly. We will get notified when you submit your
 application and will follow up about available opportunities. If you do follow
 up via email, then please reference your application in the email.
 
+[gt k12]: https://k12.gatech.edu/k-12-resources/k-12-student-resources
 [independent study guide]: https://tail.cc.gatech.edu/independent_study/
 [tail-application]: https://forms.office.com/r/455mrxTSFa
 [lab vision blogpost]: /vision/
