@@ -7,7 +7,8 @@ permalink: /index.html
 > **Notice:** We are **not accepting PhD students this cycle** and do not
 > currently work with high school students. High school students interested in
 > research at Georgia Tech should see the [K-12 student resources][gt k12]
-> page.
+> page. For others interested in getting involved, please see the [independent
+> study guide][independent study guide].
 
 ### Who we are
 
