@@ -6,8 +6,7 @@ permalink: /index.html
 
 > We are **not accepting PhD students this admission cycle**, and high school
 > students should see [these resources][gt k12]. For others interested in
-> getting involved, please see the [independent study guide][independent
-> study guide].
+> getting involved, please see [below](#interested-in-getting-involved).
 
 ### Who we are
 
