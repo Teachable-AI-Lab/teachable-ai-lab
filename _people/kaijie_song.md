@@ -6,7 +6,7 @@ role: Master’s Student
 profile_pic: /images/kaijie_song.png
 email: ksong303@gatech.edu
 website: https://www.linkedin.com/in/kaijie-song-19b279292/
-category: current
+category: past
 ---
 
 Kaijie is a MSCS student.
