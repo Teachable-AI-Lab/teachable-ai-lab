@@ -6,7 +6,7 @@ role: Master's Student
 profile_pic: /images/Neel_profile.png
 email: nshah621@gatech.edu
 website: https://www.linkedin.com/in/neel-shah-209997212/
-category: current
+category: past
 
 ---
 
