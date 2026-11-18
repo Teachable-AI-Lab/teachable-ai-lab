@@ -6,7 +6,7 @@ role: Undergraduate Student
 profile_pic: /images/rida_rehan.JPG
 email: rrehan3@gatech.edu
 website: www.linkedin.com/in/rida-rehan-71a575291
-category: current
+category: past
 
 ---
 
